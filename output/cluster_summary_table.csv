@@ -1,0 +1,7 @@
+chamber,cluster_id,n_legislators,n_democrat,n_republican,n_independent,dominant_party,pct_minority_party,dominant_industry,dominant_industry_r,representative_legislators
+house,0,180,0,179,1,Republican,0.006,Labor Organization,-0.638,Richard Hudson; Pete Stauber; Burgess Owens
+house,1,174,174,0,0,Democrat,0.0,Labor Organization,-0.638,Zoe Lofgren; Ted Lieu; Jake Auchincloss
+senate,0,41,39,0,2,Democrat,0.049,Labor Organization,0.428,Raphael G. Warnock; Maria Cantwell; Tim Kaine
+senate,1,5,0,5,0,Republican,0.0,Labor Organization,0.428,Rick Scott; Eric Schmitt; Tommy Tuberville
+senate,2,9,0,9,0,Republican,0.0,Labor Organization,0.428,Jerry Moran; John Cornyn; Chuck Grassley
+senate,3,20,0,20,0,Republican,0.0,Labor Organization,0.428,John Hoeven; Mike Crapo; Ted Budd

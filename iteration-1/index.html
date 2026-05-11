@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CIDA — Iteration 1</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav>
+  <a class="nav-brand" href="index.html">CIDA</a>
+  <ul class="nav-links">
+    <li><a href="index.html" class="active">Overview</a></li>
+    <li><a href="structure.html">Structure</a></li>
+    <li><a href="overlays.html">Overlays</a></li>
+    <li><a href="interpretation.html">Interpretation</a></li>
+    <li><a href="methodology.html">Methodology</a></li>
+    <li><a href="data.html">Data</a></li>
+  </ul>
+  <span class="nav-tag">118th Congress · Iteration 1</span>
+</nav>
+
+<main>
+  <div class="page-header">
+    <h1>Congressional Interest Dimension Analysis</h1>
+    <p>Discovering latent structure in 118th Congress roll-call voting behavior and characterizing it through external data overlays.</p>
+  </div>
+
+  <!-- Scope -->
+  <section>
+    <h2>Iteration 1 Scope</h2>
+    <p>This iteration applies principal component analysis (PCA) to the full 118th Congress roll-call voting record — 354 House members across 797 discretionary votes, and 85 Senators across 598 votes. The goal is to identify dimensions of voting behavior that are statistically independent of party, verify them against external benchmarks, and characterize them through independent data overlays.</p>
+
+    <div class="stat-grid" style="margin-top:1.25rem;">
+      <div class="stat-card">
+        <div class="stat-value">354</div>
+        <div class="stat-label">House legislators</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">797</div>
+        <div class="stat-label">House votes</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">85</div>
+        <div class="stat-label">Senate legislators</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">598</div>
+        <div class="stat-label">Senate votes</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">7</div>
+        <div class="stat-label">Total components</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">10,140</div>
+        <div class="stat-label">FEC receipt records</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Three-layer framework -->
+  <section>
+    <h2>Three-Layer Framework</h2>
+    <p>Results are organized into three explicitly separated layers with different epistemic weight. Each page on this site maps to one layer or to methodology that underlies all three.</p>
+
+    <div class="card-grid" style="margin-top:1.25rem;">
+      <a class="card l1" href="structure.html">
+        <span class="layer-badge l1">Layer 1</span>
+        <h3>Structural Findings</h3>
+        <p>What the voting data says on its own terms. PCA dimensionality, variance explained, SSA geometry, and comparison against DW-NOMINATE — the established independent benchmark. No labels, no external data sources. Claims are about statistical structure only.</p>
+      </a>
+      <a class="card l2" href="overlays.html">
+        <span class="layer-badge l2">Layer 2</span>
+        <h3>External Overlays</h3>
+        <p>Independent data sources joined to the PCA structure after the fact: Congressional Research Service policy area categories and FEC campaign finance receipts. Each overlay documents its source, join method, and caveats. Correlations are measured, not assumed.</p>
+      </a>
+      <a class="card l3" href="interpretation.html">
+        <span class="layer-badge l3">Layer 3</span>
+        <h3>Analyst Interpretation</h3>
+        <p>Human-provided labels and policy facet annotations. These are editorial, not analytical — they make the structure legible but add no independent evidential weight. Where they conflict with Layer 2 findings, Layer 2 takes precedence.</p>
+      </a>
+    </div>
+  </section>
+
+  <!-- Key findings -->
+  <section>
+    <h2>Key Findings</h2>
+
+    <div class="layer-section l1">
+      <span class="layer-badge l1">Layer 1 — Structure</span>
+      <ul style="margin-top:0.5rem;">
+        <li>House voting decomposes into 4 components above parallel-analysis noise threshold; Senate into 3. Component 0 in both chambers accounts for ~70% of variance and is near-perfectly correlated with party (House r²=0.968).</li>
+        <li>House PC1 shares 46% of variance with DW-NOMINATE Dimension 2 — the established second dimension. It is not fully captured by NOMINATE (54% unexplained).</li>
+        <li><strong>House PC3 is orthogonal to both DW-NOMINATE dimensions</strong> (dim1 r=0.047, dim2 r=−0.057; r²&lt;0.01 for both). This is the most novel structural finding: a dimension of House voting that no established measure captures.</li>
+        <li>Clustering in PCA space (HDBSCAN) produces two House clusters (silhouette 0.765) and four Senate clusters (0.737), both well above the 0.3 threshold.</li>
+      </ul>
+    </div>
+
+    <div class="layer-section l2">
+      <span class="layer-badge l2">Layer 2 — Overlays</span>
+      <ul style="margin-top:0.5rem;">
+        <li>CRS policy area validation: Senate PC1's strongest external correlates are <em>Economics and Public Finance</em> (r=0.527) and <em>Transportation and Public Works</em> (r=0.496) — domestic fiscal categories, not foreign policy. This partially contradicts the analyst "internationalism" label.</li>
+        <li>House PC1 shows a negative relationship with <em>Emergency Management</em> votes (r=−0.501); no single CRS category dominates positively.</li>
+        <li>FEC industry receipts: Labor Organization contributions correlate strongly with House PC0 (r=−0.638, party-aligned). The strongest non-party FEC signal is House PC1 × Membership Organization (r=0.445). Senate FEC correlations are weaker throughout.</li>
+        <li>FEC match rate: 99.3% of legislators in the matrix have matched FEC records.</li>
+      </ul>
+    </div>
+
+    <div class="layer-section l3">
+      <span class="layer-badge l3">Layer 3 — Interpretation</span>
+      <p style="margin-top:0.5rem; font-style:italic; color:var(--text-muted);">Analyst labels are provided as interpretive scaffolding. They are not derived from external data and should be read as hypotheses, not findings. All labels appear in quotation marks throughout this site.</p>
+      <ul style="margin-top:0.5rem;">
+        <li>House components labeled (in order): "Party Alignment," "Internationalism vs. America First," "Security Hawks vs. Civil Libertarians," "Executive Power Skeptics vs. Bipartisan Hawks."</li>
+        <li>Senate components labeled: "Party Alignment," "Internationalism vs. Civil Libertarian Skeptics," "Security Consensus vs. Institutional Skeptics."</li>
+        <li>The "internationalism" label for Senate PC1 is <strong>weakly supported</strong> by Layer 2 data; domestic fiscal alignment is the stronger empirical pattern.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Navigation cards -->
+  <section>
+    <h2>Pages</h2>
+    <div class="card-grid">
+      <a class="card l1" href="structure.html">
+        <span class="layer-badge l1">Layer 1</span>
+        <h3>Structure</h3>
+        <p>PCA components, variance explained, NOMINATE comparison, SSA geometry, clustering.</p>
+      </a>
+      <a class="card l2" href="overlays.html">
+        <span class="layer-badge l2">Layer 2</span>
+        <h3>Overlays</h3>
+        <p>CRS policy area correlations and FEC industry contribution patterns — with full source documentation.</p>
+      </a>
+      <a class="card l3" href="interpretation.html">
+        <span class="layer-badge l3">Layer 3</span>
+        <h3>Interpretation</h3>
+        <p>Analyst-provided labels, Haiku policy facet annotations, and where they agree or diverge with external data.</p>
+      </a>
+      <a class="card neutral" href="methodology.html">
+        <span class="layer-badge" style="background:#f3f4f6;color:#4b5563;border-color:#d1d5db;">Methods</span>
+        <h3>Methodology</h3>
+        <p>Vote filtering, participation thresholds, PCA parameters, FEC acquisition, and pipeline decisions.</p>
+      </a>
+      <a class="card neutral" href="data.html">
+        <span class="layer-badge" style="background:#f3f4f6;color:#4b5563;border-color:#d1d5db;">Data</span>
+        <h3>Data &amp; Outputs</h3>
+        <p>Links to all output CSVs, interactive HTML plots, and the methodology log.</p>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <h2>Limitations of Iteration 1</h2>
+    <ul>
+      <li>Senate sample (n=85) is underpowered; many correlations do not reach significance.</li>
+      <li>FEC industry classification is coarse (organizational type, not sector). District economic controls are absent.</li>
+      <li>House PC3 orthogonality to NOMINATE requires replication across multiple Congresses before it can be treated as a stable finding.</li>
+      <li>Policy facet annotations (Layer 3) were designed after inspecting PCA structure — they are not independent validation.</li>
+      <li>FEC contribution data covers 2022–2024 cycles only; temporal alignment with 2023–2024 voting is approximate.</li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  CIDA Iteration 1 · 118th Congress (2023–2024) · Generated 2026-05-11
+  &nbsp;·&nbsp; <a href="https://github.com">Source</a>
+</footer>
+
+</body>
+</html>

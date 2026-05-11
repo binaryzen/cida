@@ -1,0 +1,12 @@
+{
+  "step": 1,
+  "name": "Acquire GovTrack",
+  "status": "ok",
+  "message": "All data acquired successfully",
+  "values": {
+    "legislators": 536,
+    "house_votes": 1241,
+    "senate_votes": 691,
+    "total_positions": 607881
+  }
+}

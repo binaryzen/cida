@@ -1,0 +1,30 @@
+# Secrets
+.env
+
+# Large data files (not tracked)
+data/votes.db
+data/fec_bulk/
+
+# Plotly HTML outputs (~5 MB each; regenerable via pipeline)
+output/*.html
+
+# Numpy binary matrices (regenerable)
+output/*.npy
+
+# Intermediate annotation files
+output/annotation_batches/
+output/annotation_results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

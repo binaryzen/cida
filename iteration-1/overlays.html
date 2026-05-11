@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Overlays — CIDA Iteration 1</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <nav>
+    <a class="nav-brand" href="index.html">CIDA</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Overview</a></li>
+      <li><a href="structure.html">Structure</a></li>
+      <li><a href="overlays.html" class="active">Overlays</a></li>
+      <li><a href="interpretation.html">Interpretation</a></li>
+      <li><a href="methodology.html">Methodology</a></li>
+      <li><a href="data.html">Data</a></li>
+    </ul>
+    <span class="nav-tag">118th Congress · Iteration 1</span>
+  </nav>
+
+  <main>
+    <div class="page-header">
+      <span class="layer-badge l2">Layer 2 — External Overlays</span>
+      <h1>External Data Overlays</h1>
+      <p>Two independent external data sources joined to the PCA structure to validate and contextualize latent dimensions. Each overlay is documented with source, join method, limitations, and findings.</p>
+    </div>
+
+    <!-- ==================== OVERLAY 1: CRS POLICY AREAS ==================== -->
+    <section class="overlay-section">
+      <h2>Overlay 1: Congressional Research Service Policy Areas</h2>
+
+      <div class="note">
+        <h3>Source & Method</h3>
+        <p><strong>Source:</strong> Congressional Research Service policy area categories assigned to legislation in the 118th Congress.</p>
+        <p><strong>Join:</strong> The <code>vote_crs</code> table in the SQLite database links <code>vote_id</code> to policy area categories. For each legislator and each policy area, we compute the mean position across all votes in that category, then correlate these mean positions with each legislator's PCA component scores.</p>
+        <p><strong>What it tests:</strong> Whether externally-assigned policy categories (created independent of voting behavior analysis) predict position in latent vote space. Significant correlations suggest that the latent dimensions capture meaningful policy content.</p>
+        <p><strong>Sample size:</strong> n=354 House members, n=85 Senators with complete voting records.</p>
+      </div>
+
+      <h3>House: Non-Party Component Correlations</h3>
+
+      <h4>PC1 (Non-Party Dimension)</h4>
+      <table class="correlation-table">
+        <thead>
+          <tr>
+            <th>Policy Category</th>
+            <th>Correlation</th>
+            <th>p-value</th>
+            <th>Significance</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Emergency Management</td>
+            <td class="num neg">−0.501</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Civil Rights and Liberties</td>
+            <td class="num pos">0.227</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Economics and Public Finance</td>
+            <td class="num neg">−0.197</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Crime and Law Enforcement</td>
+            <td class="num pos">0.194</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Immigration</td>
+            <td class="num pos">0.183</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Foreign Trade and International Finance</td>
+            <td class="num pos">0.167</td>
+            <td class="num">0.002</td>
+            <td>**</td>
+          </tr>
+          <tr>
+            <td>Taxation</td>
+            <td class="num pos">0.167</td>
+            <td class="num">0.002</td>
+            <td>**</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h4>PC2</h4>
+      <table class="correlation-table">
+        <thead>
+          <tr>
+            <th>Policy Category</th>
+            <th>Correlation</th>
+            <th>p-value</th>
+            <th>Significance</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Energy</td>
+            <td class="num pos">0.175</td>
+            <td class="num">0.001</td>
+            <td>**</td>
+          </tr>
+          <tr>
+            <td>Crime and Law Enforcement</td>
+            <td class="num pos">0.160</td>
+            <td class="num">0.003</td>
+            <td>**</td>
+          </tr>
+          <tr>
+            <td>Foreign Trade</td>
+            <td class="num pos">0.135</td>
+            <td class="num">0.011</td>
+            <td>*</td>
+          </tr>
+          <tr>
+            <td>Immigration</td>
+            <td class="num pos">0.109</td>
+            <td class="num">0.041</td>
+            <td>*</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h4>PC3</h4>
+      <table class="correlation-table">
+        <thead>
+          <tr>
+            <th>Policy Category</th>
+            <th>Correlation</th>
+            <th>p-value</th>
+            <th>Significance</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Immigration</td>
+            <td class="num pos">0.135</td>
+            <td class="num">0.011</td>
+            <td>*</td>
+          </tr>
+          <tr>
+            <td>Crime and Law Enforcement</td>
+            <td class="num pos">0.130</td>
+            <td class="num">0.014</td>
+            <td>*</td>
+          </tr>
+          <tr>
+            <td>Finance and Financial Sector</td>
+            <td class="num pos">0.108</td>
+            <td class="num">0.043</td>
+            <td>*</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>Senate: Non-Party Component Correlations</h3>
+
+      <h4>PC1 (Dominant Dimension)</h4>
+      <table class="correlation-table">
+        <thead>
+          <tr>
+            <th>Policy Category</th>
+            <th>Correlation</th>
+            <th>p-value</th>
+            <th>Significance</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Economics and Public Finance</td>
+            <td class="num pos">0.527</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Transportation and Public Works</td>
+            <td class="num pos">0.496</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Public Lands and Natural Resources</td>
+            <td class="num pos">0.452</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Commerce</td>
+            <td class="num pos">0.429</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Water Resources Development</td>
+            <td class="num pos">0.299</td>
+            <td class="num">0.005</td>
+            <td>**</td>
+          </tr>
+          <tr>
+            <td>Social Welfare</td>
+            <td class="num neg">−0.303</td>
+            <td class="num">0.005</td>
+            <td>**</td>
+          </tr>
+          <tr>
+            <td>Taxation</td>
+            <td class="num neg">−0.241</td>
+            <td class="num">0.027</td>
+            <td>*</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h4>PC2</h4>
+      <table class="correlation-table">
+        <thead>
+          <tr>
+            <th>Policy Category</th>
+            <th>Correlation</th>
+            <th>p-value</th>
+            <th>Significance</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Commerce</td>
+            <td class="num pos">0.510</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Water Resources Development</td>
+            <td class="num pos">0.400</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Taxation</td>
+            <td class="num pos">0.158</td>
+            <td class="num">0.150</td>
+            <td>ns</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="finding l2">
+        <h4>Key Finding: Senate PC1 Content</h4>
+        <p>The Senate's dominant non-party dimension is strongly predicted by categories representing domestic fiscal and infrastructure policy: Economics, Transportation, Commerce, and Natural Resources. <strong>International affairs, foreign trade, and global economic relationships are notably absent from the top correlates.</strong> This contradicts the informal analyst label "internationalism" applied to this dimension. The data suggests Senate PC1 is more accurately characterized as a <strong>domestic economic/infrastructure orientation</strong> than international engagement.</p>
+      </div>
+
+      <div class="caveat">
+        <h4>Caveats</h4>
+        <ul>
+          <li><strong>CRS assignment is ex-post.</strong> Policy area categories are assigned by CRS after legislation is enacted, not prospectively. Categorization may reflect the content of final votes rather than underlying intent.</li>
+          <li><strong>One-to-many join:</strong> A single vote may be tagged with multiple policy areas. The mean-position-per-area calculation treats each area equally regardless of co-occurrence patterns.</li>
+          <li><strong>Conceptual alignment:</strong> CRS categories are designed for legislative indexing, not behavioral analysis. A strong correlation with an external policy category does not prove the component "is about" that policy.</li>
+        </ul>
+      </div>
+
+      <p><strong>Data file:</strong> See <code>output/crs_validation.csv</code> for the complete correlation table.</p>
+    </section>
+
+    <!-- ==================== OVERLAY 2: FEC CAMPAIGN FINANCE ==================== -->
+    <section class="overlay-section">
+      <h2>Overlay 2: FEC Campaign Finance Receipts</h2>
+
+      <div class="note">
+        <h3>Source & Method</h3>
+        <p><strong>Source:</strong> FEC bulk download files, Schedule A (committee-to-candidate contributions) for election cycles 2022 and 2024. Files: <code>pas2{22,24}.zip</code> and <code>cm{22,24}.zip</code> from <code>fec.gov/files/bulk-downloads/</code>.</p>
+        <p><strong>Join:</strong> Candidate ID (<code>CAND_ID</code>) from Schedule A is matched to legislator bioguide ID via the <code>fec_candidate_id</code> field in the legislators table. Committee organizational type (<code>ORG_TP</code>, with <code>CMTE_TP</code> as fallback) provides organizational/industry classification. Contribution amounts are aggregated by legislator and organizational category, then log1p-transformed before correlation with PCA component scores.</p>
+        <p><strong>Match rate:</strong> 99.3% of House and Senate members in the PCA matrix have matched FEC records.</p>
+        <p><strong>Records:</strong> 10,140 industry-aggregated receipt records across both cycles and chambers.</p>
+        <p><strong>Organizational categories:</strong> Corporation, Labor Organization, Trade Association, Membership Organization, Cooperative, Corp w/o Capital Stock, Non-connected PAC, Multi-candidate PAC, Super PAC, Party—national, Party—state, and others.</p>
+      </div>
+
+      <h3>Strongest FEC Correlations by Component</h3>
+
+      <h4>House: Party-Aligned Component (PC0)</h4>
+      <p>The dominant component strongly correlates with party affiliation. FEC data confirms expected donation patterns:</p>
+      <table class="correlation-table">
+        <thead>
+          <tr>
+            <th>Organizational Type</th>
+            <th>Correlation</th>
+            <th>p-value</th>
+            <th>Interpretation</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Labor Organization</td>
+            <td class="num neg">−0.638</td>
+            <td class="num">< 0.001</td>
+            <td>Democrats receive more (strongest signal overall)</td>
+          </tr>
+          <tr>
+            <td>Super PAC (hybrid)</td>
+            <td class="num neg">−0.347</td>
+            <td class="num">< 0.001</td>
+            <td>Democrats receive more</td>
+          </tr>
+          <tr>
+            <td>Trade Association</td>
+            <td class="num pos">0.208</td>
+            <td class="num">< 0.001</td>
+            <td>Republicans receive more</td>
+          </tr>
+          <tr>
+            <td>Corporation</td>
+            <td class="num pos">0.140</td>
+            <td class="num">0.008</td>
+            <td>Republicans receive more</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h4>House: Non-Party Component 1 (PC1)</h4>
+      <p>This dimension shows the strongest non-party FEC signal in the analysis:</p>
+      <table class="correlation-table">
+        <thead>
+          <tr>
+            <th>Organizational Type</th>
+            <th>Correlation</th>
+            <th>p-value</th>
+            <th>Significance</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Membership Organization</td>
+            <td class="num pos">0.445</td>
+            <td class="num">< 0.001</td>
+            <td>*** (strongest non-party FEC signal)</td>
+          </tr>
+          <tr>
+            <td>Corporation</td>
+            <td class="num pos">0.360</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Trade Association</td>
+            <td class="num pos">0.319</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Super PAC (hybrid)</td>
+            <td class="num pos">0.311</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Corp w/o Capital Stock</td>
+            <td class="num pos">0.259</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h4>House: Non-Party Component 2 (PC2)</h4>
+      <table class="correlation-table">
+        <thead>
+          <tr>
+            <th>Organizational Type</th>
+            <th>Correlation</th>
+            <th>p-value</th>
+            <th>Significance</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Membership Organization</td>
+            <td class="num pos">0.367</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Trade Association</td>
+            <td class="num pos">0.319</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Corporation</td>
+            <td class="num pos">0.246</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h4>House: Non-Party Component 3 (PC3)</h4>
+      <table class="correlation-table">
+        <thead>
+          <tr>
+            <th>Organizational Type</th>
+            <th>Correlation</th>
+            <th>p-value</th>
+            <th>Significance</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Super PAC (hybrid)</td>
+            <td class="num pos">0.341</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Party—state (NQ)</td>
+            <td class="num pos">0.329</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+          <tr>
+            <td>Super PAC (non-contrib)</td>
+            <td class="num pos">0.293</td>
+            <td class="num">< 0.001</td>
+            <td>***</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h4>Senate: Party-Aligned Component (PC0)</h4>
+      <p>Senate donation patterns are inverted relative to House (due to sign convention in PC0). Labor organizations show the strongest correlation:</p>
+      <table class="correlation-table">
+        <thead>
+          <tr>
+            <th>Organizational Type</th>
+            <th>Correlation</th>
+            <th>p-value</th>
+            <th>Interpretation</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Labor Organization</td>
+            <td class="num pos">0.428</td>
+            <td class="num">< 0.001</td>
+            <td>Democrats receive more (sign flipped due to PC0 orientation)</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h4>Senate: Non-Party Components (PC1, PC2)</h4>
+      <p>Most FEC correlations for non-party Senate components do not reach statistical significance (n=85 is underpowered for FEC analysis). These should be treated as exploratory only.</p>
+
+      <div class="finding l2">
+        <h4>Key Finding: Membership Organization Signal in House PC1</h4>
+        <p>The strongest non-party FEC signal in the entire analysis is <strong>House PC1 correlated with Membership Organization receipts (r = 0.445, p<0.001).</strong> Legislators on the positive side of House PC1 receive more contributions from membership-based organizations (unions, professional associations, advocacy groups). This suggests the latent dimension may reflect organizational base—membership-based stakeholders are associated with a distinct voting pattern independent of party.</p>
+      </div>
+
+      <div class="caveat">
+        <h4>Caveats & Limitations</h4>
+        <ul>
+          <li><strong>Organizational type ≠ industry sector.</strong> The <code>ORG_TP</code> field classifies the <em>contributing committee's organizational form</em> (e.g., a corporate-sponsored PAC), not the underlying industry of the donor's business. A "Corporation" entry may represent finance, energy, tech, pharma, or any sector. This is a coarse proxy for interest alignment and should not be interpreted as sectoral prediction.</li>
+          <li><strong>No geographic or incumbency controls.</strong> Correlations are unadjusted for confounding factors. Districts with higher union membership may elect more Democrats independently of any alignment between voting behavior and union contributions. Causal inference is not possible from these correlations alone.</li>
+          <li><strong>Temporal mismatch.</strong> Contributions are aggregated across the 2022 and 2024 election cycles. Voting behavior analyzed is from 2023–2024 Congressional sessions. Whether contributions preceded or followed voting decisions is unknown. Multi-cycle aggregation obscures these temporal dynamics.</li>
+          <li><strong>Senate underpowered.</strong> With n=85, the Senate sample is too small for reliable FEC analysis. Most non-party component correlations do not reach significance. Results are exploratory and should not drive substantive interpretation without independent validation.</li>
+          <li><strong>Selection effects.</strong> Legislators seeking higher office may attract different funding profiles. Candidates in competitive races may raise more money overall. Neither effect is controlled.</li>
+        </ul>
+      </div>
+
+      <p><strong>Data file:</strong> See <code>output/interest_correlation_table.csv</code> for the complete FEC correlation table.</p>
+      <p><strong>Interactive plots:</strong>
+        <ul style="margin: 0.5rem 0 0 1rem;">
+          <li><a href="../output/interest_correlation_heatmap_house.html" target="_blank">House FEC correlation heatmap</a></li>
+          <li><a href="../output/interest_correlation_heatmap_senate.html" target="_blank">Senate FEC correlation heatmap</a></li>
+        </ul>
+      </p>
+    </section>
+
+    <!-- ==================== CROSS-OVERLAY COMPARISON ==================== -->
+    <section class="overlay-section">
+      <h2>Cross-Overlay Comparison: Where CRS and FEC Align</h2>
+
+      <p>The two overlays provide different perspectives on the same latent dimensions. Alignment and divergence offer clues about what each dimension represents:</p>
+
+      <h3>House PC1: Membership Organizations + Policy Content</h3>
+      <p><strong>FEC signal:</strong> Membership Organization receipts (r = 0.445).</p>
+      <p><strong>CRS signal:</strong> Civil Rights and Liberties (r = 0.227), Crime and Law Enforcement (r = 0.194), Immigration (r = 0.183).</p>
+      <p><strong>Interpretation:</strong> The positive side of House PC1 receives funding from membership-based organizations and votes positively on civil rights, crime, and immigration issues. This suggests alignment between advocacy organizations and voting patterns on social policy.</p>
+
+      <h3>House PC2: Trade-Related Policy</h3>
+      <p><strong>CRS signal:</strong> Energy (r = 0.175), Foreign Trade (r = 0.135).</p>
+      <p><strong>FEC signal:</strong> Membership Organization (r = 0.367), Trade Association (r = 0.319), Corporation (r = 0.246).</p>
+      <p><strong>Interpretation:</strong> Legislators on the positive side of PC2 vote on energy and trade matters and receive contributions from business-related organizations (trade associations, corporations, membership groups). This may reflect industry-constituency alignment or substantive interest in regulatory policy.</p>
+
+      <h3>Senate PC1: Economic/Infrastructure Content, Weak FEC Signal</h3>
+      <p><strong>CRS signal:</strong> Economics (r = 0.527), Transportation (r = 0.496), Commerce (r = 0.429)—all domestic.</p>
+      <p><strong>FEC signal:</strong> Weak and non-significant for non-party components.</p>
+      <p><strong>Interpretation:</strong> Senate PC1 is strongly driven by economic and infrastructure policy voting, but this voting pattern does <em>not</em> correlate with any single organizational funding type. The dimension may reflect regional economic interests (agricultural, mining, transportation-dependent states) rather than organizational alignment, or the FEC data is simply too coarse to capture the relevant donor categories.</p>
+
+    </section>
+
+  </main>
+
+  <footer>
+    <p>CIDA Iteration 1 — 118th Congress | <a href="methodology.html">Methodology</a> | <a href="data.html">Data Sources</a></p>
+  </footer>
+
+</body>
+</html>

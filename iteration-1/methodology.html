@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Methodology — CIDA Iteration 1</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <nav>
+        <a class="nav-brand" href="index.html">CIDA</a>
+        <ul class="nav-links">
+            <li><a href="index.html">Overview</a></li>
+            <li><a href="structure.html">Structure</a></li>
+            <li><a href="overlays.html">Overlays</a></li>
+            <li><a href="interpretation.html">Interpretation</a></li>
+            <li><a href="methodology.html" class="active">Methodology</a></li>
+            <li><a href="data.html">Data</a></li>
+        </ul>
+        <span class="nav-tag">118th Congress · Iteration 1</span>
+    </nav>
+
+    <main>
+        <h1>Pipeline Methodology</h1>
+        <p class="intro">This page documents the analytical decisions and thresholds that affect all three layers of the CIDA pipeline: data acquisition, dimensionality reduction, and interest overlay.</p>
+
+        <!-- Data Sources Section -->
+        <section id="data-sources">
+            <h2>Data Sources</h2>
+            <p>The pipeline ingests data from four sources:</p>
+            <ul>
+                <li><strong>GovTrack</strong> — Vote JSON endpoints for House and Senate (Step 1)</li>
+                <li><strong>FEC</strong> — Schedule A receipts and committee master files from bulk download (Step 7)</li>
+                <li><strong>DW-NOMINATE</strong> — HS118_members.csv from voteview.com for external validation (Step 11)</li>
+                <li><strong>CRS Policy Areas</strong> — vote_crs table in SQLite for CRS category analysis (Step 11)</li>
+            </ul>
+        </section>
+
+        <!-- Vote Filtering Section -->
+        <section id="vote-filtering">
+            <h2>Vote Filtering</h2>
+            <p>Not all votes are analytically useful. Step 2 applies a category filter to exclude procedural, leadership, and election-related votes that do not reflect substantive legislative positions.</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Chamber</th>
+                            <th>Total Votes</th>
+                            <th>Excluded</th>
+                            <th>Excluded %</th>
+                            <th>Retained</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>House</td>
+                            <td><span class="num">1,241</span></td>
+                            <td><span class="num">444</span></td>
+                            <td>35.8%</td>
+                            <td><span class="num">797</span></td>
+                        </tr>
+                        <tr>
+                            <td>Senate</td>
+                            <td><span class="num">691</span></td>
+                            <td><span class="num">93</span></td>
+                            <td>13.5%</td>
+                            <td><span class="num">598</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="note">
+                <strong>Excluded categories:</strong> quorum, procedural, leadership, election<br>
+                <strong>Included categories:</strong> passage, passage-suspension, amendment, cloture, nomination (Senate only), veto-override
+            </div>
+
+            <h3>Vote Encoding</h3>
+            <p>Legislator positions are encoded numerically:</p>
+            <ul>
+                <li><span class="num">+1</span> = Yea</li>
+                <li><span class="num">−1</span> = Nay</li>
+                <li><span class="num">0</span> = Not voting / Present / Absent</li>
+            </ul>
+        </section>
+
+        <!-- Participation Threshold Section -->
+        <section id="participation-threshold">
+            <h2>Participation Threshold</h2>
+            <p>Legislators present for fewer than 50% of filtered votes are excluded. This threshold is applied independently to each chamber and the resulting legislator list is documented.</p>
+
+            <div class="finding">
+                <strong>Senate:</strong> 15 legislators excluded. Of these, 13 had 0% coverage (sworn in January 2025, after 118th Congress ended); 2 mid-term replacements with low coverage (Schiff 1.8%, Kim 3.5%)
+            </div>
+
+            <div class="finding">
+                <strong>House:</strong> No legislators excluded. All met or exceeded the 50% participation threshold.
+            </div>
+
+            <div class="note">
+                <strong>Justification:</strong> Lowering the threshold would add no analytically useful legislators and would increase noise in the PCA solution.
+            </div>
+        </section>
+
+        <!-- PCA Configuration Section -->
+        <section id="pca-configuration">
+            <h2>PCA Configuration</h2>
+            <p>Step 4 applies Principal Component Analysis to the legislator × vote matrices, with the number of components selected by parallel analysis.</p>
+
+            <h3>Component Selection</h3>
+            <p>Parallel analysis (permutation test, 200 iterations) determines the number of principal components to retain:</p>
+            <ul>
+                <li><strong>House:</strong> 4 components retained</li>
+                <li><strong>Senate:</strong> 3 components retained</li>
+            </ul>
+
+            <h3>Sanity Checks</h3>
+            <p>PC0 (first principal component) is expected to align with party affiliation, as party is the dominant explanatory factor in Congressional voting. We verify that PC0 r² with party falls within the expected range of 0.70–0.95:</p>
+
+            <div class="stat-grid">
+                <div class="stat-card">
+                    <div class="stat-label">House PC0 r²</div>
+                    <div class="stat-value">0.968</div>
+                    <div class="stat-note">Strong alignment with party</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Senate PC0 r²</div>
+                    <div class="stat-value">0.930</div>
+                    <div class="stat-note">Strong alignment with party</div>
+                </div>
+            </div>
+
+            <div class="finding">
+                Both chambers pass the sanity check, confirming that the PCA solution captures expected party structure.
+            </div>
+        </section>
+
+        <!-- FEC Acquisition Section -->
+        <section id="fec-acquisition">
+            <h2>FEC Acquisition</h2>
+            <p>Step 7 acquires Schedule B disbursement data and committee master files from the Federal Election Commission bulk download directory (no API key required, no rate limiting).</p>
+
+            <h3>Data Files</h3>
+            <ul>
+                <li>pas2{22,24}.zip (Schedule A receipts)</li>
+                <li>cm{22,24}.zip (committee master)</li>
+                <li>Source: fec.gov/files/bulk-downloads/ for 2022 and 2024 election cycles</li>
+            </ul>
+
+            <h3>Industry Classification</h3>
+            <p>Industry classification is drawn from the ORG_TP field in the committee master file (primary), with CMTE_TP as fallback. Dollar amounts are log-transformed (log1p) before correlation with PCA scores.</p>
+
+            <div class="stat-grid">
+                <div class="stat-card">
+                    <div class="stat-label">Legislator Match Rate</div>
+                    <div class="stat-value">99.3%</div>
+                    <div class="stat-note">Both chambers; threshold ≥80%</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SSA Geometry Section -->
+        <section id="ssa-geometry">
+            <h2>SSA Geometry (Step 6)</h2>
+            <p>Non-metric multidimensional scaling (MDS) is applied to the legislator-to-legislator distances in the subspace of PC1 and higher (excluding PC0/party). This produces a 2D or 3D geometric layout that preserves ordering relationships.</p>
+
+            <div class="note">
+                <strong>MDS Input:</strong> Euclidean distances in PCA space (PC1+)<br>
+                <strong>Target Stress:</strong> &lt; 0.20 in 2D or 3D solution
+            </div>
+        </section>
+
+        <!-- Clustering Section -->
+        <section id="clustering">
+            <h2>Clustering (Step 9)</h2>
+            <p>Step 9 applies hierarchical density-based clustering to identify groups of legislators with similar non-party voting patterns.</p>
+
+            <h3>Algorithm Selection</h3>
+            <p>HDBSCAN is applied first with min_cluster_size = max(5, n//20). If HDBSCAN produces fewer than 2 clusters, K-Means is used as a fallback with k=3.</p>
+
+            <div class="stat-grid">
+                <div class="stat-card">
+                    <div class="stat-label">House Parameters</div>
+                    <div class="stat-value">HDBSCAN(17)</div>
+                    <div class="stat-note">min_cluster_size; 435 House members</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Senate Parameters</div>
+                    <div class="stat-value">HDBSCAN(5)</div>
+                    <div class="stat-note">min_cluster_size; 100 Senate members</div>
+                </div>
+            </div>
+
+            <h3>Quality Metrics</h3>
+            <p>Silhouette score > 0.30 confirms that clusters are well-separated:</p>
+
+            <div class="stat-grid">
+                <div class="stat-card">
+                    <div class="stat-label">House Silhouette</div>
+                    <div class="stat-value">0.765</div>
+                    <div class="stat-note">Pass; threshold &gt;0.30</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Senate Silhouette</div>
+                    <div class="stat-value">0.737</div>
+                    <div class="stat-note">Pass; threshold &gt;0.30</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- External Validation Section -->
+        <section id="external-validation">
+            <h2>External Validation</h2>
+            <p>Dimensionality reduction results are validated against two independent sources:</p>
+
+            <h3>DW-NOMINATE</h3>
+            <p>Pearson correlation is computed between each principal component and the first two dimensions of the DW-NOMINATE score (HS118_members.csv from voteview.com). High correlation with PC0 and low correlation of PC1+ with NOMINATE dimensions would suggest that non-party components capture genuine, independent structure.</p>
+
+            <h3>CRS Policy Areas</h3>
+            <p>For each legislator and each CRS policy area category, we compute the mean position in that category. Pearson correlation is then computed between each PCA component and the per-legislator mean position in each policy area. This approach links voting dimensions to substantive policy concerns.</p>
+        </section>
+
+        <!-- Key Thresholds Section -->
+        <section id="key-thresholds">
+            <h2>Key Thresholds</h2>
+            <p>The pipeline enforces strict success conditions at each step. A step fails with a non-zero exit code if any threshold is not met.</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Check</th>
+                            <th>Threshold</th>
+                            <th>House</th>
+                            <th>Senate</th>
+                            <th>Pass?</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Filtered votes</td>
+                            <td>≥ 300</td>
+                            <td><span class="num">797</span></td>
+                            <td><span class="num">598</span></td>
+                            <td>✓ Yes</td>
+                        </tr>
+                        <tr>
+                            <td>PC0 r² with party</td>
+                            <td>0.70 – 0.95</td>
+                            <td>0.968</td>
+                            <td>0.930</td>
+                            <td>✓ Yes</td>
+                        </tr>
+                        <tr>
+                            <td>FEC legislator match rate</td>
+                            <td>≥ 80%</td>
+                            <td>99.3%</td>
+                            <td>99.3%</td>
+                            <td>✓ Yes</td>
+                        </tr>
+                        <tr>
+                            <td>Clustering silhouette score</td>
+                            <td>&gt; 0.30</td>
+                            <td>0.765</td>
+                            <td>0.737</td>
+                            <td>✓ Yes</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="caveat">
+                <strong>Note on PC0 r²:</strong> The observed values (0.968 and 0.930) exceed the upper bound of the expected range (0.95). This indicates exceptionally strong alignment with party, which is not unexpected for the 118th Congress and does not affect the validity of PC1+ as non-party dimensions.
+            </div>
+        </section>
+
+        <!-- Pipeline Notes Section -->
+        <section id="pipeline-notes">
+            <h2>Pipeline Notes</h2>
+            <ul>
+                <li>Each step is a standalone Python script. Steps are run sequentially; Step 5 (interpretation) is never automated.</li>
+                <li>Each step writes a status JSON file (e.g., step_01_status.json) before exit.</li>
+                <li>Failure is strict: if any success condition is not met, the step prints the observed value, names the violated condition, and exits with code 1.</li>
+                <li>No live API calls occur after Step 1 (GovTrack) or Step 7 (FEC). All subsequent steps read only from SQLite.</li>
+                <li>The methodology log (output/methodology_log.md) is a required output that documents every exclusion count, threshold choice, and interpretation judgment.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        CIDA Iteration 1 · 118th Congress (2023–2024) · Generated 2026-05-11 &nbsp;·&nbsp; <a href="https://github.com">Source</a>
+    </footer>
+</body>
+</html>

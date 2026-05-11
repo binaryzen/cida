@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Structure — CIDA Iteration 1</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <nav>
+    <a class="nav-brand" href="index.html">CIDA</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Overview</a></li>
+      <li><a href="structure.html" class="active">Structure</a></li>
+      <li><a href="overlays.html">Overlays</a></li>
+      <li><a href="interpretation.html">Interpretation</a></li>
+      <li><a href="methodology.html">Methodology</a></li>
+      <li><a href="data.html">Data</a></li>
+    </ul>
+    <span class="nav-tag">118th Congress · Iteration 1</span>
+  </nav>
+
+  <main>
+    <div class="page-header">
+      <span class="layer-badge l1">Layer 1 — Structural Findings</span>
+      <h1>Voting Structure</h1>
+      <p>Principal component analysis of 118th Congress voting reveals a dominant party-alignment dimension across both chambers, with smaller components capturing non-partisan variation. Comparison against DW-NOMINATE shows that House PC1 overlaps with existing second-dimensional models, while House PC3 represents novel latent structure.</p>
+    </div>
+
+    <!-- Dimensionality Section -->
+    <section id="dimensionality">
+      <h2>Dimensionality</h2>
+      <p>PCA was applied separately to discretionary votes in the House and Senate. Parallel analysis determined the number of components to retain. Below are the matrix dimensions, variance explained, and component loadings for each chamber.</p>
+
+      <!-- House -->
+      <div class="chamber-grid">
+        <div>
+          <h3>House</h3>
+          <div class="stat-grid">
+            <div class="stat-card">
+              <span class="stat-label">Legislators</span>
+              <span class="stat-value">354</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Discretionary votes</span>
+              <span class="stat-value">797</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Components retained</span>
+              <span class="stat-value">4</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Total variance (4 PC)</span>
+              <span class="stat-value">80.0%</span>
+            </div>
+          </div>
+
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Component</th>
+                  <th>Variance explained</th>
+                  <th>r² with party</th>
+                  <th>Notes</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>PC0</strong></td>
+                  <td class="num">70.5%</td>
+                  <td class="num pos">0.968</td>
+                  <td>Party-alignment dimension</td>
+                </tr>
+                <tr>
+                  <td><strong>PC1</strong></td>
+                  <td class="num">6.2%</td>
+                  <td class="num">0.003</td>
+                  <td>Orthogonal to party (see NOMINATE comparison)</td>
+                </tr>
+                <tr>
+                  <td><strong>PC2</strong></td>
+                  <td class="num">1.9%</td>
+                  <td class="num">0.004</td>
+                  <td>Minority variation</td>
+                </tr>
+                <tr>
+                  <td><strong>PC3</strong></td>
+                  <td class="num">1.4%</td>
+                  <td class="num">0.002</td>
+                  <td>Novel structure (see NOMINATE comparison)</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="plot-link"><a href="../output/eigenvalue_spectrum_house.html" target="_blank">→ View scree plot (interactive)</a></p>
+          <p class="plot-link"><a href="../output/pca_space_house.html" target="_blank">→ View PCA space scatter (interactive)</a></p>
+        </div>
+
+        <!-- Senate -->
+        <div>
+          <h3>Senate</h3>
+          <div class="stat-grid">
+            <div class="stat-card">
+              <span class="stat-label">Legislators</span>
+              <span class="stat-value">85</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Discretionary votes</span>
+              <span class="stat-value">598</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Components retained</span>
+              <span class="stat-value">3</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Total variance (3 PC)</span>
+              <span class="stat-value">75.0%</span>
+            </div>
+          </div>
+
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Component</th>
+                  <th>Variance explained</th>
+                  <th>r² with party</th>
+                  <th>Notes</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>PC0</strong></td>
+                  <td class="num">67.4%</td>
+                  <td class="num pos">0.930</td>
+                  <td>Party-alignment dimension</td>
+                </tr>
+                <tr>
+                  <td><strong>PC1</strong></td>
+                  <td class="num">5.4%</td>
+                  <td class="num">0.006</td>
+                  <td>Orthogonal to party</td>
+                </tr>
+                <tr>
+                  <td><strong>PC2</strong></td>
+                  <td class="num">2.2%</td>
+                  <td class="num">0.003</td>
+                  <td>Minority variation (see NOMINATE comparison)</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="plot-link"><a href="../output/eigenvalue_spectrum_senate.html" target="_blank">→ View scree plot (interactive)</a></p>
+          <p class="plot-link"><a href="../output/pca_space_senate.html" target="_blank">→ View PCA space scatter (interactive)</a></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- NOMINATE Comparison Section -->
+    <section id="nominate-comparison">
+      <h2>NOMINATE Comparison</h2>
+      <p>DW-NOMINATE (Poole & Rosenthal) is a canonical methodology for estimating legislator ideal points from voting records. It produces a two-dimensional space, typically interpreted as party (dim1) and procedural/institutional conservatism (dim2). The tables below compare our principal components against NOMINATE dimensions for all legislators with FEC match. This is a <strong>methodology validation</strong>, not an overlay—we use no external data here.</p>
+
+      <!-- House NOMINATE -->
+      <div class="chamber-grid">
+        <div>
+          <h3>House: PCA components vs. NOMINATE</h3>
+          <p><strong>n = 354 matched legislators</strong></p>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Component</th>
+                  <th>NOMINATE dim1 r</th>
+                  <th>NOMINATE dim2 r</th>
+                  <th>dim1 r²</th>
+                  <th>dim2 r²</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>PC0</strong></td>
+                  <td class="num pos">0.982</td>
+                  <td class="num">0.151</td>
+                  <td class="num pos">0.964</td>
+                  <td class="num">0.023</td>
+                </tr>
+                <tr>
+                  <td><strong>PC1</strong></td>
+                  <td class="num">−0.055</td>
+                  <td class="num pos">0.679</td>
+                  <td class="num">0.003</td>
+                  <td class="num pos">0.461</td>
+                </tr>
+                <tr>
+                  <td><strong>PC2</strong></td>
+                  <td class="num">0.061</td>
+                  <td class="num pos">0.474</td>
+                  <td class="num">0.004</td>
+                  <td class="num">0.225</td>
+                </tr>
+                <tr>
+                  <td><strong>PC3</strong></td>
+                  <td class="num">0.047</td>
+                  <td class="num">−0.057</td>
+                  <td class="num">0.002</td>
+                  <td class="num">0.003</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="finding l1">
+            <strong>House PC1 is a transformed view of NOMINATE dim2.</strong> House PC1 shares 46.1% of variance with NOMINATE dim2 (r = 0.679), indicating moderate overlap. However, PC1 is not identical—the remaining 53.9% of House PC1 variance is not explained by NOMINATE dim2, suggesting unique structure in discretionary votes.
+          </div>
+
+          <div class="finding l1">
+            <strong>House PC3 is orthogonal to both NOMINATE dimensions.</strong> PC3 correlates nearly zero with both NOMINATE dim1 (r = 0.047, r² = 0.002) and dim2 (r = −0.057, r² = 0.003). This is the most novel structural finding: a latent voting dimension in the 118th House that existing two-dimensional models do not capture.
+          </div>
+        </div>
+
+        <!-- Senate NOMINATE -->
+        <div>
+          <h3>Senate: PCA components vs. NOMINATE</h3>
+          <p><strong>n = 85 matched senators</strong></p>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Component</th>
+                  <th>NOMINATE dim1 r</th>
+                  <th>NOMINATE dim2 r</th>
+                  <th>dim1 r²</th>
+                  <th>dim2 r²</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>PC0</strong></td>
+                  <td class="num neg">−0.968</td>
+                  <td class="num">−0.364</td>
+                  <td class="num pos">0.937</td>
+                  <td class="num">0.132</td>
+                </tr>
+                <tr>
+                  <td><strong>PC1</strong></td>
+                  <td class="num">−0.080</td>
+                  <td class="num">0.331</td>
+                  <td class="num">0.006</td>
+                  <td class="num">0.110</td>
+                </tr>
+                <tr>
+                  <td><strong>PC2</strong></td>
+                  <td class="num">−0.059</td>
+                  <td class="num pos">0.492</td>
+                  <td class="num">0.003</td>
+                  <td class="num pos">0.242</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <p>In the Senate, PC0 is strongly aligned with NOMINATE dim1 (r² = 0.937), confirming the party-alignment interpretation. Senate PC2 shares 24.2% of variance with NOMINATE dim2, less overlap than House PC1 and suggesting greater chamber-specific structure.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- SSA Geometry Section -->
+    <section id="ssa-geometry">
+      <h2>SSA Geometry</h2>
+      <p>Non-metric multidimensional scaling (MDS) was applied to legislator distances in PC1 + PC2 space (i.e., non-party space). This produces a two- or three-dimensional geometric representation that preserves rank ordering of distances. The resulting geometry reveals party clustering and secondary axes of variation.</p>
+
+      <div class="chamber-grid">
+        <div>
+          <h3>House SSA Pattern</h3>
+          <p>Republicans and Democrats cluster separately along the primary axis. A secondary cross-pattern emerges: Republican legislators show variance primarily along the second axis, while Democratic legislators show variance primarily along the third axis. This indicates that party is a primary structural feature even in non-party PC space, with chamber-specific within-party variation patterns.</p>
+          <p class="plot-link"><a href="../output/ssa_geometry_house.html" target="_blank">→ View interactive MDS geometry (House)</a></p>
+        </div>
+        <div>
+          <h3>Senate SSA Pattern</h3>
+          <p>Senate legislators show stronger within-chamber clustering effects, with smaller within-party variance. The cross-pattern is less pronounced than in the House, reflecting the smaller number of senators and tighter voting discipline.</p>
+          <p class="plot-link"><a href="../output/ssa_geometry_senate.html" target="_blank">→ View interactive MDS geometry (Senate)</a></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Clustering Section -->
+    <section id="clustering">
+      <h2>Clustering</h2>
+      <p>HDBSCAN clustering was applied to legislator coordinates in full PCA space (all retained components). Results show strong cluster separation, as measured by silhouette scores.</p>
+
+      <div class="chamber-grid">
+        <div>
+          <h3>House Clustering</h3>
+          <div class="stat-card" style="margin-bottom: 1rem;">
+            <span class="stat-label">Silhouette score</span>
+            <span class="stat-value pos">0.765</span>
+          </div>
+          <p><strong>2 clusters detected (n = 354 legislators)</strong></p>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Cluster</th>
+                  <th>Size</th>
+                  <th>Composition</th>
+                  <th>Representative members</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Cluster 0</strong></td>
+                  <td class="num">180</td>
+                  <td>179 R, 1 I</td>
+                  <td>Hudson, Stauber, Owens</td>
+                </tr>
+                <tr>
+                  <td><strong>Cluster 1</strong></td>
+                  <td class="num">174</td>
+                  <td>174 D</td>
+                  <td>Lofgren, Lieu, Auchincloss</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p>Clustering is nearly identical to party affiliation, reflecting the dominance of PC0. The high silhouette score (0.765) indicates tight, well-separated clusters.</p>
+          <p class="plot-link"><a href="../output/clusters_final.html" target="_blank">→ View interactive cluster visualization</a></p>
+        </div>
+
+        <div>
+          <h3>Senate Clustering</h3>
+          <div class="stat-card" style="margin-bottom: 1rem;">
+            <span class="stat-label">Silhouette score</span>
+            <span class="stat-value pos">0.737</span>
+          </div>
+          <p><strong>4 clusters detected (n = 85 legislators)</strong></p>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Cluster</th>
+                  <th>Size</th>
+                  <th>Composition</th>
+                  <th>Representative members</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Cluster 0</strong></td>
+                  <td class="num">41</td>
+                  <td>39 D, 2 I</td>
+                  <td>Warnock, Cantwell, Kaine</td>
+                </tr>
+                <tr>
+                  <td><strong>Cluster 1</strong></td>
+                  <td class="num">5</td>
+                  <td>5 R</td>
+                  <td>Scott, Schmitt, Tuberville</td>
+                </tr>
+                <tr>
+                  <td><strong>Cluster 2</strong></td>
+                  <td class="num">9</td>
+                  <td>9 R</td>
+                  <td>Moran, Cornyn, Grassley</td>
+                </tr>
+                <tr>
+                  <td><strong>Cluster 3</strong></td>
+                  <td class="num">20</td>
+                  <td>20 R</td>
+                  <td>Hoeven, Crapo, Budd</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p>Senate clustering reveals substructure within the Republican party, splitting into three clusters while Democrats cluster together as a single unit. This reflects greater within-Republican heterogeneity in voting behavior, captured by PC1 and PC2.</p>
+          <p class="plot-link"><a href="../output/clusters_final.html" target="_blank">→ View interactive cluster visualization</a></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Key Structural Claims Section -->
+    <section id="key-claims">
+      <h2>Key Structural Claims (Layer 1)</h2>
+      <p>The following statements are established facts about 118th Congress voting structure, independent of external overlays or interpretation:</p>
+      <ul>
+        <li><strong>Party is the dominant structural dimension.</strong> PC0 explains 70.5% (House) and 67.4% (Senate) of variance and correlates r² ≥ 0.93 with party affiliation. This is consistent with historical legislative behavior.</li>
+        <li><strong>Non-party structure exists and is chamber-specific.</strong> House and Senate each retain 3–4 components beyond PC0. House PC1–PC3 collectively explain 9.5% of variance; Senate PC1–PC2 explain 7.6%.</li>
+        <li><strong>House PC1 partially overlaps with NOMINATE dim2.</strong> Sharing 46.1% of variance (r = 0.679) confirms methodological validity while identifying 53.9% of House PC1 as novel.</li>
+        <li><strong>House PC3 is orthogonal to NOMINATE.</strong> With r² &lt; 0.01 for both NOMINATE dimensions, PC3 represents latent structure that two-dimensional ideal-point models do not capture.</li>
+        <li><strong>Senate shows within-party heterogeneity.</strong> HDBSCAN detects 4 clusters; Democrats form 1 cluster, Republicans form 3 clusters. This is visible in PC1 and PC2.</li>
+        <li><strong>Geometric structure exhibits party clustering.</strong> Non-metric MDS on PC1+ preserves rank distances and shows clear party separation, with secondary within-party variation axes.</li>
+      </ul>
+    </section>
+
+  </main>
+
+  <footer>CIDA Iteration 1 · 118th Congress (2023–2024) · Generated 2026-05-11 &nbsp;·&nbsp; <a href="https://github.com">Source</a></footer>
+</body>
+</html>

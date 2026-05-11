@@ -1,0 +1,355 @@
+bioguide_id,display_name,party,state,row_idx
+A000055,Robert B. Aderholt,Republican,AL,0
+B001257,Gus M. Bilirakis,Republican,FL,1
+B000490,"Sanford D. Bishop, Jr.",Democrat,GA,2
+B001260,Vern Buchanan,Republican,FL,3
+C000059,Ken Calvert,Republican,CA,4
+C001072,André Carson,Democrat,IN,5
+C001051,John R. Carter,Republican,TX,6
+C001066,Kathy Castor,Democrat,FL,7
+C001080,Judy Chu,Democrat,CA,8
+C001067,Yvette D. Clarke,Democrat,NY,9
+C001061,Emanuel Cleaver,Democrat,MO,10
+C000537,James E. Clyburn,Democrat,SC,11
+C001068,Steve Cohen,Democrat,TN,12
+C001053,Tom Cole,Republican,OK,13
+C001059,Jim Costa,Democrat,CA,14
+C001069,Joe Courtney,Democrat,CT,15
+C001087,"Eric A. ""Rick"" Crawford",Republican,AR,16
+C001063,Henry Cuellar,Democrat,TX,17
+D000096,Danny K. Davis,Democrat,IL,18
+D000197,Diana DeGette,Democrat,CO,19
+D000216,Rosa L. DeLauro,Democrat,CT,20
+D000616,Scott DesJarlais,Republican,TN,21
+D000600,Mario Diaz-Balart,Republican,FL,22
+D000399,Lloyd Doggett,Democrat,TX,23
+F000459,"Charles J. ""Chuck"" Fleischmann",Republican,TN,24
+F000450,Virginia Foxx,Republican,NC,25
+G000559,John Garamendi,Democrat,CA,26
+G000565,Paul A. Gosar,Republican,AZ,27
+G000546,Sam Graves,Republican,MO,28
+G000553,Al Green,Democrat,TX,29
+G000568,H. Morgan Griffith,Republican,VA,30
+G000558,Brett Guthrie,Republican,KY,31
+H001052,Andy Harris,Republican,MD,32
+H001047,James A. Himes,Democrat,CT,33
+H000874,Steny H. Hoyer,Democrat,MD,34
+H001058,Bill Huizenga,Republican,MI,35
+J000288,"Henry C. ""Hank"" Johnson, Jr.",Democrat,GA,36
+J000289,Jim Jordan,Republican,OH,37
+K000009,Marcy Kaptur,Democrat,OH,38
+K000375,William R. Keating,Democrat,MA,39
+K000376,Mike Kelly,Republican,PA,40
+L000560,Rick Larsen,Democrat,WA,41
+L000557,John B. Larson,Democrat,CT,42
+L000566,Robert E. Latta,Republican,OH,43
+L000397,Zoe Lofgren,Democrat,CA,44
+L000491,Frank D. Lucas,Republican,OK,45
+L000562,Stephen F. Lynch,Democrat,MA,46
+M001163,Doris O. Matsui,Democrat,CA,47
+M001157,Michael T. McCaul,Republican,TX,48
+M001177,Tom McClintock,Republican,CA,49
+M001143,Betty McCollum,Democrat,MN,50
+M000312,James P. McGovern,Democrat,MA,51
+M001137,Gregory W. Meeks,Democrat,NY,52
+M001160,Gwen Moore,Democrat,WI,53
+N000002,Jerrold Nadler,Democrat,NY,54
+N000015,Richard E. Neal,Democrat,MA,55
+N000147,Eleanor Holmes Norton,Democrat,DC,56
+P000034,"Frank Pallone, Jr.",Democrat,NJ,57
+P000197,Nancy Pelosi,Democrat,CA,58
+P000597,Chellie Pingree,Democrat,ME,59
+Q000023,Mike Quigley,Democrat,IL,60
+R000395,Harold Rogers,Republican,KY,61
+R000575,Mike Rogers,Republican,AL,62
+S001176,Steve Scalise,Republican,LA,63
+S001145,Janice D. Schakowsky,Democrat,IL,64
+S001183,David Schweikert,Republican,AZ,65
+S001189,Austin Scott,Republican,GA,66
+S000185,"Robert C. ""Bobby"" Scott",Democrat,VA,67
+S001185,Terri A. Sewell,Democrat,AL,68
+S000344,Brad Sherman,Democrat,CA,69
+S001148,Michael K. Simpson,Republican,ID,70
+S000510,Adam Smith,Democrat,WA,71
+S001172,Adrian Smith,Republican,NE,72
+S000522,Christopher H. Smith,Republican,NJ,73
+S001156,Linda T. Sánchez,Democrat,CA,74
+T000193,Bennie G. Thompson,Democrat,MS,75
+T000460,Mike Thompson,Democrat,CA,76
+T000467,Glenn Thompson,Republican,PA,77
+T000469,Paul Tonko,Democrat,NY,78
+T000463,Michael R. Turner,Republican,OH,79
+V000081,Nydia M. Velázquez,Democrat,NY,80
+W000798,Tim Walberg,Republican,MI,81
+W000797,Debbie Wasserman Schultz,Democrat,FL,82
+W000187,Maxine Waters,Democrat,CA,83
+W000806,Daniel Webster,Republican,FL,84
+W000795,Joe Wilson,Republican,SC,85
+W000808,Frederica S. Wilson,Democrat,FL,86
+W000804,Robert J. Wittman,Republican,VA,87
+W000809,Steve Womack,Republican,AR,88
+A000369,Mark E. Amodei,Republican,NV,89
+B001278,Suzanne Bonamici,Democrat,OR,90
+D000617,Suzan K. DelBene,Democrat,WA,91
+M001184,Thomas Massie,Republican,KY,92
+F000454,Bill Foster,Democrat,IL,93
+T000468,Dina Titus,Democrat,NV,94
+H001068,Jared Huffman,Democrat,CA,95
+B001287,Ami Bera,Democrat,CA,96
+B001285,Julia Brownley,Democrat,CA,97
+R000599,Raul Ruiz,Democrat,CA,98
+T000472,Mark Takano,Democrat,CA,99
+V000130,Juan Vargas,Democrat,CA,100
+P000608,Scott H. Peters,Democrat,CA,101
+F000462,Lois Frankel,Democrat,FL,102
+B001282,Andy Barr,Republican,KY,103
+W000812,Ann Wagner,Republican,MO,104
+H001067,Richard Hudson,Republican,NC,105
+M001188,Grace Meng,Democrat,NY,106
+J000294,Hakeem S. Jeffries,Democrat,NY,107
+B001281,Joyce Beatty,Democrat,OH,108
+J000295,David P. Joyce,Republican,OH,109
+P000605,Scott Perry,Republican,PA,110
+W000814,"Randy K. Weber, Sr.",Republican,TX,111
+C001091,Joaquin Castro,Democrat,TX,112
+W000816,Roger Williams,Republican,TX,113
+V000131,Marc A. Veasey,Democrat,TX,114
+P000607,Mark Pocan,Democrat,WI,115
+K000385,Robin L. Kelly,Democrat,IL,116
+S001195,Jason Smith,Republican,MO,117
+C001101,Katherine M. Clark,Democrat,MA,118
+N000188,Donald Norcross,Democrat,NJ,119
+A000370,Alma S. Adams,Democrat,NC,120
+P000609,Gary J. Palmer,Republican,AL,121
+H001072,J. French Hill,Republican,AR,122
+W000821,Bruce Westerman,Republican,AR,123
+D000623,Mark DeSaulnier,Democrat,CA,124
+A000371,Pete Aguilar,Democrat,CA,125
+L000582,Ted Lieu,Democrat,CA,126
+T000474,Norma J. Torres,Democrat,CA,127
+C001103,"Earl L. ""Buddy"" Carter",Republican,GA,128
+L000583,Barry Loudermilk,Republican,GA,129
+A000372,Rick W. Allen,Republican,GA,130
+B001295,Mike Bost,Republican,IL,131
+M001196,Seth Moulton,Democrat,MA,132
+M001194,John R. Moolenaar,Republican,MI,133
+D000624,Debbie Dingell,Democrat,MI,134
+E000294,Tom Emmer,Republican,MN,135
+R000603,David Rouzer,Republican,NC,136
+W000822,Bonnie Watson Coleman,Democrat,NJ,137
+S001196,Elise M. Stefanik,Republican,NY,138
+B001296,Brendan F. Boyle,Democrat,PA,139
+B001291,Brian Babin,Republican,TX,140
+B001292,"Donald S. Beyer, Jr.",Democrat,VA,141
+P000610,Stacey E. Plaskett,Democrat,VI,142
+N000189,Dan Newhouse,Republican,WA,143
+G000576,Glenn Grothman,Republican,WI,144
+K000388,Trent Kelly,Republican,MS,145
+L000585,Darin LaHood,Republican,IL,146
+D000626,Warren Davidson,Republican,OH,147
+C001108,James Comer,Republican,KY,148
+E000296,Dwight Evans,Democrat,PA,149
+S001190,Bradley Scott Schneider,Democrat,IL,150
+B001302,Andy Biggs,Republican,AZ,151
+K000389,Ro Khanna,Democrat,CA,152
+P000613,Jimmy Panetta,Democrat,CA,153
+C001112,Salud O. Carbajal,Democrat,CA,154
+B001300,Nanette Diaz Barragán,Democrat,CA,155
+C001110,J. Luis Correa,Democrat,CA,156
+D000628,Neal P. Dunn,Republican,FL,157
+R000609,John H. Rutherford,Republican,FL,158
+S001200,Darren Soto,Democrat,FL,159
+M001199,Brian J. Mast,Republican,FL,160
+K000391,Raja Krishnamoorthi,Democrat,IL,161
+H001077,Clay Higgins,Republican,LA,162
+J000299,Mike Johnson,Republican,LA,163
+R000606,Jamie Raskin,Democrat,MD,164
+B001301,Jack Bergman,Republican,MI,165
+B001298,Don Bacon,Republican,NE,166
+G000583,Josh Gottheimer,Democrat,NJ,167
+E000297,Adriano Espaillat,Democrat,NY,168
+F000466,Brian K. Fitzpatrick,Republican,PA,169
+S001199,Lloyd Smucker,Republican,PA,170
+K000392,David Kustoff,Republican,TN,171
+G000581,Vicente Gonzalez,Democrat,TX,172
+A000375,Jodey C. Arrington,Republican,TX,173
+J000298,Pramila Jayapal,Democrat,WA,174
+E000298,Ron Estes,Republican,KS,175
+N000190,Ralph Norman,Republican,SC,176
+G000585,Jimmy Gomez,Democrat,CA,177
+C001115,Michael Cloud,Republican,TX,178
+B001306,Troy Balderson,Republican,OH,179
+H001082,Kevin Hern,Republican,OK,180
+M001206,Joseph D. Morelle,Democrat,NY,181
+S001205,Mary Gay Scanlon,Democrat,PA,182
+C001055,Ed Case,Democrat,HI,183
+H001066,Steven Horsford,Democrat,NV,184
+S001211,Greg Stanton,Democrat,AZ,185
+H001090,Josh Harder,Democrat,CA,186
+L000593,Mike Levin,Democrat,CA,187
+N000191,Joe Neguse,Democrat,CO,188
+C001121,Jason Crow,Democrat,CO,189
+H001081,Jahana Hayes,Democrat,CT,190
+S001214,W. Gregory Steube,Republican,FL,191
+M001208,Lucy McBath,Democrat,GA,192
+F000469,Russ Fulcher,Republican,ID,193
+G000586,"Jesús G. ""Chuy"" García",Democrat,IL,194
+C001117,Sean Casten,Democrat,IL,195
+U000040,Lauren Underwood,Democrat,IL,196
+B001307,James R. Baird,Republican,IN,197
+D000629,Sharice Davids,Democrat,KS,198
+T000482,Lori Trahan,Democrat,MA,199
+P000617,Ayanna Pressley,Democrat,MA,200
+S001215,Haley M. Stevens,Democrat,MI,201
+T000481,Rashida Tlaib,Democrat,MI,202
+C001119,Angie Craig,Democrat,MN,203
+O000173,Ilhan Omar,Democrat,MN,204
+S001212,Pete Stauber,Republican,MN,205
+G000591,Michael Guest,Republican,MS,206
+P000614,Chris Pappas,Democrat,NH,207
+V000133,Jefferson Van Drew,Republican,NJ,208
+L000590,Susie Lee,Democrat,NV,209
+O000172,Alexandria Ocasio-Cortez,Democrat,NY,210
+D000631,Madeleine Dean,Democrat,PA,211
+H001085,Chrissy Houlahan,Democrat,PA,212
+M001204,Daniel Meuser,Republican,PA,213
+J000302,John Joyce,Republican,PA,214
+R000610,Guy Reschenthaler,Republican,PA,215
+T000480,William R. Timmons IV,Republican,SC,216
+J000301,Dusty Johnson,Republican,SD,217
+B001309,Tim Burchett,Republican,TN,218
+R000612,John W. Rose,Republican,TN,219
+C001120,Dan Crenshaw,Republican,TX,220
+G000589,Lance Gooden,Republican,TX,221
+F000468,Lizzie Fletcher,Democrat,TX,222
+E000299,Veronica Escobar,Democrat,TX,223
+R000614,Chip Roy,Republican,TX,224
+G000587,Sylvia R. Garcia,Democrat,TX,225
+C001118,Ben Cline,Republican,VA,226
+S001216,Kim Schrier,Democrat,WA,227
+S001213,Bryan Steil,Republican,WI,228
+M001205,Carol D. Miller,Republican,WV,229
+G000592,Jared F. Golden,Democrat,ME,230
+M001210,Gregory F. Murphy,Republican,NC,231
+M000687,Kweisi Mfume,Democrat,MD,232
+T000165,Thomas P. Tiffany,Republican,WI,233
+I000056,Darrell Issa,Republican,CA,234
+S000250,Pete Sessions,Republican,TX,235
+V000129,David G. Valadao,Republican,CA,236
+M001212,Barry Moore,Republican,AL,237
+O000019,Jay Obernolte,Republican,CA,238
+K000397,Young Kim,Republican,CA,239
+J000305,Sara Jacobs,Democrat,CA,240
+B000825,Lauren Boebert,Republican,CO,241
+C001039,Kat Cammack,Republican,FL,242
+F000472,Scott Franklin,Republican,FL,243
+D000032,Byron Donalds,Republican,FL,244
+G000593,Carlos A. Gimenez,Republican,FL,245
+S000168,Maria Elvira Salazar,Republican,FL,246
+W000788,Nikema Williams,Democrat,GA,247
+C001116,Andrew S. Clyde,Republican,GA,248
+H001091,Ashley Hinson,Republican,IA,249
+M001215,Mariannette Miller-Meeks,Republican,IA,250
+F000446,Randy Feenstra,Republican,IA,251
+M001211,Mary E. Miller,Republican,IL,252
+M001214,Frank J. Mrvan,Democrat,IN,253
+S000929,Victoria Spartz,Republican,IN,254
+M000871,Tracey Mann,Republican,KS,255
+A000148,Jake Auchincloss,Democrat,MA,256
+M001136,Lisa C. McClain,Republican,MI,257
+F000470,Michelle Fischbach,Republican,MN,258
+R000305,Deborah K. Ross,Democrat,NC,259
+L000273,Teresa Leger Fernandez,Democrat,NM,260
+G000597,Andrew R. Garbarino,Republican,NY,261
+M000317,Nicole Malliotakis,Republican,NY,262
+T000486,Ritchie Torres,Democrat,NY,263
+B000740,Stephanie I. Bice,Republican,OK,264
+B000668,Cliff Bentz,Republican,OR,265
+M000194,Nancy Mace,Republican,SC,266
+H001086,Diana Harshbarger,Republican,TN,267
+F000246,Pat Fallon,Republican,TX,268
+P000048,August Pfluger,Republican,TX,269
+J000304,Ronny Jackson,Republican,TX,270
+N000026,Troy E. Nehls,Republican,TX,271
+V000134,Beth Van Duyne,Republican,TX,272
+M001213,Blake D. Moore,Republican,UT,273
+O000086,Burgess Owens,Republican,UT,274
+S001159,Marilyn Strickland,Democrat,WA,275
+F000471,Scott Fitzgerald,Republican,WI,276
+T000478,Claudia Tenney,Republican,NY,277
+L000595,Julia Letlow,Republican,LA,278
+C001125,Troy A. Carter,Democrat,LA,279
+S001218,Melanie A. Stansbury,Democrat,NM,280
+E000071,Jake Ellzey,Republican,TX,281
+B001313,Shontel M. Brown,Democrat,OH,282
+C001126,Mike Carey,Republican,OH,283
+F000474,Mike Flood,Republican,NE,284
+F000475,Brad Finstad,Republican,MN,285
+R000579,Patrick Ryan,Democrat,NY,286
+Y000067,Rudy Yakym III,Republican,IN,287
+Z000018,Ryan K. Zinke,Republican,MT,288
+S001220,Dale W. Strong,Republican,AL,289
+C001132,Elijah Crane,Republican,AZ,290
+C001133,Juan Ciscomani,Republican,AZ,291
+K000401,Kevin Kiley,Independent,CA,292
+M001225,Kevin Mullin,Democrat,CA,293
+K000400,Sydney Kamlager-Dove,Democrat,CA,294
+G000598,Robert Garcia,Democrat,CA,295
+P000620,Brittany Pettersen,Democrat,CO,296
+B001314,Aaron Bean,Republican,FL,297
+M001216,Cory Mills,Republican,FL,298
+F000476,Maxwell Frost,Democrat,FL,299
+L000596,Anna Paulina Luna,Republican,FL,300
+L000597,Laurel M. Lee,Republican,FL,301
+M001217,Jared Moskowitz,Democrat,FL,302
+M001218,Richard McCormick,Republican,GA,303
+C001129,Mike Collins,Republican,GA,304
+T000487,Jill N. Tokuda,Democrat,HI,305
+N000193,Zachary Nunn,Republican,IA,306
+J000309,Jonathan L. Jackson,Democrat,IL,307
+R000617,Delia C. Ramirez,Democrat,IL,308
+B001315,Nikki Budzinski,Democrat,IL,309
+S001225,Eric Sorensen,Democrat,IL,310
+H001093,Erin Houchin,Republican,IN,311
+M001220,Morgan McGarvey,Democrat,KY,312
+I000058,Glenn Ivey,Democrat,MD,313
+S001221,Hillary J. Scholten,Democrat,MI,314
+J000307,John James,Republican,MI,315
+T000488,Shri Thanedar,Democrat,MI,316
+A000379,Mark Alford,Republican,MO,317
+B001316,Eric Burlison,Republican,MO,318
+E000235,Mike Ezell,Republican,MS,319
+D000230,Donald G. Davis,Democrat,NC,320
+F000477,Valerie P. Foushee,Democrat,NC,321
+E000246,Chuck Edwards,Republican,NC,322
+K000398,"Thomas H. Kean, Jr.",Republican,NJ,323
+M001226,Robert Menendez,Democrat,NJ,324
+V000136,Gabe Vasquez,Democrat,NM,325
+L000598,Nick LaLota,Republican,NY,326
+G000599,Daniel S. Goldman,Democrat,NY,327
+L000599,Michael Lawler,Republican,NY,328
+L000600,Nicholas A. Langworthy,Republican,NY,329
+L000601,Greg Landsman,Democrat,OH,330
+M001222,Max L. Miller,Republican,OH,331
+S001223,Emilia Strong Sykes,Democrat,OH,332
+B001317,Josh Brecheen,Republican,OK,333
+H001094,Val T. Hoyle,Democrat,OR,334
+S001226,Andrea Salinas,Democrat,OR,335
+L000602,Summer L. Lee,Democrat,PA,336
+D000530,Christopher R. Deluzio,Democrat,PA,337
+M001223,Seth Magaziner,Democrat,RI,338
+F000478,Russell Fry,Republican,SC,339
+O000175,Andrew Ogles,Republican,TN,340
+M001224,Nathaniel Moran,Republican,TX,341
+S001224,Keith Self,Republican,TX,342
+L000603,Morgan Luttrell,Republican,TX,343
+D000594,Monica De La Cruz,Republican,TX,344
+C001130,Jasmine Crockett,Democrat,TX,345
+C001131,Greg Casar,Democrat,TX,346
+H001095,Wesley Hunt,Republican,TX,347
+K000399,Jennifer A. Kiggans,Republican,VA,348
+B001318,Becca Balint,Democrat,VT,349
+G000600,Marie Gluesenkamp Perez,Democrat,WA,350
+V000135,Derrick Van Orden,Republican,WI,351
+H001096,Harriet M. Hageman,Republican,WY,352
+M001227,Jennifer L. McClellan,Democrat,VA,353

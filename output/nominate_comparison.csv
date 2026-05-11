@@ -1,0 +1,15 @@
+chamber,component,component_idx,nominate_dim,pearson_r,p_value,n
+house,party-alignment,0,nominate_dim1,0.982,0.0,354
+house,party-alignment,0,nominate_dim2,0.1508,0.004451,354
+house,internationalism-vs-america-first,1,nominate_dim1,-0.0553,0.299604,354
+house,internationalism-vs-america-first,1,nominate_dim2,0.6789,0.0,354
+house,security-hawks-vs-civil-libertarians,2,nominate_dim1,0.0608,0.254052,354
+house,security-hawks-vs-civil-libertarians,2,nominate_dim2,0.4737,0.0,354
+house,executive-power-skeptics-vs-bipartisan-hawks,3,nominate_dim1,0.0468,0.380409,354
+house,executive-power-skeptics-vs-bipartisan-hawks,3,nominate_dim2,-0.0572,0.282911,354
+senate,party-alignment,0,nominate_dim1,-0.9679,0.0,85
+senate,party-alignment,0,nominate_dim2,-0.3637,0.000622,85
+senate,internationalism-vs-civil-libertarian-skeptics,1,nominate_dim1,-0.0803,0.465241,85
+senate,internationalism-vs-civil-libertarian-skeptics,1,nominate_dim2,0.3308,0.001987,85
+senate,security-consensus-vs-institutional-skeptics,2,nominate_dim1,-0.0588,0.592828,85
+senate,security-consensus-vs-institutional-skeptics,2,nominate_dim2,0.4923,2e-06,85

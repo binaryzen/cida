@@ -1,0 +1,12 @@
+{
+  "house": {
+    "mds_dims": 2,
+    "kruskal_stress": 0.0001,
+    "stress_warning": "no"
+  },
+  "senate": {
+    "mds_dims": 2,
+    "kruskal_stress": 0.0001,
+    "stress_warning": "no"
+  }
+}

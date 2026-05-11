@@ -1,0 +1,798 @@
+vote_id,category,question,date,col_idx
+2023/h23,passage,"H.Res. 5 (118th): Adopting the Rules of the House of Representatives for the One Hundred Eighteenth Congress, and for other purposes.",2023-01-09T19:05:00,0
+2023/h25,passage,H.R. 23 (118th): Family and Small Business Taxpayer Protection Act,2023-01-09T21:23:00,1
+2023/h26,passage,H.Res. 11 (118th): Establishing the Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party.,2023-01-10T16:20:00,2
+2023/h27,passage,H.Res. 12 (118th): Establishing a Select Subcommittee on the Weaponization of the Federal Government as a select investigative subcommittee of the Committee on the Judiciary.,2023-01-10T16:29:00,3
+2023/h29,passage,H.R. 26 (118th): Born-Alive Abortion Survivors Protection Act,2023-01-11T16:29:00,4
+2023/h30,passage,"H.Con.Res. 3 (118th): Expressing the sense of Congress condemning the recent attacks on pro-life facilities, groups, and churches.",2023-01-11T16:38:00,5
+2023/h31,passage,H.R. 22 (118th): Protecting America’s Strategic Petroleum Reserve from China Act,2023-01-12T11:02:00,6
+2023/h37,amendment,H.Amdt. 19 (Tlaib) to H.R. 21: To add the Administrator of the Environmental Protection Agency and the Council on Environmental Quality to the list of officials to be consulted in the Compensatory Production Increase Plan.,2023-01-26T17:23:00,7
+2023/h38,amendment,H.Amdt. 7 (Blunt Rochester) to H.R. 21: To add a new section at the end Rule of Construction with Respect to Greenhouse Gas Emissions to provide that this Act not controvert United States commitment under the Paris Agreement.,2023-01-26T17:27:00,8
+2023/h39,amendment,H.Amdt. 5 (Castor) to H.R. 21: To add a new paragraph within section 2 pertaining to offshore exclusions.,2023-01-26T17:32:00,9
+2023/h40,amendment,H.Amdt. 3 (Pallone) to H.R. 21: To add a paragraph Offshore Exclusions to exclude oil and gas leasing located in the North Atlantic Planning Area.,2023-01-26T17:35:00,10
+2023/h41,amendment,"H.Amdt. 4 (Mace) to H.R. 21: To add a new section that nothing in this Act, shall affect any statutory or regulatory restrictions in effect on the date of enacment of this Act (including any withdrawal of Federal land) that may prohibit oil and gas leasi",2023-01-26T17:38:00,11
+2023/h42,amendment,"H.Amdt. 6 (Greene) to H.R. 21: To make a technical correction to section 2, Compensatory Production Increase Plan.",2023-01-26T17:42:00,12
+2023/h43,amendment,H.Amdt. 13 (Soto) to H.R. 21: To change the effective date to be the date the Secretary submits a certification to Congress that the price of gasoline and diesel fuel will not increase in any Petroleum Administration for Defense District.,2023-01-26T17:45:00,13
+2023/h44,amendment,H.Amdt. 14 (Boebert) to H.R. 21: To reduce the 10 percent leased for oil and gas production and increase it to 15 percent.,2023-01-26T17:48:00,14
+2023/h45,amendment,H.Amdt. 15 (Spanberger) to H.R. 21: To add a new paragraph entitled Offshore Exclusion which shall not include oil and gas leasing in any tract located off the coast of Virginia.,2023-01-26T17:51:00,15
+2023/h46,amendment,"H.Amdt. 20 (Huffman) to H.R. 21: To add a new paragraph, Offshore Exclusions which shall not include oil and gas leasing in any tract located in the Northern California planning area.",2023-01-26T17:54:00,16
+2023/h47,amendment,H.Amdt. 21 (Huffman) to H.R. 21: To exclude any tract of Federal land where oil and gas leasing would decrease land and water available for outdoor recreation from the total increase in the percentage of Federal lands described in paragraph (1) leased fo,2023-01-26T17:57:00,17
+2023/h48,amendment,"H.Amdt. 22 (Panetta) to H.R. 21: To add a new paragraph, Offshore Exclusions, which shall not include oil and gas leasing in any tract located in the Central California planning area.",2023-01-26T18:00:00,18
+2023/h49,amendment,H.Amdt. 23 (Levin) to H.R. 21: To exclude oil and gas leasing in any tract located in the Southern California planning area.,2023-01-26T18:03:00,19
+2023/h50,amendment,H.Amdt. 24 (DelBene) to H.R. 21: To add a new paragraph within section 2 excluding oil and gas leasing in any tract located in the Washington/Oregon planning area.,2023-01-26T18:06:00,20
+2023/h51,amendment,H.Amdt. 26 (Levin) to H.R. 21: To limit Federal land from the plan if it would not provide a fair return taxpayers.,2023-01-26T18:09:00,21
+2023/h52,amendment,H.Amdt. 27 (Grijalva) to H.R. 21: To add a new paragraph at the end of the bill requiring a plan to consult with Tribal governments and other government officials to be included in the plan required by paragraph (1).,2023-01-26T18:12:00,22
+2023/h53,amendment,H.Amdt. 28 (Grijalva) to H.R. 21: To exclude any oil and gas leasing on any Federal land where oil and gas leasing would result in or exacerbate disproportionate burdens on certain communities from the plan required by paragraph (1).,2023-01-26T18:15:00,23
+2023/h54,amendment,H.Amdt. 29 (Grijalva) to H.R. 21: To exclude oil and gas leasing on any Federal lands that are viable for renewable energy production from the plan required in paragraph (1).,2023-01-26T18:18:00,24
+2023/h55,amendment,H.Amdt. 31 (DeGette) to H.R. 21: To add a new subparagraph only allowing for a lease or permit if accompanied by a certification to the Secretary that it would not excessively increase the sales price of any petroleum products during a severe energy supp,2023-01-26T18:21:00,25
+2023/h56,amendment,"H.Amdt. 32 (Torres) to H.R. 21: To change the effective date to be the date the Secretary certifies that the oil and gas leasing on Federal lands is necessary to replenish the Strategic Petroleum Reserve to the amount held on February 23, 2022.",2023-01-26T18:24:00,26
+2023/h57,amendment,H.Amdt. 33 (Gottheimer) to H.R. 21: To add sundry amendments to the bill.,2023-01-26T18:28:00,27
+2023/h58,amendment,"H.Amdt. 34 (Gottheimer) to H.R. 21: To require the Secretary to consult with certain Secretaries about the plan and ensure such plan will not result in the sale of petroleum products drawn down from the Reserve to Iran, China, North Korea, or Russia.",2023-01-26T18:30:00,28
+2023/h59,amendment,H.Amdt. 35 (Cohen) to H.R. 21: To add additional limitations to the plan.,2023-01-26T18:33:00,29
+2023/h60,amendment,H.Amdt. 36 (Garcia) to H.R. 21: To insert a new effective date of paragraph (1) to not take effect until a certification is submitted to Congress that any increase in the percentage of Federal lands leased for oil and gas production will not result in an,2023-01-26T18:37:00,30
+2023/h61,amendment,"H.Amdt. 37 (Lee) to H.R. 21: To add a new paragraph titled Effective Date, stating that the plan will take effect on the date the Secretary certifies that any increase in the percentage of Federal lands leased for oil and gas production would not perpetu",2023-01-27T10:56:00,31
+2023/h62,amendment,H.Amdt. 38 (Payne) to H.R. 21: To add a new section at the end Rule of Construction with Respect to Environmental Justice relating to communities of color and low-wealth communities which face the greatest harms due to climate change and greenhouse gas e,2023-01-27T11:00:00,32
+2023/h63,amendment,H.Amdt. 51 (Wasserman Schultz) to H.R. 21: To exclude the Big Cypress National Reserve.,2023-01-27T11:04:00,33
+2023/h64,amendment,H.Amdt. 52 (Schneider) to H.R. 21: To exclude oil and gas leasing in the Great Lakes from the plan.,2023-01-27T11:07:00,34
+2023/h65,amendment,H.Amdt. 39 (Magaziner) to H.R. 21: To exclude anything in section 2 from being construed as an impact to the authority of the President or Secretary of Energy to initiate a drawdown of petroleum products from the Reserve in order to lower gas prices.,2023-01-27T11:10:00,35
+2023/h66,amendment,H.Amdt. 40 (Magaziner) to H.R. 21: To insert a new effective date of paragraph (1) to not take effect until the date on which the Secretary determines that implementation of paragraph (1) will not negatively affect consumers homes that are heated using h,2023-01-27T11:13:00,36
+2023/h67,amendment,H.Amdt. 42 (Ocasio-Cortez) to H.R. 21: To limit the plan to include the lease of any land for oil or gas production to a company that has purchased an equity security of the company listed on a national securities exchange.,2023-01-27T11:16:00,37
+2023/h68,amendment,"H.Amdt. 43 (Ocasio-Cortez) to H.R. 21: To limit the plan that, if leased for oil and gas production, to not increasing net carbon emissions.",2023-01-27T11:19:00,38
+2023/h69,amendment,H.Amdt. 44 (Ocasio-Cortez) to H.R. 21: To limit the plan where oil and gas leasing would be inconsistent with the goals of the Paris Climate Accords.,2023-01-27T11:22:00,39
+2023/h70,amendment,H.Amdt. 45 (Jackson Lee) to H.R. 21: To include additional language excluding instances when the Secretary may not execute the first drawdown of petroleum products in the Reserve and changes the effective date of the bill.,2023-01-27T11:25:00,40
+2023/h71,amendment,H.Amdt. 46 (Jackson Lee) to H.R. 21: To add a paragraph within Section 2 that paragraph (1) shall not take effect until the Secretary submits to Congress a report on the necessity of acting under the authority of this section to refill the Reserve.,2023-01-27T11:28:00,41
+2023/h72,amendment,H.Amdt. 47 (Ross) to H.R. 21: To add an exclusion paragraph stating that the plan in paragraph (1) shall not include any tracts where oil or gas production would harass or take a North Atlantic Right Whale.,2023-01-27T11:31:00,42
+2023/h73,amendment,"H.Amdt. 48 (Casten) to H.R. 21: To make sundry amendments to the bill and add a subparagraph titled ""Participation by Fossil Industry Entities"".",2023-01-27T11:34:00,43
+2023/h74,amendment,H.Amdt. 49 (Casten) to H.R. 21: To make sundry amendments to the bill.,2023-01-27T11:37:00,44
+2023/h75,amendment,"H.Amdt. 50 (Casten) to H.R. 21: To remove the word ""gas"" from the leasing of oil and gas production.",2023-01-27T11:40:00,45
+2023/h76,amendment,H.Amdt. 53 (Manning) to H.R. 21: To exclude the submerged lands of the Outer Continental Shelf from the plan.,2023-01-27T11:43:00,46
+2023/h77,amendment,H.Amdt. 54 (Scholten) to H.R. 21: To insert language stating that if the Secretary determines a situation exists in which a delay in executing a drawdown of petroleum products in the Reserve in order to comply with paragraph (1) with increase gas prices.,2023-01-27T11:46:00,47
+2023/h78,amendment,H.Amdt. 55 (Lee) to H.R. 21: To add a new subsection within paragraph (2) to increase in Federal lands described in paragraph (1) that have no or low potential for oil and gas development.,2023-01-27T11:49:00,48
+2023/h79,amendment,H.Amdt. 56 (Porter) to H.R. 21: To provide that the plan shall not provide financial benefit to any entity which is allowed any allowance for depletion which is determined under section 613 of the Internal Revenue Code of 1986.,2023-01-27T11:54:00,49
+2023/h80,amendment,"H.Amdt. 57 (Vasquez) to H.R. 21: To add at the end of the bill an effective date section stating that it shall not take effect until the Secretary of Energy, in consultation with the Secretary of the Interior, publishes a report on the number, location, ",2023-01-27T11:57:00,50
+2023/h81,amendment,H.Amdt. 58 (Vasquez) to H.R. 21: To strike all after the enacting clause and insert a section titled Domestic Oil and Gas for the SPR.,2023-01-27T12:00:00,51
+2023/h82,amendment,H.Amdt. 59 (Cicilline) to H.R. 21: To add additional limitations to the plan.,2023-01-27T12:03:00,52
+2023/h83,amendment,H.Amdt. 62 (Takano) to H.R. 21: To add a consideration paragraph stating the Secretary shall consider the number of inactive but approved Federal oil and gas leases and permits to drill issued before the date of enactment of the subsection.,2023-01-27T12:06:00,53
+2023/h84,amendment,H.Amdt. 64 (Castro) to H.R. 21: To add a new subparagraph within paragraph 2 to provide for oil and gas leasing of any Federal lands that have a high concentration of orphaned oil and gas wells.,2023-01-27T12:09:00,54
+2023/h85,amendment,"H.Amdt. 65 (Barragán) to H.R. 21: To exclude any Federal land a boundary of which is within 3,200 feet of a residence, school, or hospital.",2023-01-27T12:12:00,55
+2023/h86,amendment,H.Amdt. 66 (Plaskett) to H.R. 21: To add a new section at the end of the bill Prohibition on Raising Energy Prices which will not increase the average price of energy for American consumers.,2023-01-27T12:15:00,56
+2023/h87,amendment,H.Amdt. 67 (Gluesenkamp Perez) to H.R. 21: To limit leasing in the Washington/Oregon Planning Area if the lease would adversely impact coastal fisheries.,2023-01-27T12:18:00,57
+2023/h88,amendment,"H.Amdt. 68 (Bowman) to H.R. 21: To exclude the participation, including in any lease auction that occurs pursuant to such plan, by any corporation or entity that the Secretary determines contributed to price gouging in the oil and gas sector in 2022.",2023-01-27T12:21:00,58
+2023/h89,amendment,H.Amdt. 71 (Grijalva) to H.R. 21: To add to the end of the bill an additional paragraph that the plan required by paragraph (1) shall not include oil and gas leasing on any protected public lands.,2023-01-27T12:23:00,59
+2023/h90,amendment,H.Amdt. 72 (Jackson) to H.R. 21: To permit the Secretary to delay drawdown if the drawdown will harm national security.,2023-01-27T12:26:00,60
+2023/h91,amendment,H.Amdt. 76 (Lieu) to H.R. 21: To insert language stating that any drawdown that the Secretary determines will result in a net profit for the Federal Government.,2023-01-27T12:29:00,61
+2023/h92,amendment,H.Amdt. 78 (Nickel) to H.R. 21: To permit the Secretary to delay the drawdown if will worsen inflation.,2023-01-27T12:32:00,62
+2023/h93,passage,H.R. 21 (118th): Strategic Production Response Act,2023-01-27T12:40:00,63
+2023/h96,passage,"H.Res. 75 (118th): Providing for consideration of the joint resolution (H.J. Res. 7) relating to a national emergency declared by the President on March 13, 2020; providing for consideration of the bill (H.R. 139) to require Executive agencies to submit ",2023-01-31T14:02:00,64
+2023/h98,passage,H.R. 497 (118th): Freedom for Health Care Workers Act,2023-01-31T17:15:00,65
+2023/h100,passage,H.R. 382 (118th): Pandemic is Over Act,2023-01-31T17:39:00,66
+2023/h102,passage,"H.Res. 83 (118th): Providing for consideration of the concurrent resolution (H. Con. Res. 9) denouncing the horrors of socialism, and providing for consideration of the resolution (H. Res. 76) removing a certain Member from a certain standing committee o",2023-02-01T14:03:00,67
+2023/h103,passage,H.R. 139 (118th): SHOW UP Act of 2023,2023-02-01T16:54:00,68
+2023/h104,passage,"H.J.Res. 7 (118th): Relating to a national emergency declared by the President on March 13, 2020.",2023-02-01T17:05:00,69
+2023/h105,passage,H.Res. 76 (118th): Removing a certain Member from a certain standing committee of the House.,2023-02-02T12:27:00,70
+2023/h106,passage,H.Con.Res. 9 (118th): Denouncing the horrors of socialism.,2023-02-02T12:36:00,71
+2023/h109,passage,"H.Res. 97 (118th): Providing for consideration of the bill (H.R. 185) to terminate the requirement imposed by the Director of the Centers for Disease Control and Prevention for proof of COVID-19 vaccination for foreign travelers, and for other purposes; ",2023-02-07T14:01:00,72
+2023/h110,amendment,H.Amdt. 80 (McGovern) to H.R. 185: To clarify that this legislation will not affect the authority of the Centers for Disease Control and Prevention to mandate vaccination requirements against any other disease in the future for noncitizens who are nonimm,2023-02-08T16:24:00,73
+2023/h111,amendment,H.Amdt. 81 (Boebert) to H.R. 185: To require the CDC to produce a report to Congress on the number of visitors denied entry under this policy.,2023-02-08T16:28:00,74
+2023/h112,amendment,H.Amdt. 82 (Golden) to H.R. 185: To eliminate the prohibition on future rulemaking.,2023-02-08T16:32:00,75
+2023/h113,amendment,H.Amdt. 83 (Rose) to H.R. 185: To clarify that nothing in the underlying bill impacts the CDC order requiring a pre-departure COVID-19 test for people traveling from the People's Republic of China.,2023-02-08T16:36:00,76
+2023/h114,amendment,H.Amdt. 84 (Torres) to H.R. 185: To require the Secretary of the Department of Health and Human Services to certify that such provision will not result in an increase in hospitalizations due to COVID-19 prior to the provisions of section 1 taking effect.,2023-02-08T16:41:00,77
+2023/h116,passage,"H.R. 185 (118th): To terminate the requirement imposed by the Director of the Centers for Disease Control and Prevention for proof of COVID-19 vaccination for foreign travelers, and for other purposes.",2023-02-08T16:55:00,78
+2023/h118,passage,H.J.Res. 24 (118th): Disapproving the action of the District of Columbia Council in approving the Local Resident Voting Rights Amendment Act of 2022.,2023-02-09T11:30:00,79
+2023/h119,passage,H.J.Res. 26 (118th): Disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act of 2022.,2023-02-09T11:37:00,80
+2023/h123,passage,"H.Res. 166 (118th): Providing for consideration of the bill (H.R. 347) to require the Executive Office of the President to provide an inflation estimate with respect to Executive orders with a significant effect on the annual gross budget, and for other ",2023-02-28T14:01:00,81
+2023/h124,passage,"H.J.Res. 30 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Labor relating to “Prudence and Loyalty in Selecting Plan Investments and Exercising Shareholder Right",2023-02-28T17:16:00,82
+2023/h125,amendment,"H.Amdt. 85 (Bost) to H.R. 347: To require that the inflationary report take into account the spending patterns of military personnel, rural areas, and farm households.",2023-03-01T10:37:00,83
+2023/h126,amendment,H.Amdt. 87 (Boebert) to H.R. 347: To require the inflation estimate to be made publicly available by publishing on the OMB website.,2023-03-01T10:43:00,84
+2023/h127,amendment,"H.Amdt. 89 (Jackson Lee) to H.R. 347: To insert into Sec. 2 (a) line 10 ""or"" after ""inflations and Strikes Sec.(a) lines 11-14. To clarify and make consistent with economic policy on inflationary impacts and effects.",2023-03-01T10:47:00,85
+2023/h128,amendment,"H.Amdt. 90 (Jackson Lee) to H.R. 347: To add at the end of section 2(d) the definition to ""significant impact"" in Sec.2 (a). The term significant impact on inflation means an Executive order was estimated to increase or decrease Consumer Price Index infl",2023-03-01T10:50:00,86
+2023/h129,amendment,H.Amdt. 92 (Lee) to H.R. 347: To state that nothing in this bill should be construed to suggest that the task of combating inflation and bringing down the cost of living is the sole responibility of the Executive Office of the President.,2023-03-01T10:55:00,87
+2023/h130,amendment,H.Amdt. 97 (Roy) to H.R. 347: To strike exceptions to the mandatory inflation forecasting requirement.,2023-03-01T11:04:00,88
+2023/h131,passage,H.R. 347 (118th): Reduce Exacerbated Inflation Negatively Impacting the Nation Act,2023-03-01T11:14:00,89
+2023/h135,passage,"H.Res. 199 (118th): Providing for consideration of the bill (H.R. 140) to amend title 5, United States Code, to prohibit Federal employees from advocating for censorship of viewpoints in their official capacity, and for other purposes; providing for cons",2023-03-08T14:02:00,90
+2023/h136,passage,"H.Con.Res. 21 (118th): Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Syria.",2023-03-08T17:56:00,91
+2023/h138,amendment,H.Amdt. 103 (Perry) to H.R. 140: To ensure that federal employees entering into collective bargaining agreements using taxpayer funded time (Section 7131) are prohibited from engaging in censorship of private entities.,2023-03-08T18:12:00,92
+2023/h139,amendment,H.Amdt. 105 (Jackson Lee) to H.R. 140: To strike section 2(e).,2023-03-08T18:17:00,93
+2023/h141,passage,H.R. 140 (118th): Protecting Speech from Government Interference Act,2023-03-09T16:37:00,94
+2023/h142,passage,"H.J.Res. 27 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of the Army, Corps of Engineers, Department of Defense and the Environmental Protection Agency relating t",2023-03-09T16:44:00,95
+2023/h143,passage,S. 619 (118th): COVID-19 Origin Act of 2023,2023-03-10T10:25:00,96
+2023/h147,passage,H.Res. 241 (118th): Providing for consideration of the bill (H.R. 5) to ensure the rights of parents are honored and protected in the Nation’s public schools.,2023-03-23T14:08:00,97
+2023/h150,amendment,"H.Amdt. 115 (Bonamici) to H.R. 5: To include a findings section and sense of Congress regarding public education and rights that parents have access to in public schools. To include titles creating a parent coordinator position in public schools, increas",2023-03-23T18:09:00,98
+2023/h151,amendment,H.Amdt. 116 (Crane) to H.R. 5: To add a private right of action for parents to hold schools accountable for not honoring the rights set forth in Title I and Title II of this bill.,2023-03-23T18:13:00,99
+2023/h152,amendment,H.Amdt. 117 (Davidson) to H.R. 5: To prohibit federal funds unter Title I and Title II from going to a local educational agency unless they hold an open enrollment period.,2023-03-23T18:18:00,100
+2023/h153,amendment,"H.Amdt. 118 (Fitzpatrick) to H.R. 5: To amend the bill to require the Comptroller General of the United States (GAO) to submit a report to Congress on the cost of the requirements of H.R. 5 to SEAs, LEAs, and elementary and secondary schools and requires",2023-03-23T18:22:00,101
+2023/h154,amendment,H.Amdt. 120 (Green) to H.R. 5: To revise the bill to include the right to timely notice of any major cyberattack against their child's school that may have compromised student or parent information.,2023-03-24T10:26:00,102
+2023/h155,amendment,H.Amdt. 122 (Jacobs) to H.R. 5: To strike the provisions relating to reviewing the professional development materials in sections 104 and 202.,2023-03-24T10:30:00,103
+2023/h156,amendment,H.Amdt. 124 (Massie) to H.R. 5: To add a sense of Congress that the authority of the Department of Education and the Secretary of Education to operate or administer any office or program related to elementary or secondary education should be terminated o,2023-03-24T10:34:00,104
+2023/h157,amendment,"H.Amdt. 126 (McCormick) to H.R. 5: To establish parents' right to be informed of non-curriculum-based initiatives and events, and allows parents to opt-in their children to such initiatives and events.",2023-03-24T10:38:00,105
+2023/h158,amendment,"H.Amdt. 128 (Roy) to H.R. 5: To allow Title I funds to follow the students to the school they attend (i.e., public, private, or home school). These funds may be used for educational and instructional materials, tutoring, tuition for private school, and e",2023-03-24T10:42:00,106
+2023/h159,amendment,H.Amdt. 129 (Roy) to H.R. 5: To ensure all funds made available under the Elementary and Secondary Education Act 1965 after the date of the enactment shall be consolidated and awarded to each State.,2023-03-24T10:46:00,107
+2023/h161,passage,H.R. 5 (118th): Parents Bill of Rights Act,2023-03-24T11:02:00,108
+2023/h166,passage,"H.Res. 260 (118th): Providing for consideration of the bill (H.R. 1) to lower energy costs by increasing American energy production, exports, infrastructure, and critical minerals processing, by promoting transparency, accountability, permitting, and pro",2023-03-28T14:05:00,109
+2023/h167,amendment,H.Amdt. 134 (Boebert) to H.R. 1: To add a Sense of Congress expressing disapproval of the denial of Jordan Cove Project permits.,2023-03-29T18:01:00,110
+2023/h168,amendment,H.Amdt. 137 (Hern) to H.R. 1: To express the sense of Congress disapproving of the proposed tax hikes on the oil and natural gas industry in the President's fiscal year 2024 budget request.,2023-03-29T18:07:00,111
+2023/h169,amendment,"H.Amdt. 139 (Jackson) to H.R. 1: To require the EPA, in consultation with the DOE, to submit a report to Congress identifying and assessing existing regulations that have negatively affected domestic energy independence and increased energy cost for Amer",2023-03-29T18:13:00,112
+2023/h170,amendment,H.Amdt. 141 (Molinaro) to H.R. 1: To require a GAO study on how banning natural gas appliances will affect the rates and charges for electricity.,2023-03-29T18:17:00,113
+2023/h171,amendment,"H.Amdt. 142 (Palmer) to H.R. 1: To prohibit the Secretary of Energy from implementing its proposed rule regarding gas stoves, or any other rule that would limit consumer access to gas stoves.",2023-03-29T18:22:00,114
+2023/h172,amendment,"H.Amdt. 143 (Perry) to H.R. 1: To prohibit the Delaware River Basin Commission, Susquehanna River Basin Commission, and the Interstate Commission on the Potomac River Basin from finalizing, implementing, or enforcing any regulations relating to hydraulic",2023-03-29T18:27:00,115
+2023/h173,amendment,H.Amdt. 144 (Perry) to H.R. 1: To repeal section 115 of the Clean Air Act.,2023-03-29T18:31:00,116
+2023/h174,amendment,H.Amdt. 151 (Westerman) to H.R. 1: To prohibit the Communist Party of China (or a person acting on behalf of the Communist Party of China) from acquiring any interest with respect to American farmland or any lands used for American renewable energy produ,2023-03-30T11:01:00,117
+2023/h175,amendment,"H.Amdt. 156 (Leger Fernandez) to H.R. 1: To require each local unit of the Bureau of Land Management, National Park Service, and Forest Service to develop a plan to disseminate and advertise open civil service positions with functions relating to permitt",2023-03-30T11:05:00,118
+2023/h176,amendment,"H.Amdt. 157 (Levin) to H.R. 1: To strike Title V of Division B, to prevent the bill from repealing the Inflation Reduction Act's reforms to the oil and gas leasing program.",2023-03-30T11:10:00,119
+2023/h177,amendment,"H.Amdt. 162 (Ogles) to H.R. 1: To provide that any entity subject to the jurisdiction of the Government of the Peoples Republic of China, or any entity that is owned by the Government of the Peoples Republic of China may not acquire any interest with res",2023-03-30T11:14:00,120
+2023/h178,amendment,H.Amdt. 165 (Perry) to H.R. 1: To add to sec. 20305 an exception for certain actions under the Defense Production Act.,2023-03-30T11:17:00,121
+2023/h179,amendment,H.Amdt. 166 (Smith) to H.R. 1: To require a Government Accountability Office study of sufficiency of the environmental review process for offshore wind.,2023-03-30T11:22:00,122
+2023/h180,amendment,H.Amdt. 167 (Van Drew) to H.R. 1: To require the Government Accountability Office to publish a report on all potential adverse effects of wind energy development in the North Atlantic Planning Area.,2023-03-30T11:27:00,123
+2023/h182,passage,H.R. 1 (118th): Lower Energy Costs Act,2023-03-30T11:43:00,124
+2023/h186,passage,"H.Res. 298 (118th): Providing for consideration of the bill (H.R. 734) to amend the Education Amendments of 1972 to provide that for purposes of determining compliance with title IX of such Act in athletics, sex shall be recognized based solely on a pers",2023-04-18T14:06:00,125
+2023/h188,passage,H.J.Res. 42 (118th): Disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Reform Amendment Act of 2022.,2023-04-19T16:59:00,126
+2023/h190,amendment,"H.Amdt. 169 (Mace) to H.R. 734: To require the Comptroller General carry out a study to determine the meaning of the phrase 'any other benefit' as used in subsection (d)(3) by looking at the adverse psychological, developmental, participatory, and sociol",2023-04-20T10:30:00,127
+2023/h192,passage,H.R. 734 (118th): Protection of Women and Girls in Sports Act of 2023,2023-04-20T10:50:00,128
+2023/h196,passage,"H.Res. 327 (118th): Providing for consideration of the bill (H.R. 2811) to provide for a responsible increase to the debt ceiling, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 39) disapproving the rule submit",2023-04-26T14:07:00,129
+2023/h199,passage,"H.R. 2811 (118th): Limit, Save, Grow Act of 2023",2023-04-26T17:44:00,130
+2023/h201,passage,"H.Con.Res. 30 (118th): Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove all United States Armed Forces, other than United States Armed Forces assigned to protect the United States Embassy, from Somalia.",2023-04-27T16:32:00,131
+2023/h202,passage,"H.J.Res. 39 (118th): Disapproving the rule submitted by the Department of Commerce relating to “Procedures Covering Suspension of Liquidation, Duties and Estimated Duties in Accord With Presidential Proclamation 10414”.",2023-04-28T10:26:00,132
+2023/h206,amendment,H.Amdt. 172 (Roy) to H.Res. 383: An amendment to add a new section to the end of the resolution to amend language in H.R. 2.,2023-05-10T17:59:00,133
+2023/h207,passage,"H.Res. 383 (118th): Providing for consideration of the bill (H.R. 2) to secure the borders of the United States, and for other purposes, and providing for consideration of the bill (H.R. 1163) to provide incentives for States to recover fraudulently paid",2023-05-10T18:17:00,134
+2023/h209,passage,H.R. 2 (118th): Secure the Border Act of 2023,2023-05-11T16:19:00,135
+2023/h211,passage,H.R. 1163 (118th): Protecting Taxpayers and Victims of Unemployment Fraud Act,2023-05-11T16:33:00,136
+2023/h216,passage,"H.Res. 398 (118th): Providing for consideration of the bill (H.R. 2494) to make the assault of a law enforcement officer a deportable offense, and for other purposes; providing for consideration of the bill (H.R. 3091) to allow Federal law enforcement of",2023-05-16T14:11:00,137
+2023/h218,amendment,H.Amdt. 175 (Jacobs) to H.R. 3091: To require each federal agency to establish determinations for an officer in good standing.,2023-05-17T17:41:00,138
+2023/h219,amendment,"H.Amdt. 176 (McCormick) to H.R. 3091: An amendment numbered 2 printed in Part B of House Report to strike ""fair market value"" and replace it with ""salvage value,"" which is defined as the value of an asset at the end of its useful life.",2023-05-17T17:47:00,139
+2023/h220,amendment,H.Amdt. 177 (Luttrell) to H.R. 3091: To allow retired federal law enforcement officers to also be eligible to purchase retired service weapons.,2023-05-17T17:51:00,140
+2023/h221,amendment,H.Amdt. 178 (Rosendale) to H.R. 3091: To expand the types of weapons officers are allowed to purchase to include all retired firearms.,2023-05-17T18:01:00,141
+2023/h222,passage,H.R. 3091 (118th): Federal Law Enforcement Officer Service Weapon Purchase Act,2023-05-17T18:09:00,142
+2023/h223,amendment,H.Amdt. 179 (Boebert) to H.R. 2494: To require DHS to make publicly available on its website an annual report on the number of illegal aliens deported for assaulting a law enforcement officer.,2023-05-17T18:15:00,143
+2023/h224,amendment,H.Amdt. 180 (Correa) to H.R. 2494: To amend the bill to require a conviction.,2023-05-17T18:21:00,144
+2023/h225,passage,H.R. 2494 (118th): POLICE Act of 2023,2023-05-17T18:29:00,145
+2023/h226,amendment,H.Amdt. 181 (D'Esposito) to H.Con.Res. 40: To recognize the important work that local law enforcement personnel do every day and states that officers should have certain rights during investigations into alleged misconduct such as legal resources and cou,2023-05-18T10:43:00,146
+2023/h227,passage,H.Con.Res. 40 (118th): Expressing support for local law enforcement officers and condemning efforts to defund or dismantle local law enforcement agencies.,2023-05-18T10:53:00,147
+2023/h231,passage,"H.Res. 429 (118th): Providing for consideration of the bill (H.R. 467) to amend the Controlled Substances Act with respect to the scheduling of fentanyl-related substances, and for other purposes; providing for consideration of the joint resolution (S.J.",2023-05-23T14:08:00,148
+2023/h232,passage,"S.J.Res. 11 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to “Control of Air Pollution From New Motor Vehicles: He",2023-05-23T16:30:00,149
+2023/h234,passage,"H.J.Res. 45 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to “Waivers and Modifications of Federal Student Loans”.",2023-05-24T17:11:00,150
+2023/h236,amendment,H.Amdt. 184 (Pettersen) to H.R. 467: An amendment numbered 3 to prevent H. R. 467 from taking effect until the Secretary of Health and Human Services and the Attorney General each certify that H. R. 467 will lead to a reduction in overdose deaths.,2023-05-25T10:14:00,151
+2023/h237,passage,H.R. 467 (118th): HALT Fentanyl Act,2023-05-25T10:28:00,152
+2023/h241,passage,H.Res. 456 (118th): Providing for consideration of the bill (H.R. 3746) to provide for a responsible increase to the debt ceiling.,2023-05-31T16:25:00,153
+2023/h243,passage,H.R. 3746 (118th): Fiscal Responsibility Act of 2023,2023-05-31T21:21:00,154
+2023/h248,passage,"H.Res. 463 (118th): Providing for consideration of the bill (H.R. 277) to amend chapter 8 of title 5, United States Code, to provide that major rules of the executive branch shall have no force or effect unless a joint resolution of approval is enacted i",2023-06-06T14:48:00,155
+2023/h250,passage,"H.Res. 495 (118th): Providing for consideration of the joint resolution (H.J. Res. 44) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Alcohol, Tobacco, Firearms, and Explosiv",2023-06-13T14:16:00,156
+2023/h252,passage,"H.J.Res. 44 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Alcohol, Tobacco, Firearms, and Explosives relating to “Factoring Criteria for Firearms with Attached ‘Sta",2023-06-13T17:39:00,157
+2023/h254,amendment,H.Amdt. 186 (Boebert) to H.R. 1615: To expand the prohibition on federal funding to include regulations that would result in the unavailability in the United States of a type (or class) of product based on the type of fuel the product consumes.,2023-06-13T17:54:00,158
+2023/h255,passage,H.R. 1615 (118th): Gas Stove Protection and Freedom Act,2023-06-13T18:04:00,159
+2023/h257,amendment,"H.Amdt. 193 (Biggs) to H.R. 277: To lower the threshold for designation as a ""major rule"" to $50 million.",2023-06-14T15:05:00,160
+2023/h258,amendment,"H.Amdt. 198 (Good) to H.R. 277: To expand the definition of ""major rule"" to include any rule likely to result in increased access to abortion, abortion-related services, or abortion-related travel.",2023-06-14T15:13:00,161
+2023/h259,amendment,H.Amdt. 199 (Green) to H.R. 277: To delay implementation of the legislation by 1 year and require a study be conducted in that time by the GAO on the effects of implementation.,2023-06-14T15:16:00,162
+2023/h260,amendment,H.Amdt. 200 (Green) to H.R. 277: To create a rapid-review requirement which would allow executive branch rules to go into effect if Congress does not pass a joint resolution within 70 legislative days.,2023-06-14T15:20:00,163
+2023/h261,amendment,H.Amdt. 201 (Houlahan) to H.R. 277: To require Congress to approve by vote any regulation with an economic impact over $1 billion instead of $100 million.,2023-06-14T15:25:00,164
+2023/h262,amendment,"H.Amdt. 203 (Roy) to H.R. 277: An amendment numbered 14 printed in Part A of House Report 118-108 expand the definition of ""major rule"" to include any rule that references one of President Biden's major diversity, equity, and inclusion executive orders.",2023-06-14T15:29:00,165
+2023/h263,amendment,"H.Amdt. 204 (Roy) to H.R. 277: To expand the definition of ""major rule"" to include any rule likely to result in an increase in mandatory vaccinations.",2023-06-14T15:34:00,166
+2023/h265,passage,H.R. 277 (118th): Regulations from the Executive in Need of Scrutiny Act of 2023,2023-06-14T15:49:00,167
+2023/h266,amendment,H.Amdt. 188 (McGovern) to H.R. 1640: To prohibit Section 3 of the bill from taking effect unless and until the Secretary of Energy certifies that the provisions of the section would not adversely affect the energy security of the United States.,2023-06-14T15:54:00,168
+2023/h267,amendment,H.Amdt. 189 (Pallone) to H.R. 1640: To strike provisions in the bill that would significantly limit future DOE rulemaking authority.,2023-06-14T15:59:00,169
+2023/h268,passage,H.R. 1640 (118th): Save Our Gas Stoves Act,2023-06-14T16:07:00,170
+2023/h271,passage,H.R. 288 (118th): Separation of Powers Restoration Act of 2023,2023-06-15T10:45:00,171
+2023/h275,passage,H.Res. 524 (118th): Providing for consideration of the bill (H.R. 3564) to cancel recent changes made by the Federal Housing Finance Agency to the up-front loan level pricing adjustments charged by Fannie Mae and Freddie Mac for guarantee of single-famil,2023-06-21T13:54:00,172
+2023/h278,amendment,H.Amdt. 207 (Hayes) to H.R. 3799: To delay implementation of H. R. 3799 until the Secretary of Labor certifies that legislation would not result in higher premium rates for older workers.,2023-06-21T18:07:00,173
+2023/h279,amendment,"H.Amdt. 208 (Molinaro) to H.R. 3799: To ensure that the Secretary notifies employers of the availability of tax-advantaged flexible health insurance benefits, with an official focus on small businesses, particularly in rural areas.",2023-06-21T18:13:00,174
+2023/h280,amendment,H.Amdt. 209 (Roy) to H.R. 3799: To express the sense of Congress that healthcare freedom is the future of healthcare.,2023-06-21T18:19:00,175
+2023/h282,passage,H.R. 3799 (118th): CHOICE Arrangement Act,2023-06-21T18:35:00,176
+2023/h283,passage,"H.Res. 521 (118th): Censuring Adam Schiff, Representative of the 30th Congressional District of California.",2023-06-21T18:43:00,177
+2023/h285,passage,"H.Res. 529 (118th): Relating to the resolution (H. Res. 503) impeaching Joseph R. Biden, Jr., President of the United States, for high crimes and misdemeanors.",2023-06-22T14:03:00,178
+2023/h286,passage,H.Res. 461 (118th): Condemning the use of elementary and secondary school facilities to provide shelter for aliens who are not admitted to the United States.,2023-06-22T14:09:00,179
+2023/h287,amendment,H.Amdt. 214 (Pettersen) to H.R. 3564: To prevent the legislation from being enacted if the FHFA Director determines that Sec. 2 would increase fees on middle class borrowers.,2023-06-23T11:01:00,180
+2023/h289,passage,H.R. 3564 (118th): Middle Class Borrower Protection Act of 2023,2023-06-23T11:17:00,181
+2023/h293,amendment,"H.Amdt. 215 (Cole) to H.Res. 582: An amendment to add a new section to the end of the resolution , that during consideration of H. R. 2670, it shall not be in order to consider amendment number 60 printed in Part B of House Report 118-141.",2023-07-12T14:01:00,182
+2023/h294,passage,"H.Res. 582 (118th): Providing for consideration of the bill (H.R. 2670) to authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Department of E",2023-07-12T14:09:00,183
+2023/h296,passage,"H.Res. 583 (118th): Providing for further consideration of the bill (H.R. 2670) to authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Departm",2023-07-13T14:05:00,184
+2023/h297,amendment,"H.Amdt. 220 (Rogers) to H.R. 2670: An amendment comprised of the following amendments printed in Part B of House Report 118-141 as en bloc No. 5: Nos. 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256",2023-07-13T14:13:00,185
+2023/h298,amendment,H.Amdt. 230 (Blumenauer) to H.R. 2670: To strike section 1639 and to prohibit the use of funds for the sustainment of the B83-1 bomb.,2023-07-13T17:22:00,186
+2023/h299,amendment,H.Amdt. 231 (Tlaib) to H.R. 2670: To strike the prohibition on the reduction of the total number of nuclear armed Intercontinental Ballistic Missiles (ICBMs) deployed in the United States in Sec. 1638.,2023-07-13T17:25:00,187
+2023/h300,amendment,H.Amdt. 222 (Jackson) to H.R. 2670: To prohibit the Secretary of Defense from paying for or reimbursing expenses relating to abortion services.,2023-07-13T17:29:00,188
+2023/h301,amendment,H.Amdt. 223 (Rosendale) to H.R. 2670: To prohibit TRICARE from covering and the Department of Defense from furnishing sex reassignment surgeries and gender hormone treatments for transgender individuals.,2023-07-13T17:32:00,189
+2023/h302,amendment,"H.Amdt. 224 (Norman) to H.R. 2670: To prohibit provision of gender transition procedures, including surgery or medication, through the Exceptional Family Member Program.",2023-07-13T17:35:00,190
+2023/h303,amendment,H.Amdt. 225 (Greene) to H.R. 2670: To strike $300 million of Ukraine funding.,2023-07-13T17:38:00,191
+2023/h304,amendment,H.Amdt. 226 (Gaetz) to H.R. 2670: To prohibit security assistance for Ukraine.,2023-07-13T17:40:00,192
+2023/h305,amendment,H.Amdt. 227 (Greene) to H.R. 2670: To strike the creation of a Center of Excellence in Ukraine.,2023-07-13T17:44:00,193
+2023/h306,amendment,"H.Amdt. 228 (Davidson) to H.R. 2670: To require the President, in coordination with the Secretary of Defense and Secretary of State, to develop and submit a report to Congress that contains a strategy for U.S. involvement in Ukraine.",2023-07-13T17:48:00,194
+2023/h307,amendment,"H.Amdt. 229 (Ogles) to H.R. 2670: To strike section 1224 of the bill, which extends lend-lease authority to Ukraine.",2023-07-13T17:51:00,195
+2023/h308,amendment,H.Amdt. 232 (Roy) to H.R. 2670: To amend Section 904 to prohibit federal funds from being used to establish a position within the Department of Defense for anything similar to Chief Diversity Officers or Senior Advisors for Diversity and Inclusion.,2023-07-13T17:54:00,196
+2023/h309,amendment,"H.Amdt. 233 (Roy) to H.R. 2670: To prohibit funds authorized for DoDEA from being used to promote that idea that, 1) Any race is inherently superior or inferior to any other race, color, or national origin. 2) The US is a fundamentally racist country. 3)",2023-07-13T17:57:00,197
+2023/h310,amendment,"H.Amdt. 234 (Crane) to H.R. 2670: To prohibit the Department of Defense from making participation in training or support for certain race-based concepts a requirement for hiring, promotion, or retention of individuals. Also, the amendment ensures that em",2023-07-13T22:20:00,198
+2023/h311,amendment,"H.Amdt. 235 (Norman) to H.R. 2670: To eliminate any offices of Diversity, Equity, and Inclusion along with the personnel in said offices within the offices of the Armed Forces and Department of Defense.",2023-07-13T22:29:00,199
+2023/h312,amendment,"H.Amdt. 235 (Norman) to H.R. 2670: To eliminate any offices of Diversity, Equity, and Inclusion along with the personnel in said offices within the offices of the Armed Forces and Department of Defense.",2023-07-13T22:38:00,200
+2023/h313,amendment,H.Amdt. 236 (Norman) to H.R. 2670: To prohibit the display of unapproved flags.,2023-07-13T22:43:00,201
+2023/h314,amendment,H.Amdt. 237 (Boebert) to H.R. 2670: To prohibit the Department of Defense Education Activity schools from purchasing and having pornographic and radical gender ideology books in their libraries.,2023-07-13T22:46:00,202
+2023/h315,amendment,"H.Amdt. 239 (Waltz) to H.R. 2670: To allow DoD to transfer excess controlled property to Federal and State agencies under the 1033 program, consistent with the original intent of the program.",2023-07-13T22:49:00,203
+2023/h316,amendment,H.Amdt. 242 (Good) to H.R. 2670: To prohibit the use of federal funds to carry out the recommendations of the Naming Commission.,2023-07-13T22:52:00,204
+2023/h317,amendment,H.Amdt. 243 (Greene) to H.R. 2670: To prohibit cluster munitions or cluster munitions technology be sold or transferred to Ukraine.,2023-07-13T22:55:00,205
+2023/h318,amendment,H.Amdt. 244 (Hageman) to H.R. 2670: To require that all documents and correspondence of the Countering Extremism Working Group are provided to the Select Subcommittee on the Weaponization of the Federal Government and the Committee on Armed Services.,2023-07-13T22:59:00,206
+2023/h319,amendment,"H.Amdt. 245 (Davidson) to H.R. 2670: To strike Section 217, which authorizes funds to NATO for the joint fund established for the Defence Innovation Accelerator for the North Atlantic initiative (DIANA).",2023-07-13T23:02:00,207
+2023/h320,amendment,H.Amdt. 246 (Davidson) to H.R. 2670: To express a sense of Congress that the US should not continue subsidizing NATO member countries who choose not to invest in their own defense by meeting the 2014 Wales Summit Defense Spending Benchmark.,2023-07-13T23:05:00,208
+2023/h321,amendment,"H.Amdt. 247 (Gaetz) to H.R. 2670: To prohibit federal funds for training on diversity, equity, and inclusion.",2023-07-13T23:08:00,209
+2023/h322,amendment,H.Amdt. 248 (Biggs) to H.R. 2670: To exempt defense related activities from the Endangered Species Act.,2023-07-13T23:11:00,210
+2023/h323,amendment,H.Amdt. 249 (Perry) to H.R. 2670: To prohibit any funding authorized by the Act or otherwise made available for DOD for FY24 to provide any kind of support to the Taliban and prohibits any form of sanctions relief or mitigation unless explicitly authoriz,2023-07-13T23:14:00,211
+2023/h324,amendment,H.Amdt. 253 (Burlison) to H.R. 2670: To prohibit DoD from establishing new DEI administrator positions and/or taking actions to fill vacancies in currently existing DEI billets.,2023-07-13T23:18:00,212
+2023/h325,amendment,H.Amdt. 254 (Banks) to H.R. 2670: To prohibit any funds authorized in the bill from being used by the military service academies to discriminate on the basis of race or ethnicity in academy admissions or to establish quotas for admission on the basis of ,2023-07-14T10:34:00,213
+2023/h326,amendment,H.Amdt. 255 (Roy) to H.R. 2670: To prohibit the DOD from carrying out the President's Administration climate change executive orders.,2023-07-14T10:39:00,214
+2023/h328,passage,H.R. 2670 (118th): National Defense Authorization Act for Fiscal Year 2024,2023-07-14T10:55:00,215
+2023/h332,passage,"H.Res. 597 (118th): Providing for consideration of the bill (H.R. 3935) to amend title 49, United States Code, to reauthorize and improve the Federal Aviation Administration and other civil aviation programs, and for other purposes, and providing for con",2023-07-18T13:45:00,216
+2023/h333,passage,"H.J.Res. 68 (118th): Relating to a national emergency declared by the President on October 27, 2006.",2023-07-18T17:51:00,217
+2023/h334,passage,"H.J.Res. 70 (118th): Relating to a national emergency declared by the President on February 25, 2011.",2023-07-18T17:57:00,218
+2023/h335,passage,"H.J.Res. 74 (118th): Relating to a national emergency declared by the President on May 16, 2012.",2023-07-18T18:03:00,219
+2023/h336,passage,"H.J.Res. 71 (118th): Relating to a national emergency declared by the President on May 22, 2003.",2023-07-18T18:09:00,220
+2023/h337,passage,"H.J.Res. 79 (118th): Relating to a national emergency declared by the President on May 11, 2004.",2023-07-18T18:15:00,221
+2023/h340,passage,H.R. 3941 (118th): Schools Not Shelters Act,2023-07-19T21:26:00,222
+2023/h341,amendment,H.Amdt. 264 (Langworthy) to H.R. 3935: An amendment numbered 10 printed in Part A House Report 118-147 to strike Sec. 546 to maintain current training requirements for a person who is applying for an airline transport certificate with an airplane categor,2023-07-19T21:34:00,223
+2023/h342,amendment,H.Amdt. 266 (Feenstra) to H.R. 3935: To exempt nonhub airports from the requirement to have at least one individual who maintains certification as an emergency medical technician during air carrier operations.,2023-07-19T21:39:00,224
+2023/h343,amendment,H.Amdt. 267 (Fitzpatrick) to H.R. 3935: To require the FAA to implement as a rule the recommendations issued by the aviation rulemaking committee for commercial passenger aircraft established by Sec. 522.,2023-07-19T21:43:00,225
+2023/h344,amendment,H.Amdt. 268 (Gosar) to H.R. 3935: To prohibit changes to existing National Park air tour management plans.,2023-07-19T21:46:00,226
+2023/h345,amendment,H.Amdt. 269 (Miller) to H.R. 3935: To require the Inspector General to investigate the FAA's decision to broaden the acceptable EKG range for pilots to fly.,2023-07-19T21:52:00,227
+2023/h346,amendment,H.Amdt. 270 (Miller) to H.R. 3935: To require airlines to reinstate pilots who were fired or forced to resign because of vaccine mandates.,2023-07-19T21:56:00,228
+2023/h347,amendment,"H.Amdt. 271 (Huizenga) to H.R. 3935: To require the Secretary of Transportation, in the process for prioritizing awarding grants under the Advanced Air Mobility Infrastructure Pilot Program established and described in P.L 119-328, also prioritize eligib",2023-07-19T21:59:00,229
+2023/h348,amendment,"H.Amdt. 272 (Issa) to H.R. 3935: To require the FAA Administrator to make an objective, independent assessment of a NOTAM request when the request comes from outside the FAA.",2023-07-19T22:02:00,230
+2023/h349,amendment,H.Amdt. 273 (Jackson) to H.R. 3935: To revise Section 608 to add concentrated animal feeding operations and eligible meat and food processing facilities to the list of Applications for Designation.,2023-07-19T22:06:00,231
+2023/h350,amendment,"H.Amdt. 274 (Kean) to H.R. 3935: To require the Secretary of Transportation to refine the reporting directives to provide more detailed information about the cause of a commercial passenger flight cancellation or delay, allowing greater transparency to t",2023-07-19T22:09:00,232
+2023/h351,amendment,H.Amdt. 276 (McClintock) to H.R. 3935: To strike authorization for the Essential Air Service.,2023-07-19T22:12:00,233
+2023/h352,amendment,H.Amdt. 277 (Miller) to H.R. 3935: To require a report on the Secretary of Transportation flight records.,2023-07-19T22:16:00,234
+2023/h353,amendment,"H.Amdt. 278 (Miller) to H.R. 3935: To restrict funding for diversity, equity, and inclusion officials or training.",2023-07-19T22:19:00,235
+2023/h354,amendment,H.Amdt. 280 (Obernolte) to H.R. 3935: To allow FAA approved high-octane unleaded aviation gasoline to be sold at airports in lieu of 100 octane low-lead aviation gasoline.,2023-07-19T22:22:00,236
+2023/h355,amendment,"H.Amdt. 281 (Ogles) to H.R. 3935: To strike ""social"" from the scope of factors examined under the FAA Beyond Program.",2023-07-19T22:25:00,237
+2023/h356,amendment,H.Amdt. 282 (Ogles) to H.R. 3935: To clarify that a study of turbulence should include a focus on weather conditions rather than climate change since weather is the proximate cause.,2023-07-19T22:28:00,238
+2023/h357,amendment,H.Amdt. 283 (Owens) to H.R. 3935: To protect all existing flights at Ronald Reagan National Airport (DCA). This amendment adds 7 new roundtrip in-and-beyond perimeter slots to DCA split between the 7 airlines servicing the airport.,2023-07-19T22:32:00,239
+2023/h358,amendment,H.Amdt. 284 (Perry) to H.R. 3935: To strike sec. 1132 (CLEEN).,2023-07-19T22:35:00,240
+2023/h359,amendment,"H.Amdt. 285 (Perry) to H.R. 3935: To reduce the authorization levels in sections 101, 103, and 1111.",2023-07-19T22:38:00,241
+2023/h360,amendment,H.Amdt. 286 (Perry) to H.R. 3935: To strike vertiport from the AIP definitions section.,2023-07-19T22:42:00,242
+2023/h361,amendment,"H.Amdt. 287 (Graves) to H.R. 3935: An amendment comprised of the following amendments printed in Part A of House Report 118-147 as en bloc No. 4: Nos. 60, 61, 85, 87, 88, 89, 90, 91, 92, 93, 94, 99, 100, 101, 102, 103, and 104.",2023-07-20T10:20:00,243
+2023/h362,amendment,H.Amdt. 288 (Perry) to H.R. 3935: To strike sections 206 and 207 relating to N number restrictions.,2023-07-20T10:23:00,244
+2023/h363,amendment,H.Amdt. 289 (Perry) to H.R. 3935: To strike the telework provisions in the underlying bill and apply the SHOW UP Act telework restrictions to the FAA.,2023-07-20T10:30:00,245
+2023/h364,passage,H.R. 3935 (118th): FAA Reauthorization Act of 2024,2023-07-20T10:38:00,246
+2023/h368,passage,"H.Res. 614 (118th): Providing for consideration of the bill (H.R. 4366) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2024, and for other purposes; provi",2023-07-26T13:58:00,247
+2023/h369,amendment,H.Amdt. 291 (Ryan) to H.R. 4366: To increase and decrease funding $103 million to Army Military Construction in an effort to address flooding damage at the United States Military Academy at West Point.,2023-07-26T18:06:00,248
+2023/h370,amendment,H.Amdt. 292 (Ogles) to H.R. 4366: To transfer $3 million from NATO's Security Investment Program to the Spending Reduction Account at the end of the bill.,2023-07-26T18:10:00,249
+2023/h371,amendment,H.Amdt. 293 (Greene) to H.R. 4366: To cut the $73 million increase in funding for the NATO Security Investment Program.,2023-07-26T18:14:00,250
+2023/h372,amendment,"H.Amdt. 296 (Greene) to H.R. 4366: To strike funding for the Office of Resolution Management, Diversity and Inclusion.",2023-07-26T18:17:00,251
+2023/h373,amendment,H.Amdt. 297 (Bost) to H.R. 4366: To prohibit the VA from using funds to submit a beneficiary's name to the NICS list based on VA's appointment of a fiduciary.,2023-07-26T18:21:00,252
+2023/h374,amendment,H.Amdt. 299 (Rosendale) to H.R. 4366: To prohibit the use of funds made available by this Act from enforcing any COVID-19 mask mandates.,2023-07-26T18:24:00,253
+2023/h375,amendment,"H.Amdt. 300 (Roy) to H.R. 4366: To prohibit funds made available by H. R. 4366 from being used to carry out VHA Directive 1193.01, ""Coronavirus Disease 2019 Vaccination Program for Veterans Health Administration Health Care Personnel"".",2023-07-26T18:27:00,254
+2023/h376,amendment,"H.Amdt. 301 (Roy) to H.R. 4366: To ensure none of the funds appropriated by H. R. 4366 may be used to modify or remove any VA display of the mission statement, ""To fulfill President Lincoln's promise 'to care for him who shall have borne the battle, and ",2023-07-26T18:30:00,255
+2023/h377,amendment,H.Amdt. 302 (Roy) to H.R. 4366: To prohibit funds in H. R. 4366 from being used to carry out the Administration's climate change executive orders.,2023-07-26T18:33:00,256
+2023/h378,amendment,"H.Amdt. 303 (Zinke) to H.R. 4366: To prohibit funding for administering, implementing, or enforcing Executive Order 14057 (Catalyzing Clean Energy Industries and Jobs Through Federal Sustainability).",2023-07-26T18:38:00,257
+2023/h380,passage,"H.R. 4366 (118th): Consolidated Appropriations Act, 2024",2023-07-27T13:52:00,258
+2023/h381,passage,"S.J.Res. 9 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the United States Fish and Wildlife Service relating to “Endangered and Threatened Wildlife and Plants",2023-07-27T14:09:00,259
+2023/h382,passage,"S.J.Res. 24 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the United States Fish and Wildlife Service relating to “Endangered and Threatened Wildlife and Plant",2023-07-27T15:23:00,260
+2023/h389,passage,H.Res. 681 (118th): Providing for consideration of the bill (H.R. 1435) to amend the Clean Air Act to prevent the elimination of the sale of internal combustion engines.,2023-09-14T14:02:00,261
+2023/h391,passage,H.R. 1435 (118th): Preserving Choice in Vehicle Purchases Act,2023-09-14T15:56:00,262
+2023/h398,passage,"H.Res. 680 (118th): Providing for consideration of the bill (H.R. 1435) to amend the Clean Air Act to prevent the elimination of the sale of internal combustion engines, and providing for consideration of the bill (H.R. 4365) making appropriations for th",2023-09-19T15:26:00,263
+2023/h403,passage,"H.Res. 712 (118th): Providing for consideration of the bill (H.R. 4365) making appropriations for the Department of Defense for the fiscal year ending September 30, 2024, and for other purposes; providing for consideration of the bill (H.R. 1130) to repe",2023-09-21T11:33:00,264
+2023/h406,passage,"H.Res. 723 (118th): Providing for consideration of the bill (H.R. 4365) making appropriations for the Department of Defense for the fiscal year ending September 30, 2024, and for other purposes; providing for consideration of the bill (H.R. 4367) making ",2023-09-26T20:12:00,265
+2023/h408,amendment,H.Amdt. 306 (Good) to H.R. 4368: To reduce funding for the USDA Office of Civil Rights by 50% from FY23 levels.,2023-09-27T00:13:00,266
+2023/h409,amendment,H.Amdt. 307 (Biggs) to H.R. 4368: To restore funding to the National Agricultural Statistical Service to FY19 levels and directs the difference to the spending reduction account.,2023-09-27T00:17:00,267
+2023/h410,amendment,H.Amdt. 308 (Biggs) to H.R. 4368: To restore funding to the National Institute of Food and Agriculture to FY19 levels and directs the difference to the spending reduction account.,2023-09-27T00:20:00,268
+2023/h411,amendment,H.Amdt. 310 (Brecheen) to H.R. 4368: To reduce Natural Resources Conservation Service funding to FY16 levels.,2023-09-27T00:24:00,269
+2023/h412,amendment,H.Amdt. 311 (Brecheen) to H.R. 4368: To eliminate funding for USDA's Rental Assistance Program.,2023-09-27T00:27:00,270
+2023/h413,amendment,H.Amdt. 312 (Perry) to H.R. 4368: To cut the Rural Business Cooperative Service Rural Business Program Account by 50% from FY23 enacted.,2023-09-27T00:30:00,271
+2023/h414,amendment,H.Amdt. 315 (Biggs) to H.R. 4368: To strike funding for Food for Peace Title II Grants and directs the total to the spending reduction account.,2023-09-27T00:34:00,272
+2023/h415,amendment,H.Amdt. 317 (Biggs) to H.R. 4368: To strike funding for the McGovern-Dole International Food for Education and Child Nutrition Program and directs the total to the spending reduction account.,2023-09-27T00:37:00,273
+2023/h416,amendment,"H.Amdt. 318 (Biggs) to H.R. 4368: To restore funding for the Commodity Futures Trading Corporation to FY19 levels, and direct the remainder to the spending reduction account.",2023-09-27T00:41:00,274
+2023/h417,amendment,H.Amdt. 330 (Spartz) to H.R. 4368: To prohibit funds made available by this bill may be used to carry out commodity checkoff programs.,2023-09-27T16:58:00,275
+2023/h418,amendment,H.Amdt. 333 (Boebert) to H.R. 4368: To prevent funds for USDA's Equity Commission.,2023-09-27T17:03:00,276
+2023/h419,amendment,H.Amdt. 337 (Hageman) to H.R. 4368: To prevent funds from being used to mandate electronic identification eartags for cattle and bison.,2023-09-27T17:06:00,277
+2023/h420,amendment,H.Amdt. 338 (Good) to H.R. 4368: To reduce to $1 the salary of the Director of the Center for Drug Evaluation and Research at the FDA.,2023-09-27T17:09:00,278
+2023/h421,amendment,"H.Amdt. 341 (Boebert) to H.R. 4368: To prevent USDA from using funds for certain courses, books and study guides.",2023-09-27T17:13:00,279
+2023/h422,amendment,H.Amdt. 342 (Good) to H.R. 4368: To reduce to $1 the salary of the Director of the Office of Surveillance and Epidemiology at the FDA.,2023-09-27T17:16:00,280
+2023/h423,amendment,H.Amdt. 343 (Good) to H.R. 4368: To reduce to $1 the salary of the Director of the Division of Risk Management at the FDA.,2023-09-27T17:19:00,281
+2023/h424,amendment,H.Amdt. 344 (Good) to H.R. 4368: To reduce to $1 the salary of the Director of the Office of New Drugs at the FDA.,2023-09-27T17:22:00,282
+2023/h425,amendment,H.Amdt. 345 (Good) to H.R. 4368: To reduce to $1 the salary of the Director of the Office of Compliance a the FDA.,2023-09-27T17:26:00,283
+2023/h426,amendment,H.Amdt. 346 (Good) to H.R. 4368: To reduce to $1 the salary of the Director of the Office of Medical Policy at the FDA.,2023-09-27T17:29:00,284
+2023/h427,amendment,H.Amdt. 347 (Good) to H.R. 4368: To reduce to $1 the salary of the Director of the Office of Regulatory Policy at the FDA.,2023-09-27T17:33:00,285
+2023/h428,amendment,H.Amdt. 348 (Stauber) to H.R. 4368: To prohibit any funds made available by this bill from being used to fund the Farm to School Network Racial Equity Learning Lab.,2023-09-27T17:36:00,286
+2023/h429,amendment,H.Amdt. 350 (Miller) to H.R. 4368: To prohibit funds to implement the Climate Corp.,2023-09-27T17:40:00,287
+2023/h430,amendment,"H.Amdt. 351 (Rosendale) to H.R. 4368: To reduce the amount appropriated in this Act by $717,000,000.",2023-09-27T17:43:00,288
+2023/h431,amendment,"H.Amdt. 355 (Houlahan) to H.R. 4365: To direct $50 million from O&M Defense-Wide to the Defense Production Act Purchases account, intended to fund the Advanced Defense Capabilities Pilot Program, as authorized by Section 853 of the House-passed FY24 NDAA",2023-09-27T17:50:00,289
+2023/h432,amendment,"H.Amdt. 359 (Biggs) to H.R. 4365: To decrease Section 8104, Ukraine Security Assistance Initiative bye Initiative by $300,000,000, and increase the Spending Reduction Account by $300,000,000.",2023-09-27T17:55:00,290
+2023/h433,amendment,H.Amdt. 361 (Plaskett) to H.R. 4365: To strike section 8149 of the bill.,2023-09-27T17:59:00,291
+2023/h434,amendment,"H.Amdt. 362 (Boebert) to H.R. 4365: To reduce the salary of Shawn Skelly, Assistant Secretary of Defense for Readiness to $1.",2023-09-27T18:02:00,292
+2023/h435,amendment,H.Amdt. 363 (Boebert) to H.R. 4365: To reduce the salary of Norvel Dillard to $1.,2023-09-27T18:05:00,293
+2023/h436,amendment,H.Amdt. 365 (Clyde) to H.R. 4365: To prohibit funds from being used to implement section 370 of Public Law 116-283.,2023-09-27T18:08:00,294
+2023/h437,amendment,"H.Amdt. 366 (Connolly) to H.R. 4365: To prohibit funds from being used in violation of section 129a of title 10, United States Code.",2023-09-27T18:12:00,295
+2023/h438,amendment,H.Amdt. 369 (Gaetz) to H.R. 4365: To prohibit security assistance for Ukraine.,2023-09-27T18:15:00,296
+2023/h439,amendment,H.Amdt. 370 (Gaetz) to H.R. 4365: To prohibit funds made available by the bill from being used to transfer cluster munitions.,2023-09-27T18:18:00,297
+2023/h440,amendment,H.Amdt. 373 (Jayapal) to H.R. 4365: To prohibit the use of funds to administer the unfunded priorities list.,2023-09-27T18:21:00,298
+2023/h441,amendment,H.Amdt. 382 (Roy) to H.R. 4365: To prohibit funds appropriated by this act from being used to carry out the observance of Pride Month authorized by the Under Secretary of Defense for Personnel and Readiness for the Cultural Observances and Awareness Even,2023-09-27T18:24:00,299
+2023/h442,amendment,"H.Amdt. 392 (Correa) to H.R. 4367: To increase and decrease the funding for CBP Operations and Support by $496 million to allow CBP to use these funds to hire additional CBP Officers for ports of entry, in addition to new U.S. Border Patrol Agents.",2023-09-27T22:55:00,300
+2023/h443,amendment,"H.Amdt. 394 (Wasserman Schultz) to H.R. 4367: To strike sections 213, 214, 220, 221, 224, 404, 405, 544, 549, and 550.",2023-09-27T22:59:00,301
+2023/h444,amendment,"H.Amdt. 396 (Escobar) to H.R. 4367: To strike section 224, which requires the DHS secretary to prioritize detention of aliens over alternative options.",2023-09-27T23:03:00,302
+2023/h445,amendment,H.Amdt. 398 (Clyde) to H.R. 4367: To reduce funding for CISA by 25%.,2023-09-27T23:06:00,303
+2023/h446,amendment,H.Amdt. 400 (Biggs) to H.R. 4367: To prohibit the use of funds to pay the salary and expenses of CISA Director Jen Easterly.,2023-09-27T23:09:00,304
+2023/h447,amendment,H.Amdt. 401 (Biggs) to H.R. 4367: To prohibit the use of funds to pay the salary and expenses of CISA Director of Election Security Initiative Geoffrey Hale.,2023-09-27T23:12:00,305
+2023/h448,amendment,"H.Amdt. 402 (Biggs) to H.R. 4367: To prohibit the use of funds to pay the salary and expenses of DHS Under Secretary for the Office of Strategy, Policy, and Plans Robert Silvers.",2023-09-27T23:15:00,306
+2023/h449,amendment,H.Amdt. 403 (Biggs) to H.R. 4367: To prohibit the use of funds to pay the salary and expenses of DHS Assistant Secretary for Counter Terrorism and Threat Prevention Samantha Vinograd.,2023-09-27T23:18:00,307
+2023/h450,amendment,H.Amdt. 404 (Biggs) to H.R. 4367: To prohibit the use of funds to pay the salary and expenses of DHS Director of Departmental GAO-OIG Liaison Office Jim Crumpacker.,2023-09-27T23:20:00,308
+2023/h451,amendment,"H.Amdt. 409 (Boebert) to H.R. 4367: To decrease the salary of Kenneth L Wainstein, Secretary of Homeland Security for Intelligence and Analysis to $1.",2023-09-27T23:23:00,309
+2023/h452,amendment,"H.Amdt. 410 (Boebert) to H.R. 4367: To reduce the salary of Claire Trickler-McNulty, Assistant Director, ICE Office of Program Evaluation, to $1.",2023-09-27T23:26:00,310
+2023/h453,amendment,"H.Amdt. 411 (Boebert) to H.R. 4367: To decrease the salary of head of the CRCL office, Shoba Sivaprasad Wadhia, to $1.",2023-09-27T23:30:00,311
+2023/h454,amendment,H.Amdt. 412 (Castro) to H.R. 4367: To prohibit the use of federal funds to support Operation Lone Star.,2023-09-27T23:33:00,312
+2023/h455,amendment,H.Amdt. 420 (Nehls) to H.R. 4367: To prohibit funds from this bill to be used for the Office for Civil Rights and Civil Liberties of the Department of Homeland Security.,2023-09-27T23:37:00,313
+2023/h457,passage,"H.Res. 730 (118th): Providing for consideration of the bill (H.R. 5692) making supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes; providing for further consideration of the bill (H.R. 4365) making appropria",2023-09-28T16:29:00,314
+2023/h458,amendment,"H.Amdt. 422 (Norman) to H.R. 4367: To reduce the salary of Kristie Canegallo, Deputy Secretary of Homeland Security, to $1.",2023-09-28T16:35:00,315
+2023/h459,amendment,"H.Amdt. 423 (Norman) to H.R. 4367: To reduce the salary of Kimberly O'Connor, Executive Secretary of the Department of Homeland Security, to $1.",2023-09-28T16:38:00,316
+2023/h460,amendment,"H.Amdt. 424 (Norman) to H.R. 4367: To reduce the salary of Blas Nuñez-Neto, Assistant Secretary for Border and Immigration Policy, to $1.",2023-09-28T16:42:00,317
+2023/h461,amendment,"H.Amdt. 429 (Rosendale) to H.R. 4367: To reduce total amount appropriated by $8,722,000,000.",2023-09-28T16:45:00,318
+2023/h462,amendment,H.Amdt. 437 (Crane) to H.R. 4665: To eliminate funding to the United States Institute of Peace.,2023-09-28T16:52:00,319
+2023/h463,amendment,"H.Amdt. 438 (Crane) to H.R. 4665: To eliminate funding to the Commission on Security and Cooperation in Europe, Salaries and Expenses.",2023-09-28T16:55:00,320
+2023/h464,amendment,H.Amdt. 439 (Crane) to H.R. 4665: To reduce funding by 50% for USAID.,2023-09-28T16:58:00,321
+2023/h465,amendment,"H.Amdt. 440 (Perry) to H.R. 4665: To eliminate funding to the U.S. Agency for International Development, Funds Appropriated to the President Capital Investment Fund.",2023-09-28T17:02:00,322
+2023/h466,amendment,H.Amdt. 442 (Gaetz) to H.R. 4665: To reduce funds apportioned to USAID by $4.5 billion and transfers to the Spending Reduction Account.,2023-09-28T17:05:00,323
+2023/h467,amendment,H.Amdt. 443 (Perry) to H.R. 4665: To eliminate funding for International Disaster Assistance.,2023-09-28T17:08:00,324
+2023/h468,amendment,H.Amdt. 444 (Perry) to H.R. 4665: To reduce Economic Support Fund funding to the FY18 enacted level.,2023-09-28T17:10:00,325
+2023/h469,amendment,H.Amdt. 445 (Perry) to H.R. 4665: To eliminate funding for Migration and Refugee Assistance.,2023-09-28T17:13:00,326
+2023/h470,amendment,H.Amdt. 446 (Ogles) to H.R. 4665: To transfer $14.3 million from the Peace Corps budget to the Spending Reduction Account.,2023-09-28T17:16:00,327
+2023/h471,amendment,"H.Amdt. 447 (Kelly) to H.R. 4665: To reduce funding by $10,000,000 for the Global Environment Facility Fund.",2023-09-28T17:20:00,328
+2023/h472,amendment,"H.Amdt. 448 (Plaskett) to H.R. 4665: To strike section 7070(d) which prohibits the classification of any communications by a U.S. person as misinformation, disinformation, or malinformation.",2023-09-28T17:23:00,329
+2023/h473,amendment,H.Amdt. 453 (Greene) to H.R. 4665: To prohibit assistance to Ukraine.,2023-09-28T17:27:00,330
+2023/h474,amendment,H.Amdt. 454 (Greene) to H.R. 4665: To prohibit funds from being used by the Secretary of State to initiate a drawdown and delivery of defense articles and services from Department of Defense stocks to Ukraine.,2023-09-28T17:30:00,331
+2023/h475,amendment,H.Amdt. 455 (Steube) to H.R. 4665: To prohibit funds from being used for the Lebanese Armed Forces.,2023-09-28T17:33:00,332
+2023/h476,amendment,H.Amdt. 456 (Steube) to H.R. 4665: To prohibit funds from being used to provide assistance to Iraq.,2023-09-28T17:36:00,333
+2023/h477,amendment,H.Amdt. 457 (Gaetz) to H.R. 4665: To prohibit funds from being used to implement the Paris Agreement.,2023-09-28T17:40:00,334
+2023/h478,amendment,H.Amdt. 458 (Boebert) to H.R. 4665: To decrease the salary of UN Ambassador Linda Thomas Greenfield to $1.,2023-09-28T17:43:00,335
+2023/h479,amendment,H.Amdt. 459 (Boebert) to H.R. 4665: To decrease the salary of the Director of Policy Planning Staff Salman Ahmed to $1.,2023-09-28T17:47:00,336
+2023/h480,amendment,H.Amdt. 460 (Boebert) to H.R. 4665: To decrease the salary of Department's Acting Chief Diversity and Inclusion Officer Constance Mayor to $1.,2023-09-28T17:50:00,337
+2023/h481,amendment,H.Amdt. 461 (Boebert) to H.R. 4665: To decrease the salary of Palestinian affairs officer George Noll to $1.,2023-09-28T17:53:00,338
+2023/h482,amendment,H.Amdt. 462 (Ogles) to H.R. 4665: To prohibit funds in this Act from being made available to Pakistan.,2023-09-28T17:56:00,339
+2023/h483,amendment,"H.Amdt. 464 (Gooden) to H.R. 4665: To prohibit taxpayer dollars from funding the International Organization for Migration's ""Refugee Travel Loan Program."".",2023-09-28T17:59:00,340
+2023/h484,amendment,H.Amdt. 467 (Spartz) to H.R. 4665: To prohibit funding for United Nations entities unless specifically appropriated in the underlying bill.,2023-09-28T18:02:00,341
+2023/h485,amendment,H.Amdt. 468 (Hageman) to H.R. 4665: To prohibit funds from being made available for the State Department's Office of Global Change.,2023-09-28T18:05:00,342
+2023/h486,amendment,H.Amdt. 470 (Foxx) to H.R. 4665: To prohibit the State Department from using taxpayer funds to send employees to any event or conference hosted by the Clinton Global Initiative.,2023-09-28T18:10:00,343
+2023/h487,amendment,H.Amdt. 472 (Burchett) to H.R. 4665: To reduce the salary of the Special Assistant to the Director of Programming at Voice of America to $1.,2023-09-28T18:13:00,344
+2023/h488,amendment,H.Amdt. 473 (Burchett) to H.R. 4665: To reduce the salary of the Chief Management Officer at the US Agency for Global Media to $1.,2023-09-28T18:18:00,345
+2023/h489,amendment,H.Amdt. 474 (Burchett) to H.R. 4665: To reduce the salary of the Deputy Chief Executive Officer at the US Agency for Global Media to $1.,2023-09-28T21:57:00,346
+2023/h490,amendment,H.Amdt. 476 (Burchett) to H.R. 4665: To prohibit funds from being used for the Special Presidential Envoy for Climate.,2023-09-28T22:00:00,347
+2023/h491,amendment,H.Amdt. 478 (Tenney) to H.R. 4665: To prohibit funds to move the U.S. Embassy in Israel out of Jerusalem.,2023-09-28T22:03:00,348
+2023/h492,amendment,H.Amdt. 479 (Roy) to H.R. 4665: To prevent funds appropriated by this Act from being used to implement the administrations climate change Executive orders.,2023-09-28T22:07:00,349
+2023/h493,amendment,"H.Amdt. 480 (Davidson) to H.R. 4665: To reduce the salary of Victoria Nuland, Acting United States Deputy Secretary of State and Under Secretary for Political Affairs, to $1.",2023-09-28T22:09:00,350
+2023/h494,amendment,"H.Amdt. 481 (Steube) to H.R. 4665: To ensure none of the funds made available by this Act may be used to provide assistance to the United Nations Educational, Scientific and Cultural Organization (UNESCO).",2023-09-28T22:12:00,351
+2023/h495,amendment,H.Amdt. 482 (Perry) to H.R. 4665: To prohibit any funds from being made available for the United Nations Relief and Works Agency.,2023-09-28T22:15:00,352
+2023/h496,amendment,H.Amdt. 483 (Ogles) to H.R. 4665: To prohibit the use of funds to delist the Iran Revolutionary Guard Corps as a Foreign Terrorist Organization.,2023-09-28T22:20:00,353
+2023/h497,amendment,H.Amdt. 484 (Massie) to H.R. 4665: To prevent funds made available by this Act from being used to transfer cluster munitions to any foreign country.,2023-09-28T22:23:00,354
+2023/h498,amendment,H.Amdt. 485 (Burgess) to H.R. 4665: To reduce foreign assistance to certain countries based on the number of unaccompanied alien children who entered the US from those countries.,2023-09-28T22:26:00,355
+2023/h500,passage,"H.R. 4665 (118th): Department of State, Foreign Operations, and Related Programs Appropriations Act, 2024",2023-09-28T22:42:00,356
+2023/h502,passage,"H.R. 4365 (118th): Department of Defense Appropriations Act, 2024",2023-09-28T22:54:00,357
+2023/h503,passage,"H.R. 5692 (118th): Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024",2023-09-28T23:00:00,358
+2023/h505,passage,"H.R. 4367 (118th): Department of Homeland Security Appropriations Act, 2024",2023-09-28T23:13:00,359
+2023/h507,passage,"H.R. 4368 (118th): Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024",2023-09-28T23:25:00,360
+2023/h509,passage,"H.Res. 741 (118th): Providing for consideration of the bill (H.R. 5525) making continuing appropriations for fiscal year 2024, and for other purposes.",2023-09-29T11:57:00,361
+2023/h511,passage,"H.R. 5525 (118th): Continuing Appropriations and Border Security Enhancement Act, 2024",2023-09-29T13:46:00,362
+2023/h517,passage,"H.Res. 756 (118th): Providing for consideration of the bill (H.R. 4394) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2024, and for other purposes, and providing for consideration of ",2023-10-03T14:26:00,363
+2023/h519,passage,H.Res. 757 (118th): Declaring the office of Speaker of the House of Representatives to be vacant.,2023-10-03T16:42:00,364
+2023/h529,amendment,"H.Amdt. 488 (Perry) to H.R. 4394: To reduce the funding for Army Corps of Engineers - Civil; Investigations by $715,000 for the purpose of eliminating funding for the Delaware River Basin Commission.",2023-10-26T11:58:00,365
+2023/h530,amendment,"H.Amdt. 489 (Neguse) to H.R. 4394: To increase the Water and Related Resources Account by $1 million to be directed to the Colorado River Compliance Activities account, specifically for the Upper Colorado and San Juan River Endangered Fish Recovery progr",2023-10-26T12:02:00,366
+2023/h531,amendment,H.Amdt. 491 (Westerman) to H.R. 4394: To reduce funding for the Bureau of Reclamation's Policy and Administration to Fiscal Year 2022.,2023-10-26T12:07:00,367
+2023/h532,amendment,H.Amdt. 492 (Griffith) to H.R. 4394: To increase funds for the Fossil Energy and Carbon Management program within the Department of Energy by $600 million and reduce funds for the Energy Efficiency and Renewable Energy program by $1.1 billion.,2023-10-26T12:10:00,368
+2023/h533,amendment,H.Amdt. 493 (Roy) to H.R. 4394: To eliminate funding for Energy Department's Office of Energy Efficiency and Renewable Energy.,2023-10-26T12:13:00,369
+2023/h534,amendment,H.Amdt. 494 (Perry) to H.R. 4394: To eliminate funding for Clean Energy Demonstrations.,2023-10-26T12:17:00,370
+2023/h535,amendment,H.Amdt. 495 (Norman) to H.R. 4394: To eliminate funding for Advanced Research Projects Agency-Energy.,2023-10-26T12:20:00,371
+2023/h536,amendment,H.Amdt. 496 (Perry) to H.R. 4394: To reduce funding level in this bill for the Appalachian Regional Commission to FY19 levels.,2023-10-26T12:24:00,372
+2023/h537,amendment,H.Amdt. 497 (Perry) to H.R. 4394: To reduce funding level for the Delta Regional Commission to the FY19 level.,2023-10-26T12:27:00,373
+2023/h538,amendment,H.Amdt. 498 (Perry) to H.R. 4394: To reduce funding level for the Denali Commission to the FY19 level.,2023-10-26T12:29:00,374
+2023/h539,amendment,H.Amdt. 499 (Perry) to H.R. 4394: To eliminate funding for the Denali Commission.,2023-10-26T12:32:00,375
+2023/h540,amendment,H.Amdt. 500 (Perry) to H.R. 4394: To reduce funding for the Northern Border Regional Commission to FY19 levels.,2023-10-26T12:35:00,376
+2023/h541,amendment,H.Amdt. 501 (Perry) to H.R. 4394: To reduce funding for the Southeast Crescent Regional Commission to FY19 levels.,2023-10-26T12:38:00,377
+2023/h542,amendment,H.Amdt. 502 (Perry) to H.R. 4394: To cut funding for the Southwest Border Regional Commission in half.,2023-10-26T12:41:00,378
+2023/h543,amendment,H.Amdt. 503 (Perry) to H.R. 4394: To cut funding for the Great Lakes Authority in half.,2023-10-26T12:44:00,379
+2023/h544,amendment,H.Amdt. 506 (Garamendi) to H.R. 4394: To prohibit funding for plutonium pit production at the Savannah River Plutonium Processing Facility.,2023-10-26T12:47:00,380
+2023/h545,amendment,"H.Amdt. 507 (Garamendi) to H.R. 4394: To prohibit funds for the W87-1 modification program to enable additional analysis of the underlying program justifications, planning and budget.",2023-10-26T12:50:00,381
+2023/h546,amendment,H.Amdt. 509 (Hageman) to H.R. 4394: To prohibit any funding from going towards the SuperTruck III program at DOE.,2023-10-26T12:54:00,382
+2023/h547,amendment,"H.Amdt. 513 (Paulina Luna) to H.R. 4394: To reduce the salary of Michael Connor, Assistant Secretary of the Army for Civil Works, to $1.",2023-10-26T15:29:00,383
+2023/h548,amendment,"H.Amdt. 517 (Norman) to H.R. 4394: To prohibit funds for Department of Energy Office of Science's Office of Scientific Workforce Diversity, Equity, and Inclusion (SW-DEI).",2023-10-26T15:35:00,384
+2023/h549,amendment,H.Amdt. 520 (Norman) to H.R. 4394: To prohibit funding for the American Climate Corps.,2023-10-26T15:43:00,385
+2023/h550,amendment,H.Amdt. 520 (Norman) to H.R. 4394: To prohibit funding for the American Climate Corps.,2023-10-26T15:49:00,386
+2023/h551,amendment,"H.Amdt. 521 (Norman) to H.R. 4394: To reduce the salary of Jennifer M. Granholm, Secretary of the Department of Energy, to $1.",2023-10-26T15:53:00,387
+2023/h552,amendment,"H.Amdt. 525 (Pfluger) to H.R. 4394: To reduce the salary of Gene Rodrigues, Assistant Secretary for Electricity for the Office of Electricity, to $1.",2023-10-26T15:56:00,388
+2023/h553,amendment,"H.Amdt. 526 (Pfluger) to H.R. 4394: To reduce the salary of Andrew Light, Assistant Secretary of Energy for International Affairs, to $1.",2023-10-26T15:59:00,389
+2023/h554,amendment,"H.Amdt. 527 (Rosendale) to H.R. 4394: To reduce Energy and Water Development and Related Agencies Appropriations Act, 2024 by $1,553,000,000 to match FY22 levels.",2023-10-26T16:02:00,390
+2023/h555,amendment,"H.Amdt. 528 (Rosendale) to H.R. 4394: To reduce funds appropriated to the US Army Corp of Engineers--Civil by $620,000,000 to match FY22 levels.",2023-10-26T16:06:00,391
+2023/h556,amendment,H.Amdt. 529 (Rosendale) to H.R. 4394: To prohibit funds from being used to implement any of the Administration's climate change executive orders.,2023-10-26T16:09:00,392
+2023/h558,passage,"H.R. 4394 (118th): Energy and Water Development and Related Agencies Appropriations Act, 2024",2023-10-26T16:24:00,393
+2023/h563,passage,"H.R. 4364 (118th): Legislative Branch Appropriations Act, 2024",2023-11-01T19:37:00,394
+2023/h564,passage,H.Res. 773 (118th): Providing for the expulsion of Representative George Santos from the House of Representatives.,2023-11-01T19:46:00,395
+2023/h566,passage,"H.Res. 838 (118th): Providing for consideration of the bill (H.R. 4821) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2024, and for other purposes; providing for consi",2023-11-02T10:56:00,396
+2023/h567,amendment,H.Amdt. 533 (Hageman) to H.R. 4821: To reduce Bureau of Land Management funding by 50%.,2023-11-02T17:03:00,397
+2023/h568,amendment,H.Amdt. 534 (Collins) to H.R. 4821: To transfer the Council on Environmental Quality's funding to the National Parks Service for construction activities.,2023-11-02T17:07:00,398
+2023/h569,amendment,H.Amdt. 542 (Perry) to H.R. 4821: To strike funding for the Council on Environmental Quality.,2023-11-02T17:11:00,399
+2023/h570,amendment,H.Amdt. 543 (Perry) to H.R. 4821: To strike funding for the National Endowment for the Arts.,2023-11-02T17:15:00,400
+2023/h571,amendment,H.Amdt. 544 (Perry) to H.R. 4821: To strike funding for the National Endowment for the Humanities.,2023-11-02T17:18:00,401
+2023/h572,amendment,H.Amdt. 549 (Harshbarger) to H.R. 4821: To prohibit funds for the United States Board on Geographic Names.,2023-11-02T17:22:00,402
+2023/h573,amendment,H.Amdt. 552 (Perry) to H.R. 4821: To prohibit the use of funds for EPA to take backstop actions related to the Chesapeake Bay TMDL.,2023-11-02T17:25:00,403
+2023/h574,amendment,"H.Amdt. 555 (Boebert) to H.R. 4821: To reduce the salary of Elizabeth Klein, Director, Bureau of Ocean Energy Management to $1.",2023-11-02T17:28:00,404
+2023/h575,amendment,"H.Amdt. 556 (Boebert) to H.R. 4821: To prohibit the Director of the United States Fish and Wildlife Service and the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration, from taking any action to finalize, implemen",2023-11-02T17:32:00,405
+2023/h576,amendment,H.Amdt. 560 (Burgess) to H.R. 4821: To prohibit funds made available by this Act from being used by the Administrator of the Environmental Protection Agency to hire or pay the salary of any officer or employee of the Environmental Protection Agency under,2023-11-02T17:36:00,406
+2023/h577,passage,"H.R. 6126 (118th): Israel Security Supplemental Appropriations Act, 2024",2023-11-02T17:44:00,407
+2023/h579,amendment,H.Amdt. 567 (Crane) to H.R. 4821: To reduce the salary of Council on Environmental Quality Chair Brenda Mallory to $1.,2023-11-02T22:29:00,408
+2023/h580,amendment,"H.Amdt. 568 (Crane) to H.R. 4821: To prohibit funding for Public Land Order No. 7923, relating to public lands withdrawal surrounding Chaco Culture National Historical Park boundary.",2023-11-02T22:32:00,409
+2023/h581,amendment,"H.Amdt. 571 (Fulcher) to H.R. 4821: To prohibit funds to implement Section 216 of Executive Order 14008 (86 Fed. Reg. 7627), relating to tackling the climate crisis at home and abroad.",2023-11-02T22:35:00,410
+2023/h582,amendment,"H.Amdt. 573 (Gosar) to H.R. 4821: To prohibit funding to be used to finalize, implement, or enforce the proposed rule by the EPA titled ""Reconsideration of the National Ambient Air Quality Standards for Particulate Matter."".",2023-11-02T22:39:00,411
+2023/h583,amendment,H.Amdt. 576 (Greene) to H.R. 4821: To prohibit funds from being used to remove any monument on land under the jurisdiction of the Department of the Interior.,2023-11-02T22:42:00,412
+2023/h584,amendment,"H.Amdt. 582 (McCormick) to H.R. 4821: To reduce the salary of Matthew Tejada, Deputy Assistant Administrator for Environmental Justice, to $1.",2023-11-02T22:45:00,413
+2023/h585,amendment,H.Amdt. 583 (McCormick) to H.R. 4821: To prohibit funds from implementing certain Executive Orders relating to environmental justice.,2023-11-02T22:48:00,414
+2023/h586,amendment,"H.Amdt. 584 (Miller) to H.R. 4821: To reduce the salary of Ya-Wei (Jake) Li, Deputy Assistant Administrator for Pesticide Programs to $1.",2023-11-02T22:51:00,415
+2023/h587,amendment,H.Amdt. 587 (Nehls) to H.R. 4821: To prohibit funds for the EPA's Clean School Bus Program.,2023-11-02T22:54:00,416
+2023/h588,amendment,"H.Amdt. 590 (Norman) to H.R. 4821: To prohibit funding for Department of the Interior's Office of Diversity, Inclusion and Civil Rights.",2023-11-02T22:58:00,417
+2023/h589,amendment,"H.Amdt. 592 (Norman) to H.R. 4821: To reduce the salary of Tracy Stone-Manning, Director of the Bureau of Land Management, to $1.",2023-11-02T23:01:00,418
+2023/h590,amendment,"H.Amdt. 593 (Norman) to H.R. 4821: To reduce the salary of Michael Regan, Administrator of the Environmental Protection Agency, to $1.",2023-11-02T23:04:00,419
+2023/h591,amendment,"H.Amdt. 595 (Norman) to H.R. 4821: To reduce the salary of Deb Haaland, Secretary of the Interior, to $1.",2023-11-02T23:07:00,420
+2023/h592,amendment,H.Amdt. 596 (Ogles) to H.R. 4821: To prohibit funds to be used for the Antiquities Act of 1906.,2023-11-02T23:11:00,421
+2023/h593,amendment,H.Amdt. 600 (Ogles) to H.R. 4821: To prohibit funds to carry out the provisions of section 50262 of Public Law 117- 169 (Inflation Reduction Act).,2023-11-03T10:39:00,422
+2023/h594,amendment,H.Amdt. 606 (Roy) to H.R. 4821: To prohibit funds from being used to carry out environmental justice activities.,2023-11-03T10:44:00,423
+2023/h595,amendment,H.Amdt. 607 (Roy) to H.R. 4821: To prohibit funds from being used to implement any of the Administration's executive orders on climate change.,2023-11-03T10:47:00,424
+2023/h597,passage,"H.R. 4821 (118th): Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024",2023-11-03T11:03:00,425
+2023/h602,passage,"H.Res. 847 (118th): Providing for consideration of the bill (H.R. 4664) making appropriations for financial services and general government for the fiscal year ending September 30, 2024, and for other purposes.",2023-11-07T14:06:00,426
+2023/h603,amendment,H.Amdt. 614 (Escobar) to H.R. 4820: To increase and decrease the National Surface Transportation and Innovative Finance Bureau in recognition of the DOT Thriving Communities Program.,2023-11-07T14:13:00,427
+2023/h604,amendment,H.Amdt. 616 (Perry) to H.R. 4820: To strike National Network Grants.,2023-11-07T14:16:00,428
+2023/h605,amendment,H.Amdt. 620 (Perry) to H.R. 4820: To eliminate funding for grants to the Washington Metropolitan Area Transit Authority.,2023-11-07T14:19:00,429
+2023/h606,amendment,"H.Amdt. 621 (Grothman) to H.R. 4820: To increase and decrease funding for the Office of the Chief Human Capital Officer at the Department of Housing and Urban Development to express concern regarding the Diversity Council and the associated race, ethnici",2023-11-07T14:22:00,430
+2023/h607,amendment,H.Amdt. 622 (Brecheen) to H.R. 4820: To reduce funding for the Office of Fair Housing and Equal Opportunity to FY19 levels.,2023-11-07T14:25:00,431
+2023/h609,amendment,H.Amdt. 625 (Davidson) to H.R. 4820: To decrease funding for the Housing Opportunities for Persons With AIDS program by $505 million dollars and transfer the savings to Spending Reduction Account.,2023-11-07T21:31:00,432
+2023/h610,amendment,H.Amdt. 626 (Blunt Rochester) to H.R. 4820: To increase and decreases funding for the Community Development Fund to promote the identification and removal of barriers to affordable housing production and preservation.,2023-11-07T21:36:00,433
+2023/h611,amendment,H.Amdt. 627 (Grothman) to H.R. 4820: To increase and decreases funding for the Community Development Fund to promote the identification and removal of barriers to affordable housing production and preservation.,2023-11-07T21:40:00,434
+2023/h612,amendment,H.Amdt. 629 (Schweikert) to H.R. 4820: To reduce total funding to match FY 19 levels.,2023-11-07T21:43:00,435
+2023/h613,amendment,"H.Amdt. 630 (Schweikert) to H.R. 4820: To reduce by, 57 percent, each amount of discretionary budget authority provided by the bill.",2023-11-07T21:46:00,436
+2023/h614,amendment,H.Amdt. 638 (Hageman) to H.R. 4820: To prohibit funds made available by this act from being used for the National Electric Vehicle Infrastructure Formula Program.,2023-11-07T21:50:00,437
+2023/h615,amendment,H.Amdt. 640 (Massie) to H.R. 4820: To prohibit any funds from being used to conduct a competition analysis of mergers.,2023-11-07T21:55:00,438
+2023/h616,amendment,"H.Amdt. 641 (Massie) to H.R. 4820: To prohibit funds from being used to implement Sec. 24220 of the IIJA, which mandates that new vehicles include a kill switch to monitor diver performance and prevent vehicle operation.",2023-11-07T21:58:00,439
+2023/h617,amendment,"H.Amdt. 643 (Norman) to H.R. 4820: To reduce the salary of Ann E. Carlson, Acting Administrator of the National Highway Traffic Safety Administration, to $1.",2023-11-07T22:01:00,440
+2023/h618,amendment,"H.Amdt. 645 (Norman) to H.R. 4820: To reduce the salary of Julia Gordon, Assistant Secretary for Housing and the Federal Housing Commissioner, to $1.",2023-11-07T22:04:00,441
+2023/h619,amendment,"H.Amdt. 647 (Norman) to H.R. 4820: To prohibit funding for the implementation of the rule entitled ""Equal Access in Accordance With an Individual's Gender Identity in Community Planning and Development Programs"".",2023-11-07T22:07:00,442
+2023/h620,amendment,"H.Amdt. 654 (Santos) to H.R. 4820: To reduce the salary of Polly Trottenberg, Deputy Secretary of Transportation, to $1.",2023-11-07T22:10:00,443
+2023/h621,amendment,"H.Amdt. 655 (Self) to H.R. 4820: To prohibit funds from being used towards implementing, administering, or enforcing the Equity Action Plan of the Department of Housing and Urban Development established pursuant to Executive Order 13985 entitled ""Advanci",2023-11-07T22:14:00,444
+2023/h622,passage,"H.Res. 845 (118th): Censuring Representative Rashida Tlaib for promoting false narratives regarding the October 7, 2023, Hamas attack on Israel and for calling for the destruction of the state of Israel.",2023-11-07T22:24:00,445
+2023/h623,amendment,H.Amdt. 657 (Molinaro) to H.R. 4664: To increase and decrease funding by $21 million for the Committee on Foreign Investment in the United States to encourage the Committee to evaluate the rising threat of farmland owned by adversarial nations.,2023-11-08T14:33:00,446
+2023/h624,amendment,H.Amdt. 658 (Grothman) to H.R. 4664: To eliminate funding for the Department of Treasury's Community Development Financial Institutions Fund.,2023-11-08T14:38:00,447
+2023/h625,amendment,H.Amdt. 661 (Harshbarger) to H.R. 4664: To strike funding for firearms and ammunition for the Internal Revenue Service.,2023-11-08T14:42:00,448
+2023/h626,amendment,H.Amdt. 663 (Perry) to H.R. 4664: To reduce funding for the Consumer Financial Protection Bureau to $0.,2023-11-08T14:46:00,449
+2023/h627,amendment,H.Amdt. 665 (Ogles) to H.R. 4664: To reduce funding for Consumer Product Safety Commission to FY 2019 level.,2023-11-08T14:50:00,450
+2023/h628,amendment,H.Amdt. 666 (Perry) to H.R. 4664: To reduce the Salaries and Expenses of the Federal Trade Commission to FY19 levels.,2023-11-08T14:54:00,451
+2023/h629,amendment,"H.Amdt. 670 (Barr) to H.R. 4664: To ensure that none of the funds appropriated or otherwise made available by this Act may be made available to implement or enforce General License No. 8H, issued by the Office of Foreign Assets Control on October 25, 202",2023-11-08T14:59:00,452
+2023/h630,amendment,"H.Amdt. 671 (Barr) to H.R. 4664: To ensure that none of the funds made available by this Act may be used to implement, administer, or enforce Executive Order 14008 titled ""Tackling the Climate Crisis at Home and Abroad"" (January 27, 2021) or any rule or ",2023-11-08T15:05:00,453
+2023/h631,amendment,H.Amdt. 672 (Bean) to H.R. 4664: To prohibit the Small Business Administration from implementing the CA SBLC program.,2023-11-08T15:08:00,454
+2023/h632,amendment,H.Amdt. 675 (Burchett) to H.R. 4664: To reduce the salary of Securities and Exchange Commission chairman Gary Gensler to $1.,2023-11-08T15:12:00,455
+2023/h633,amendment,H.Amdt. 677 (Collins) to H.R. 4664: To prohibit funding for the Office of the Vice President.,2023-11-08T15:16:00,456
+2023/h634,amendment,H.Amdt. 687 (Gaetz) to H.R. 4664: To prohibit funds from being used for the acquisition of property for a new Federal Bureau of Investigation headquarters.,2023-11-08T21:27:00,457
+2023/h635,amendment,H.Amdt. 691 (Harshbarger) to H.R. 4664: To prohibit funding for the White House Gender Policy Council.,2023-11-08T21:32:00,458
+2023/h636,amendment,"H.Amdt. 707 (Ogles) to H.R. 4664: To prohibit funds from being used to finalize, implement, or enforce the proposed rule titled ""Upholding Civil Service Protections and Merit System Principles."".",2023-11-08T21:35:00,459
+2023/h637,amendment,"H.Amdt. 709 (Ogles) to H.R. 4664: To prohibit funds to finalize the Federal Labor Relations Authority's proposed rule entitled ""Miscellaneous and General Requirements"" (87 Fed. Reg. 78014) which would restrict federal employees' ability to opt out of mem",2023-11-08T21:38:00,460
+2023/h638,amendment,H.Amdt. 712 (Rosendale) to H.R. 4664: To reduce funding to the Consumer Product Safety Commission by 50%.,2023-11-08T21:41:00,461
+2023/h639,amendment,H.Amdt. 713 (Rosendale) to H.R. 4664: To prohibit funds from being used for the Office of Gun Violence Prevention.,2023-11-08T21:45:00,462
+2023/h640,amendment,"H.Amdt. 716 (Salazar) to H.R. 4664: To prohibit funds from being used to prohibit funds from being used to produce official documents containing the term ""latinx"" or ""latin-x."".",2023-11-08T21:48:00,463
+2023/h641,amendment,H.Amdt. 721 (Tenney) to H.R. 4664: To reduce the salary of White House Press Secretary Karine Jean-Pierre to $1.,2023-11-09T10:36:00,464
+2023/h642,amendment,"H.Amdt. 722 (Tenney) to H.R. 4664: To prohibit funding to finalize, implement, or enforce the FAR Council's proposed ""Federal Acquisition Regulation: Disclosure of Greenhouse Gas Emissions and Climate-Related Financial Risk"" rule.",2023-11-09T10:44:00,465
+2023/h647,passage,"H.Res. 864 (118th): Providing for consideration of the bill (H.R. 5894) making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2024, and for other purpos",2023-11-14T11:12:00,466
+2023/h648,amendment,"H.Amdt. 726 (Miller) to H.R. 5894: To reduce funding for the Occupational Safety and Health Administration by $536,922,000 to $0.",2023-11-14T17:05:00,467
+2023/h649,amendment,H.Amdt. 737 (Good) to H.R. 5894: To transfer $10 million allocated for the Office of Diversity in Biomedical Research to the Spending Reduction Account.,2023-11-14T17:10:00,468
+2023/h650,amendment,H.Amdt. 738 (Good) to H.R. 5894: To transfer $524.4 million from the National Institute of Minority Health and Health Disparities to the Spending Reduction Account.,2023-11-14T17:14:00,469
+2023/h651,amendment,"H.Amdt. 739 (Rosendale) to H.R. 5894: To reduce funding for the John E. Fogarty International Center by $95,162,000.",2023-11-14T17:18:00,470
+2023/h652,amendment,"H.Amdt. 741 (Mills) to H.R. 5894: To reduce the appropriated amount for the Office of the Director, National Institutes of Health to the FY19 appropriated amount.",2023-11-14T17:21:00,471
+2023/h653,amendment,"H.Amdt. 746 (Good) to H.R. 5894: To reduce funding, by $28 million, for the for Minority AIDS prevention, and transfer the savings to the Spending Reduction Account.",2023-11-14T17:24:00,472
+2023/h654,amendment,"H.Amdt. 750 (Biggs) to H.R. 5894: To reduce funding for the Student Financial Assistance Program by $9.25 billion, and transfer the savings to the Spending Reduction Account.",2023-11-14T17:28:00,473
+2023/h655,amendment,"H.Amdt. 751 (Biggs) to H.R. 5894: To reduce funding for the Student Aid Administration by $1,769,207,000, and transfer the savings to the Spending Reduction Account.",2023-11-14T17:31:00,474
+2023/h656,amendment,"H.Amdt. 752 (Biggs) to H.R. 5894: To reduce funding for the Higher Education Program by $2,767,239,000, and transfer the savings to the Spending Reduction Account.",2023-11-14T17:35:00,475
+2023/h657,amendment,"H.Amdt. 753 (Biggs) to H.R. 5894: To reduce funding for the Institute of Education Sciences by $707,372,000, and transfer the savings to the Spending Reduction Account.",2023-11-14T17:38:00,476
+2023/h660,passage,"H.Res. 869 (118th): Providing for consideration of the bill (H.R. 5893) making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2024, and for other purposes, and providing ",2023-11-15T11:11:00,477
+2023/h661,amendment,"H.Amdt. 754 (Perry) to H.R. 5894: To reduce funding for the National Labor Relations Board by $100 million, and to apply the savings to the spending reduction account.",2023-11-15T11:17:00,478
+2023/h662,amendment,H.Amdt. 761 (Biggs) to H.R. 5894: To prohibit funds to pay for the salary and expenses of Office of Refugee Resettlement Director Robin Dunn Marcos.,2023-11-15T11:22:00,479
+2023/h663,amendment,"H.Amdt. 764 (Crane) to H.R. 5894: To reduce funding for Department of Education Departmental Management by $37,735,000.",2023-11-15T11:25:00,480
+2023/h664,amendment,"H.Amdt. 770 (Greene) to H.R. 5894: To reduce the salary of Rachel Levine, Assistant Secretary for Health, to $1.",2023-11-15T11:29:00,481
+2023/h665,amendment,"H.Amdt. 771 (Greene) to H.R. 5894: To reduce the salary of Miguel Cardona, Secretary of Education, to $1.",2023-11-15T11:33:00,482
+2023/h666,amendment,H.Amdt. 778 (Hern) to H.R. 5894: To ensure the Department of Health and Human Services implements consumer protections passed in the surprise billing law that provides patients with an advanced cost estimate for their healthcare services.,2023-11-15T11:37:00,483
+2023/h667,amendment,"H.Amdt. 779 (Higgins) to H.R. 5894: To reduce the salary of Christopher Williamson, Assistant Secretary of the Mine Safety and Health Administration, to $1.",2023-11-15T11:41:00,484
+2023/h668,amendment,"H.Amdt. 780 (Higgins) to H.R. 5894: To reduce the salary of William O'Dell, District Manager in Dallas, Texas, of the Mine Safety and Health Administration, to $1.",2023-11-15T11:44:00,485
+2023/h669,amendment,"H.Amdt. 781 (Lawler) to H.R. 5894: To prohibit funding under this Act from going toward colleges and universities that authorize, facilitate, provide funding for, or otherwise support any event promoting antisemitism on campus.",2023-11-15T11:47:00,486
+2023/h670,amendment,"H.Amdt. 784 (McCormick) to H.R. 5894: To reduce the salary of Xavier Becerra, Secretary of the Department of Health and Human Services, to $1.",2023-11-15T11:50:00,487
+2023/h671,amendment,"H.Amdt. 785 (Miller) to H.R. 5894: To reduce the salary of Catherine E. Lhamon, Assistant Secretary for Civil Rights at the U.S. Department of Education, to $1.",2023-11-15T11:53:00,488
+2023/h672,amendment,"H.Amdt. 786 (Miller) to H.R. 5894: To reduce the salary of Douglas L. Parker, Assistant Secretary of Labor for Occupational Safety and Health, to $1.",2023-11-15T11:57:00,489
+2023/h673,amendment,H.Amdt. 788 (Miller) to H.R. 5894: To prohibit funds for the Office of Population Affairs.,2023-11-15T12:00:00,490
+2023/h674,amendment,H.Amdt. 790 (Miller-Meeks) to H.R. 5894: To prohibit funding for Centers for Disease Control and Prevention's firearm injury and mortality prevention research.,2023-11-15T12:03:00,491
+2023/h675,amendment,"H.Amdt. 800 (Rosendale) to H.R. 5894: To reduce the salary of Vincent Munster, Chief, Virus Ecology Section, National Institute of Allergy and Infectious Diseases to $1.",2023-11-15T12:08:00,492
+2023/h679,passage,H.Res. 891 (118th): Providing for consideration of the bill (H.R. 5283) to prohibit the use of Federal funds to provide housing to specified aliens on any land under the administrative jurisdiction of the Federal land management agencies; providing for c,2023-11-29T14:03:00,493
+2023/h680,amendment,"H.Amdt. 813 (Fitzpatrick) to H.R. 5961: To add findings that condemn Hamas and Iran-backed terror groups for using ""human shields"" and that only the unconditional surrender of Hamas and other Iran-backed terror groups will save innocent civilian lives.",2023-11-30T16:25:00,494
+2023/h681,amendment,"H.Amdt. 817 (Ogles) to H.R. 5961: To express a Sense of Congress that all US allies in the Middle East should publicly and unequivocally condemn the antisemitism displayed by Iranian-backed terror groups, including Hamas.",2023-11-30T16:29:00,495
+2023/h682,amendment,"H.Amdt. 818 (Ogles) to H.R. 5961: To prohibit the use of federal funds to make any funds (as such term is defined in section 2339C(e)(1) of title 18, United States Code) available to Iran.",2023-11-30T16:33:00,496
+2023/h683,amendment,"H.Amdt. 820 (Ogles) to H.R. 5961: To express the sense of Congress that the Houthis continue to benefit from the administration's ""failure to unequivocally condemn it."".",2023-11-30T16:36:00,497
+2023/h684,amendment,H.Amdt. 821 (Pfluger) to H.R. 5961: To prohibit the president from exercising the waiver authority described in section 1245(d)(5) of the 2012 NDAA and sections 1244(i) and 1247(f) of the Iran Freedom and Counter-Proliferation Act of 2012.,2023-11-30T16:39:00,498
+2023/h685,amendment,"H.Amdt. 822 (Porter) to H.R. 5961: To require the president to report to Congress on its policy related to human rights, nuclear proliferation, the ballistic missile program, and regional terrorism in Iran.",2023-11-30T16:43:00,499
+2023/h686,amendment,H.Amdt. 824 (Jackson) to H.R. 5961: To sunset the measure after five years.,2023-11-30T16:47:00,500
+2023/h687,passage,H.R. 5961 (118th): No Funds for Iranian Terrorism Act,2023-11-30T16:55:00,501
+2023/h688,amendment,H.Amdt. 812 (Velázquez) to H.R. 5283: To allow the Interior Secretary to provide housing for specified aliens when the originating state has failed to meet certain criteria.,2023-11-30T17:00:00,502
+2023/h689,passage,H.R. 5283 (118th): Protecting our Communities from Failure to Secure the Border Act of 2023,2023-11-30T17:07:00,503
+2023/h690,passage,"S.J.Res. 32 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to “Small Business Lending Under the Equal Credi",2023-12-01T10:47:00,504
+2023/h691,passage,H.Res. 878 (118th): Providing for the expulsion of Representative George Santos from the United States House of Representatives.,2023-12-01T10:56:00,505
+2023/h693,passage,"H.Res. 906 (118th): Providing for consideration of the bill (H.R. 4468) to prohibit the Administrator of the Environmental Protection Agency from finalizing, implementing, or enforcing a proposed rule with respect to emissions from vehicles, and for othe",2023-12-05T14:19:00,506
+2023/h698,amendment,"H.Amdt. 830 (Molinaro) to H.R. 5933: To add a requirement that foreign entities disclose any ties to designated foreign terrorist organizations, which includes Hamas.",2023-12-06T17:01:00,507
+2023/h699,amendment,"H.Amdt. 831 (Ogles) to H.R. 5933: To reduce the threshold value at which gifts must be reported from $50,000 to $1.",2023-12-06T17:05:00,508
+2023/h700,amendment,H.Amdt. 833 (Scott) to H.R. 5933: To strike and replace the bill language with an amendment in the nature of a substitute.,2023-12-06T17:09:00,509
+2023/h701,passage,H.R. 5933 (118th): DETERRENT Act,2023-12-06T17:17:00,510
+2023/h703,passage,H.R. 4468 (118th): Choice in Automobile Retail Sales Act of 2023,2023-12-06T17:30:00,511
+2023/h705,passage,"H.J.Res. 88 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to “Improving Income Driven Repayment for the William D. Ford Federal Direct Loan P",2023-12-07T10:43:00,512
+2023/h706,passage,H.Res. 914 (118th): Censuring Representative Jamaal Bowman.,2023-12-07T10:51:00,513
+2023/h711,passage,H.Res. 922 (118th): Providing for consideration of the bill (H.R. 1147) to amend the Richard B. Russell National School Lunch Act to allow schools that participate in the school lunch program under such Act to serve whole milk; providing for consideratio,2023-12-12T14:04:00,514
+2023/h717,passage,H.R. 357 (118th): Ensuring Accountability in Agency Rulemaking Act,2023-12-12T17:09:00,515
+2023/h718,passage,H.R. 1147 (118th): Whole Milk for Healthy Kids Act of 2023,2023-12-13T17:31:00,516
+2023/h720,passage,H.Res. 918 (118th): Directing certain committees to continue their ongoing investigations as part of the existing House of Representatives inquiry into whether sufficient grounds exist for the House of Representatives to exercise its Constitutional power,2023-12-13T17:46:00,517
+2024/h3,passage,"H.Res. 947 (118th): Providing for consideration of the bill (H.R. 788) to limit donations made pursuant to settlement agreements to which the United States is a party, and for other purposes; providing for consideration of the joint resolution (H.J. Res.",2024-01-10T14:33:00,518
+2024/h5,passage,"H.Res. 947 (118th): Providing for consideration of the bill (H.R. 788) to limit donations made pursuant to settlement agreements to which the United States is a party, and for other purposes; providing for consideration of the joint resolution (H.J. Res.",2024-01-11T14:09:00,519
+2024/h7,passage,H.R. 788 (118th): Stop Settlement Slush Funds Act of 2023,2024-01-11T16:27:00,520
+2024/h8,passage,"S.J.Res. 38 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Highway Administration relating to “Waiver of Buy America Requirements for Electric Vehic",2024-01-11T16:35:00,521
+2024/h10,passage,"H.J.Res. 98 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to “Standard for Determining Joint Employer Status”.",2024-01-12T10:46:00,522
+2024/h11,passage,"H.Res. 969 (118th): Providing for consideration of the bill (H.R. 6914) to require institutions of higher education to disseminate information on the rights of, and accommodations and resources for, pregnant students, and for other purposes; providing fo",2024-01-17T13:57:00,523
+2024/h13,passage,"H.Res. 957 (118th): Denouncing the Biden administration’s open-borders policies, condemning the national security and public safety crisis along the southwest border, and urging President Biden to end his administration’s open-borders policies.",2024-01-17T17:14:00,524
+2024/h17,passage,H.R. 6918 (118th): Supporting Pregnant and Parenting Women and Families Act,2024-01-18T17:03:00,525
+2024/h19,passage,H.R. 6914 (118th): Pregnant Students’ Rights Act,2024-01-18T17:18:00,526
+2024/h23,passage,H.Res. 980 (118th): Providing for consideration of the bill (H.R. 5585) to impose criminal and immigration penalties for intentionally fleeing a pursuing Federal officer while operating a motor vehicle; providing for consideration of the bill (H.R. 6678),2024-01-30T14:42:00,527
+2024/h24,amendment,"H.Amdt. 842 (Crockett) to H.R. 5585: To strike ""actively assisting, or"" from the offense provision.",2024-01-30T16:30:00,528
+2024/h25,passage,H.R. 5585 (118th): Agent Raul Gonzalez Officer Safety Act,2024-01-30T16:39:00,529
+2024/h26,amendment,H.Amdt. 845 (D'Esposito) to H.R. 6678: To expand the bill to require that any alien who has been convicted of or admits to having committed a crime involving financial misconduct in regards to certain COVID-19 loans be inadmissible and deportable.,2024-01-31T16:34:00,530
+2024/h27,passage,H.R. 6678 (118th): Consequences for Social Security Fraud Act,2024-01-31T16:41:00,531
+2024/h28,passage,H.R. 6679 (118th): No Immigration Benefits for Hamas Terrorists Act,2024-01-31T16:47:00,532
+2024/h31,passage,H.R. 6976 (118th): Protect Our Communities from DUIs Act,2024-02-01T10:29:00,533
+2024/h35,passage,"H.Res. 996 (118th): Providing for consideration of the resolution (H.Res. 863) impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors, and providing for consideration of the bill (H.R. 485) to amend title",2024-02-06T14:06:00,534
+2024/h40,passage,H.R. 485 (118th): Protecting Health Care for All Patients Act of 2023,2024-02-07T11:13:00,535
+2024/h46,passage,H.Res. 1009 (118th): Providing consideration of the bill (H.R. 7176) to repeal restrictions on the export and import of natural gas.,2024-02-14T17:02:00,536
+2024/h48,passage,"H.Res. 994 (118th): Providing for consideration of the bill (H.R. 7160) to amend the Internal Revenue Code of 1986 to modify the limitation on the amount certain married individuals can deduct for State and local taxes, and providing for consideration of",2024-02-14T17:15:00,537
+2024/h52,passage,H.R. 7176 (118th): Unlocking our Domestic LNG Potential Act of 2024,2024-02-15T14:19:00,538
+2024/h63,passage,"H.Res. 1052 (118th): Providing for consideration of the bill (H.R. 2799) to make reforms to the capital markets of the United States, and for other purposes, and providing for consideration of the bill (H.R. 7511) to require the Secretary of Homeland Sec",2024-03-06T16:08:00,539
+2024/h66,passage,H.R. 7511 (118th): Laken Riley Act,2024-03-07T14:01:00,540
+2024/h68,amendment,"H.Amdt. 851 (Lawler) to H.R. 2799: To clarify the definition of ""general solicitation"" and ""angel investor"" for purposes of the federal securities laws to ensure that startups can discuss their products and business plans at certain events, known as ""dem",2024-03-07T14:16:00,541
+2024/h69,amendment,H.Amdt. 852 (Huizenga) to H.R. 2799: To direct the Securities and Exchange Commission to promulgate rules with respect to the electronic delivery of certain required disclosures to investors.,2024-03-07T14:20:00,542
+2024/h70,amendment,"H.Amdt. 853 (Lucas) to H.R. 2799: To amend Federal securities laws to allow 403(b) plans to invest in collective investment trusts (CITs) and insurance contracts that currently may be invested in by comparable retirement plans, such as 401(k)s.",2024-03-07T14:25:00,543
+2024/h71,amendment,"H.Amdt. 854 (Wagner) to H.R. 2799: To allow a closed-end investment company, an entity that invests in securities using money raised in its initial public offering, to invest its assets in securities issued by private funds.",2024-03-07T14:28:00,544
+2024/h72,amendment,H.Amdt. 855 (Sherman) to H.R. 2799: To allow an individual to invest not more than 5 percent of the net worth of the individual excluding the individual's primary residence in any one private offering. To limit the aggregate investment of the individual ,2024-03-07T14:32:00,545
+2024/h73,amendment,H.Amdt. 856 (Houlahan) to H.R. 2799: To require the Advocate for Small Business Capital Formation to include in its report the effects of the failure of Silicon Valley Bank on community banks and small business lending.,2024-03-08T10:21:00,546
+2024/h74,amendment,"H.Amdt. 857 (Tlaib) to H.R. 2799: To ensure that exemptions or benefits provided by the bill may only apply to companies that do not impose ""junk fees"" on customers.",2024-03-08T10:26:00,547
+2024/h75,amendment,"H.Amdt. 858 (Lynch) to H.R. 2799: To provide that the bill may take effect only when the Securities and Exchange Commission, in consultation with State securities regulators, certifies to Congress that nothing in the bill will increase fraud.",2024-03-08T10:31:00,548
+2024/h76,amendment,"H.Amdt. 859 (Waters) to H.R. 2799: To require any investment adviser, private fund, or an investment company that is subject to the bill to annually and publicly disclose their investments into women-owned, minority-owned, veteran-owned, rural-domiciled,",2024-03-08T10:35:00,549
+2024/h78,passage,H.R. 2799 (118th): Expanding Access to Capital Act of 2023,2024-03-08T10:51:00,550
+2024/h82,passage,H.Res. 1071 (118th): Providing for consideration of the bill (H.R. 6276) to direct the Administrator of General Services and the Director of the Office of Management and Budget to identify the utilization rate of certain public buildings and federally-le,2024-03-12T14:07:00,551
+2024/h84,passage,H.R. 6276 (118th): USE IT Act of 2023,2024-03-12T17:08:00,552
+2024/h85,passage,H.Res. 1065 (118th): Denouncing the Biden administration’s immigration policies.,2024-03-12T17:17:00,553
+2024/h90,passage,"H.Res. 1085 (118th): Providing for consideration of the bill (H.R. 1023) to repeal section 134 of the Clean Air Act, relating to the greenhouse gas reduction fund; providing for consideration of the bill (H.R. 1121) to prohibit a moratorium on the use of",2024-03-20T14:05:00,554
+2024/h93,passage,H.R. 1121 (118th): Protecting American Energy Production Act,2024-03-20T16:41:00,555
+2024/h95,passage,H.R. 6009 (118th): Restoring American Energy Dominance Act,2024-03-20T16:55:00,556
+2024/h96,passage,"H.Res. 987 (118th): Denouncing the harmful, anti-American energy policies of the Biden administration, and for other purposes.",2024-03-21T14:22:00,557
+2024/h97,passage,H.Con.Res. 86 (118th): Expressing the sense of Congress that a carbon tax would be detrimental to the United States economy.,2024-03-21T14:29:00,558
+2024/h99,amendment,H.Amdt. 874 (Graves) to H.R. 7023: To limit the authorization for certain linear infrastructure projects if federal expenses turn out to exceed their predicted cost.,2024-03-21T16:51:00,559
+2024/h101,passage,H.R. 7023 (118th): Creating Confidence in Clean Water Permitting Act,2024-03-21T17:09:00,560
+2024/h104,passage,H.R. 1023 (118th): Cutting Green Corruption and Taxes Act,2024-03-22T11:55:00,561
+2024/h108,passage,H.Res. 1125 (118th): Providing for consideration of the bill (H.R. 7888) to reform the Foreign Intelligence Surveillance Act of 1978; providing for consideration of the bill (H.R. 529) to extend the customs waters of the United States from 12 nautical mi,2024-04-10T14:13:00,562
+2024/h113,passage,H.Res. 1137 (118th): Providing for consideration of the bill (H.R. 7888) to reform the Foreign Intelligence Surveillance Act of 1978; providing for consideration of the bill (H.R. 529) to extend the customs waters of the United States from 12 nautical mi,2024-04-12T09:31:00,563
+2024/h114,amendment,"H.Amdt. 876 (Biggs) to H.R. 7888: To prohibit warrantless searches of U.S. person communications in the FISA 702 database, with exceptions for imminent threats to life or bodily harm, consent searches, or known cybersecurity threat signatures.",2024-04-12T12:27:00,564
+2024/h115,amendment,H.Amdt. 877 (Roy) to H.R. 7888: To require the FBI to report to Congress on a quarterly basis the number of U.S. person queries conducted and permits Congressional leadership to attend Foreign Intelligence Surveillance Court proceedings.,2024-04-12T12:32:00,565
+2024/h116,amendment,H.Amdt. 879 (Crenshaw) to H.R. 7888: To modify the definition of foreign intelligence under section 702.,2024-04-12T12:36:00,566
+2024/h117,amendment,H.Amdt. 880 (Waltz) to H.R. 7888: To enable the use of section 702 information to vet foreigners traveling to the United States.,2024-04-12T12:40:00,567
+2024/h118,amendment,H.Amdt. 881 (Turner) to H.R. 7888: To modify the definition of electronic communication service provider under section 702.,2024-04-12T12:45:00,568
+2024/h119,passage,H.R. 7888 (118th): Reforming Intelligence and Securing America Act,2024-04-12T12:57:00,569
+2024/h125,passage,"H.Res. 1149 (118th): Providing for consideration of the bill (H.R. 6323) to modify the availability of certain waiver authorities with respect to sanctions imposed with respect to the financial sector of Iran, and for other purposes; providing for consid",2024-04-16T14:08:00,570
+2024/h135,amendment,H.Amdt. 885 (LaLota) to H.R. 4639: To clarify that Section 2 shall not limit a governmental entity's ability to obtain information that would be obtainable without a warrant.,2024-04-17T17:37:00,571
+2024/h136,passage,H.R. 4639 (118th): Fourth Amendment Is Not For Sale Act,2024-04-17T17:48:00,572
+2024/h137,passage,H.R. 6046 (118th): Standing Against Houthi Aggression Act,2024-04-17T17:54:00,573
+2024/h138,passage,H.R. 4691 (118th): Iran Sanctions Relief Review Act of 2023,2024-04-17T18:00:00,574
+2024/h139,passage,"H.R. 5947 (118th): To provide for the rescission of certain waivers and licenses relating to Iran, and for other purposes.",2024-04-17T18:07:00,575
+2024/h140,passage,H.R. 6323 (118th): Iran Counterterrorism Act of 2023,2024-04-17T18:14:00,576
+2024/h141,passage,H.Res. 1143 (118th): Condemning Iran’s unprecedented drone and missile attack on Israel.,2024-04-18T10:57:00,577
+2024/h142,passage,"H.Res. 1160 (118th): Providing for consideration of the bill (H.R. 8034) making emergency supplemental appropriations to respond to the situation in Israel and for related expenses for the fiscal year ending September 30, 2024, and for other purposes; pr",2024-04-19T11:01:00,578
+2024/h144,amendment,"H.Amdt. 889 (Nunn) to H.R. 8038: To require the Treasury Department to report and brief Congress identifying all assets of the Iranian Government or covered persons valued at more than $5 million and requires a list of all licenses, statements of licensi",2024-04-20T13:04:00,579
+2024/h145,passage,H.R. 8038 (118th): 21st Century Peace through Strength Act,2024-04-20T13:12:00,580
+2024/h146,passage,"H.R. 8036 (118th): Indo-Pacific Security Supplemental Appropriations Act, 2024",2024-04-20T13:19:00,581
+2024/h147,amendment,"H.Amdt. 891 (Spartz) to H.R. 8035: To strike sections 401, 402, 403, and 407.",2024-04-20T13:24:00,582
+2024/h148,amendment,H.Amdt. 892 (Greene) to H.R. 8035: To reduce every dollar amount in the bill to zero.,2024-04-20T13:27:00,583
+2024/h149,amendment,H.Amdt. 893 (Cammack) to H.R. 8035: To eliminate all non-military funding related to Ukraine.,2024-04-20T13:32:00,584
+2024/h151,passage,"H.R. 8035 (118th): Ukraine Security Supplemental Appropriations Act, 2024",2024-04-20T13:48:00,585
+2024/h152,passage,"H.R. 8034 (118th): Israel Security Supplemental Appropriations Act, 2024",2024-04-20T13:57:00,586
+2024/h155,passage,H.R. 529 (118th): Extending Limits of U.S. Customs Waters Act,2024-04-30T12:01:00,587
+2024/h163,passage,H.Res. 1173 (118th): Providing for consideration of the bill (H.R. 615) to prohibit the Secretary of the Interior and the Secretary of Agriculture from prohibiting the use of lead ammunition or tackle on certain Federal land or water under the jurisdicti,2024-04-30T12:41:00,588
+2024/h165,passage,H.R. 3397 (118th): WEST Act of 2024,2024-04-30T17:10:00,589
+2024/h167,passage,H.R. 615 (118th): Protecting Access for Hunters and Anglers Act of 2023,2024-04-30T17:22:00,590
+2024/h169,passage,H.R. 764 (118th): Trust the Science Act,2024-04-30T17:36:00,591
+2024/h171,passage,H.R. 3195 (118th): Superior National Forest Restoration Act,2024-04-30T17:48:00,592
+2024/h172,passage,H.R. 6090 (118th): Antisemitism Awareness Act of 2023,2024-05-01T16:50:00,593
+2024/h174,passage,H.R. 6285 (118th): Alaska’s Right to Produce Act of 2023,2024-05-01T17:03:00,594
+2024/h176,passage,H.Res. 1112 (118th): Denouncing the Biden administration’s immigration policies.,2024-05-01T17:20:00,595
+2024/h181,passage,H.Res. 1194 (118th): Providing for consideration of the bill (H.R. 6192) to amend the Energy Policy and Conservation Act to prohibit the Secretary of Energy from prescribing any new or amended energy conservation standard for a product that is not techno,2024-05-07T14:17:00,596
+2024/h182,amendment,On Agreeing to the Amendment: Amendment 3 to H R 6192,2024-05-07T16:41:00,597
+2024/h184,passage,H.R. 6192 (118th): Hands Off Our Home Appliances Act,2024-05-07T16:57:00,598
+2024/h189,passage,"H.J.Res. 109 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Securities and Exchange Commission relating to “Staff Accounting Bulletin No. 121”.",2024-05-08T17:49:00,599
+2024/h191,passage,H.R. 2925 (118th): Mining Regulatory Clarity Act of 2024,2024-05-08T18:02:00,600
+2024/h193,passage,H.R. 7109 (118th): Equal Representation Act,2024-05-08T18:15:00,601
+2024/h199,passage,H.Res. 1227 (118th): Providing for consideration of the bill (H.R. 8369) to provide for the expeditious delivery of defense articles and defense services for Israel and other matters; providing for consideration of the bill (H.R. 7530) to limit youth off,2024-05-15T14:10:00,602
+2024/h201,passage,H.R. 7530 (118th): DC CRIMES Act of 2024,2024-05-15T17:43:00,603
+2024/h202,passage,H.Res. 1210 (118th): Condemning the Biden border crisis and the tremendous burdens law enforcement officers face as a result.,2024-05-15T17:50:00,604
+2024/h203,passage,H.R. 7581 (118th): Improving Law Enforcement Officer Safety and Wellness Through Data Act,2024-05-15T17:56:00,605
+2024/h204,passage,H.R. 7343 (118th): Detain and Deport Illegal Aliens Who Assault Cops Act,2024-05-15T18:02:00,606
+2024/h213,passage,H.R. 354 (118th): LEOSA Reform Act of 2024,2024-05-16T16:34:00,607
+2024/h214,amendment,"H.Amdt. 916 (Houlahan) to H.R. 8146: To strike Section (2) lines 17-19 and strike the word ""Biden"" throughout the text.",2024-05-16T16:39:00,608
+2024/h215,passage,H.R. 8146 (118th): Police Our Border Act,2024-05-16T16:48:00,609
+2024/h217,passage,H.R. 8369 (118th): Israel Security Assistance Support Act,2024-05-16T17:00:00,610
+2024/h218,passage,H.Res. 1213 (118th): A resolution regarding violence against law enforcement officers.,2024-05-17T10:49:00,611
+2024/h222,passage,"H.Res. 1243 (118th): Providing for consideration of the bill (H.R. 4763) to provide for a system of regulation of digital assets by the Commodity Futures Trading Commission and the Securities and Exchange Commission, and for other purposes; providing for",2024-05-22T14:43:00,612
+2024/h223,amendment,H.Amdt. 919 (Casar) to H.R. 4763: To change the new crowdfunding exemption from $75 million to $5 million.,2024-05-22T17:21:00,613
+2024/h224,amendment,H.Amdt. 921 (Norman) to H.R. 4763: To require a study on the impact of digital asset registrants owned by foreign adversaries.,2024-05-22T17:26:00,614
+2024/h225,amendment,"H.Amdt. 922 (Perry) to H.R. 4763: To add a sense of Congress to the end of title V that nothing in this Act or any amendment made by this Act should be interpreted to authorize any entity to regulate any commodity, other than a digital commodity, on any ",2024-05-22T17:30:00,615
+2024/h226,passage,H.R. 4763 (118th): Financial Innovation and Technology for the 21st Century Act,2024-05-22T17:38:00,616
+2024/h227,amendment,"H.Amdt. 924 (Ogles) to H.R. 5403: To add a sense of Congress that the Board of Governors of the Federal Reserve System and the Federal Open Market Committee should not be permitted to develop, create, or implement a central bank digital currency, or use ",2024-05-23T13:33:00,617
+2024/h228,amendment,H.Amdt. 925 (Mooney) to H.R. 5403: To prohibit the Federal Reserve's Central Bank Digital Currency (CBDC) pilot programs.,2024-05-23T13:37:00,618
+2024/h229,amendment,"H.Amdt. 926 (Davidson) to H.R. 5403: To ensure the Federal Reserve Bank cannot design, build, develop, establish, or issue a CBDC. Ensures the Treasury Department cannot direct the Federal Reserve Bank to do any of the above actions.",2024-05-23T13:41:00,619
+2024/h230,passage,H.R. 5403 (118th): CBDC Anti-Surveillance State Act,2024-05-23T13:49:00,620
+2024/h232,passage,H.R. 192 (118th): To prohibit individuals who are not citizens of the United States from voting in elections in the District of Columbia and to repeal the Local Resident Voting Rights Amendment Act of 2022,2024-05-23T14:02:00,621
+2024/h236,passage,"H.Res. 1269 (118th): Providing for consideration of the bill (H.R. 8580) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2025, and for other purposes, and ",2024-06-04T11:10:00,622
+2024/h237,amendment,"H.Amdt. 931 (Bost) to H.R. 8580: To require the Department of Veterans Affairs to apply the same access standards for Mental Health Residential Rehabilitation Treatment Program (MHRRTP) as for primary care, specialty care, and non-institutional extended ",2024-06-04T16:05:00,623
+2024/h238,amendment,H.Amdt. 933 (Crane) to H.R. 8580: To prohibit the VA from using funds to submit a beneficiary's name to the NICS list based on VA's appointment of a fiduciary.,2024-06-04T16:09:00,624
+2024/h239,amendment,H.Amdt. 934 (Greene) to H.R. 8580: To strike funding for the North Atlantic Treaty Organization Security Investment Program.,2024-06-04T16:12:00,625
+2024/h240,amendment,"H.Amdt. 941 (Mast) to H.R. 8580: To ensure veterans can participate in state-approved medical marijuana programs. The amendment removes the current directive that prevents VA Medical Facility staff from recommending, making referrals, or completing forms",2024-06-04T16:17:00,626
+2024/h241,amendment,On Agreeing to the Amendment: Amendment 27 to H R 8580,2024-06-04T16:22:00,627
+2024/h242,passage,H.R. 8282 (118th): Illegitimate Court Counteraction Act,2024-06-04T16:40:00,628
+2024/h243,amendment,H.Amdt. 955 (Schweikert) to H.R. 8580: To increase and decrease funding by $1 million for the Veterans Benefits Administration to provide support for utilizing AI to expedite claims.,2024-06-05T10:25:00,629
+2024/h244,amendment,"H.Amdt. 956 (Schweikert) to H.R. 8580: To increase and decrease funding by $10 million to conduct a study on the benefits of utilizing artificial intelligence (AI) to streamline oversight, mitigate and reduce fraud, and improve data accuracy and financia",2024-06-05T10:31:00,630
+2024/h245,amendment,H.Amdt. 957 (Steube) to H.R. 8580: To prohibit the Department of Veterans Affairs from using its funds to pay bonuses to senior executives in the VA Central Office.,2024-06-05T10:38:00,631
+2024/h247,passage,"H.R. 8580 (118th): Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2025",2024-06-05T10:54:00,632
+2024/h251,passage,"H.Res. 1287 (118th): Providing for consideration of the bill (H.R. 8070) to authorize appropriations for fiscal year 2025 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Ene",2024-06-12T11:15:00,633
+2024/h253,amendment,H.Amdt. 963 (Mast) to H.R. 8070: To prohibit Department of Defense funds from being used for the operation of aircraft to transport Palestinian refugees to the U.S.,2024-06-12T16:09:00,634
+2024/h254,amendment,H.Amdt. 966 (Greene) to H.R. 8070: To state that none of the funds made available by this Act may be used for electric vehicles or an electric vehicle charging infrastructure.,2024-06-12T16:13:00,635
+2024/h255,amendment,H.Amdt. 967 (Biggs) to H.R. 8070: To exempt defense related activities from the Endangered Species Act.,2024-06-12T16:20:00,636
+2024/h256,amendment,"H.Amdt. 968 (Roy) to H.R. 8070: To prohibit funds authorized by this Act to be used to implement the Administration's Climate Change Executive Orders (EO 13990, EO 14008, Section 6 of EO 14013, EO 14030, EO 14057, EO 14082, EO 14096).",2024-06-12T16:24:00,637
+2024/h257,amendment,"H.Amdt. 969 (Mace) to H.R. 8070: To prohibit funds authorized or otherwise made available to the Department of Defense for any fiscal year to be made available for closure or realignment of Marine Corps Recruit Depot, Parris Island.",2024-06-12T16:27:00,638
+2024/h258,amendment,"H.Amdt. 971 (Waltz) to H.R. 8070: To prohibit enforcement of any regulation, rule, guidance, policy, or recommendation issued pursuant to Executive Orders 13688 and 14074 that limits the sale, donation, or transfer of excess property under the 1033 Progr",2024-06-12T16:30:00,639
+2024/h259,amendment,H.Amdt. 972 (Biggs) to H.R. 8070: To prohibit the use of funds for any project or activity related to NATO until the SECDEF certifies to the congressional defense committees that each member country of NATO has spent 2 percent of the respective GDP on de,2024-06-12T16:35:00,640
+2024/h260,passage,H.Res. 1292 (118th): Recommending that the House of Representatives find United States Attorney General Merrick B. Garland in contempt of Congress for refusal to comply with a subpoena duly issued by the Committee on the Judiciary.,2024-06-12T16:43:00,641
+2024/h261,amendment,H.Amdt. 973 (Greene) to H.R. 8070: To provide that none of the funds made available by this Act may be used for assistance to Ukraine.,2024-06-13T17:05:00,642
+2024/h262,amendment,H.Amdt. 986 (Rosendale) to H.R. 8070: To prohibit TRICARE from covering and the Department of Defense from furnishing gender transition surgeries and gender hormone treatments for individuals that identify as transgender.,2024-06-13T17:09:00,643
+2024/h263,amendment,H.Amdt. 989 (Van Duyne) to H.R. 8070: To prohibit the Secretary of Defense from paying for or reimbursing expenses relating to abortion services.,2024-06-13T17:13:00,644
+2024/h264,amendment,H.Amdt. 974 (Gaetz) to H.R. 8070: To prohibit the transfer of cluster munitions.,2024-06-13T17:17:00,645
+2024/h265,amendment,"H.Amdt. 975 (Grothman) to H.R. 8070: To establish a permanent hiring freeze for diversity, equity, and inclusion jobs in the Department of Defense.",2024-06-13T17:20:00,646
+2024/h266,amendment,"H.Amdt. 976 (Norman) to H.R. 8070: To eliminate any offices of Diversity, Equity, and Inclusion within the Armed Forces and Department of Defense along with the personnel in said offices.",2024-06-13T17:28:00,647
+2024/h267,amendment,"H.Amdt. 976 (Norman) to H.R. 8070: To eliminate any offices of Diversity, Equity, and Inclusion within the Armed Forces and Department of Defense along with the personnel in said offices.",2024-06-13T17:34:00,648
+2024/h268,amendment,H.Amdt. 977 (Higgins) to H.R. 8070: To eliminate the position of Chief Diversity Officer of the Department of Defense and prohibit the establishment of any substantially similar position.,2024-06-13T17:39:00,649
+2024/h269,amendment,"H.Amdt. 978 (Clyde) to H.R. 8070: To relocate the Reconciliation Memorial, also known as the Reconciliation Monument, to its original location in Arlington National Cemetery.",2024-06-13T17:42:00,650
+2024/h270,amendment,H.Amdt. 979 (Williams) to H.R. 8070: To prohibit funding of companies who function to demonetize domestic entities based on their lawful speech.,2024-06-13T17:45:00,651
+2024/h271,amendment,"H.Amdt. 980 (Steube) to H.R. 8070: To prohibit the Department of Defense Education Activity from purchasing, displaying, or maintaining material that promotes gender ideology or pornographic content.",2024-06-13T17:48:00,652
+2024/h272,amendment,H.Amdt. 982 (Boebert) to H.R. 8070: To prohibit federal funding for the Countering Extremist Activity Working Group or implement any recommendations from the group.,2024-06-13T17:51:00,653
+2024/h273,amendment,H.Amdt. 983 (Mills) to H.R. 8070: To strike an exemption that allows military chain of command or senior civilian leadership to approve the display of unapproved flags at military installations.,2024-06-13T17:55:00,654
+2024/h274,amendment,H.Amdt. 984 (Waltz) to H.R. 8070: To create sex-neutral physical fitness standards for combat MOS' and to add 2 additional combat MOSs.,2024-06-13T17:59:00,655
+2024/h275,amendment,"H.Amdt. 987 (Norman) to H.R. 8070: To prohibit the provision of gender transition procedures, including surgery or medication, through the Exceptional Family Medical Program.",2024-06-13T18:04:00,656
+2024/h276,amendment,H.Amdt. 994 (Perry) to H.R. 8070: To require a report from the Secretary of Defense on the use of taxpayer-funded official time.,2024-06-14T10:46:00,657
+2024/h277,amendment,H.Amdt. 996 (James) to H.R. 8070: To amend section 1725 to bolster the current report language on South Africa and to incorporate a full review of the bilateral relationship between the United States and South Africa.,2024-06-14T10:51:00,658
+2024/h279,passage,H.R. 8070 (118th): Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025,2024-06-14T11:07:00,659
+2024/h284,passage,"H.Res. 1316 (118th): Providing for consideration of the bill (H.R. 8774) making appropriations for the Department of Defense for the fiscal year ending September 30, 2025, and for other purposes; providing for consideration of the bill (H.R. 8771) making",2024-06-26T11:06:00,660
+2024/h285,amendment,On Agreeing to the Amendment: Amendment 3 to H R 8752,2024-06-26T15:53:00,661
+2024/h286,amendment,H.Amdt. 1003 (Clyde) to H.R. 8752: To maintain FY24 enacted funding for CISA.,2024-06-26T15:57:00,662
+2024/h287,amendment,On Agreeing to the Amendment: Amendment 9 to H R 8752,2024-06-26T16:01:00,663
+2024/h288,amendment,On Agreeing to the Amendment: Amendment 11 to H R 8752,2024-06-26T16:04:00,664
+2024/h289,amendment,On Agreeing to the Amendment: Amendment 19 to H R 8752,2024-06-26T16:09:00,665
+2024/h290,amendment,On Agreeing to the Amendment: Amendment 21 to H R 8752,2024-06-26T16:15:00,666
+2024/h291,amendment,On Agreeing to the Amendment: Amendment 21 to H R 8752,2024-06-26T16:23:00,667
+2024/h292,amendment,On Agreeing to the Amendment: Amendment 25 to H R 8752,2024-06-26T16:27:00,668
+2024/h293,amendment,On Agreeing to the Amendment: Amendment 26 to H R 8752,2024-06-26T16:30:00,669
+2024/h294,amendment,On Agreeing to the Amendment: Amendment 29 to H R 8752,2024-06-26T16:33:00,670
+2024/h295,amendment,On Agreeing to the Amendment: Amendment 30 to H R 8752,2024-06-26T16:37:00,671
+2024/h296,amendment,On Agreeing to the Amendment: Amendment 31 to H R 8752,2024-06-26T16:40:00,672
+2024/h297,amendment,H.Amdt. 1030 (Brecheen) to H.R. 8771: To reduce funding for educational and cultural exchange programs to FY2019 levels.,2024-06-27T11:00:00,673
+2024/h298,amendment,"H.Amdt. 1031 (Brecheen) to H.R. 8771: To reduce funding for the Global Environment Facility by $139,575,000.",2024-06-27T11:04:00,674
+2024/h299,amendment,H.Amdt. 1032 (Brecheen) to H.R. 8771: To reduce funding for the U.S. Institute of Peace to FY2019 enacted levels.,2024-06-27T11:07:00,675
+2024/h300,amendment,H.Amdt. 1033 (Burchett) to H.R. 8771: To reduce the salary of the Special Assistant to the Director of Programming at Voice of America to $1.,2024-06-27T11:10:00,676
+2024/h301,amendment,H.Amdt. 1037 (Burchett) to H.R. 8771: To prohibit funds from being used to finalize any rule or regulation that has resulted in or is likely to result in an annual effect on the economy of $100 million or more.,2024-06-27T11:14:00,677
+2024/h302,amendment,H.Amdt. 1038 (Gosar) to H.R. 8771: To prohibit funds for the TechCamp public diplomacy program of the Bureau of Educational & Cultural Affairs.,2024-06-27T11:17:00,678
+2024/h303,amendment,H.Amdt. 1039 (Gosar) to H.R. 8771: To prohibit funds to approve of Foreign Military Sales to Ukraine.,2024-06-27T11:20:00,679
+2024/h304,amendment,H.Amdt. 1040 (Gosar) to H.R. 8771: To prohibit funds for the Bilateral Security Agreement Between the United States of America and Ukraine.,2024-06-27T11:23:00,680
+2024/h305,amendment,H.Amdt. 1041 (Gosar) to H.R. 8771: To prohibit funds for the Special Representative for Ukraine's Economic Recovery.,2024-06-27T11:26:00,681
+2024/h306,amendment,"H.Amdt. 1042 (Greene) to H.R. 8771: To reduce the salary of Samantha Power, Administrator of the United States Agency for International Development, to $1.",2024-06-27T11:29:00,682
+2024/h307,amendment,H.Amdt. 1043 (Greene) to H.R. 8771: To prohibit funding for Ukraine.,2024-06-27T11:32:00,683
+2024/h308,amendment,H.Amdt. 1044 (Greene) to H.R. 8771: To prohibit funding for USAID.,2024-06-27T11:35:00,684
+2024/h309,amendment,H.Amdt. 1045 (Hageman) to H.R. 8771: To prohibit funds for the Food and Agriculture Organization.,2024-06-27T11:38:00,685
+2024/h310,amendment,H.Amdt. 1046 (Hageman) to H.R. 8771: To prohibit funding for the International Organization for Migration's activities in the Western Hemisphere.,2024-06-27T11:41:00,686
+2024/h311,amendment,"H.Amdt. 1050 (Mace) to H.R. 8771: To prohibit funds made available by this Act from being obligated, expended, or otherwise made available to the United Nations High Commissioner for Refugees.",2024-06-27T11:45:00,687
+2024/h312,amendment,H.Amdt. 1051 (Mace) to H.R. 8771: To reduce Migration and Refugee Assistance funding by $500 million and increase International Narcotics Control and Law Enforcement funding by $500 million.,2024-06-27T11:47:00,688
+2024/h313,amendment,H.Amdt. 1052 (Moskowitz) to H.R. 8771: To prohibit funds appropriated by this act from being made available for the State Department to cite statistics obtained from the Gaza Health Ministry.,2024-06-27T11:50:00,689
+2024/h314,amendment,H.Amdt. 1055 (Ogles) to H.R. 8771: To prohibit the use of funds from being used to administer or enforce National Security Memorandum 20 (National Security Memorandum on Safeguards and Accountability With Respect to Transferred Defense Articles and Defen,2024-06-27T11:53:00,690
+2024/h315,amendment,H.Amdt. 1056 (Perry) to H.R. 8771: To strike International Disaster Assistance funding.,2024-06-27T11:57:00,691
+2024/h316,amendment,H.Amdt. 1058 (Spartz) to H.R. 8771: To prohibit funding for the United Nations unless specifically authorized by Congress.,2024-06-27T12:00:00,692
+2024/h317,amendment,H.Amdt. 1059 (Steube) to H.R. 8771: To prohibit funds from being provided to the Lebanese Armed Forces.,2024-06-27T12:03:00,693
+2024/h318,amendment,"H.Amdt. 1061 (Tenney) to H.R. 8771: To prohibit funding for Executive Order 14019, relating to Promoting Access to Voting.",2024-06-27T15:58:00,694
+2024/h319,amendment,"H.Amdt. 1062 (Tenney) to H.R. 8771: To prohibit federal funds to pay the salary of, reinstate, or reemploy Robert Malley.",2024-06-27T16:02:00,695
+2024/h320,amendment,H.Amdt. 1064 (Tiffany) to H.R. 8771: To prohibit funds from being used to pay any United States contribution to the United Nations or any affiliated agency of the United Nations.,2024-06-27T16:05:00,696
+2024/h321,amendment,H.Amdt. 1065 (Waltz) to H.R. 8771: To prohibit funds from this Act from being used to support the Gaza pier.,2024-06-27T16:08:00,697
+2024/h322,amendment,H.Amdt. 1066 (Wilson) to H.R. 8771: To clarify the funding prohibition of taxpayer dollars going to the Assad regime in the bill encompasses taxpayer dollars that are provided both directly and indirectly to the regime.,2024-06-27T16:12:00,698
+2024/h323,amendment,"H.Amdt. 1072 (Greene) to H.R. 8774: To require the salary of Lloyd Austin, Secretary of Defense, to be reduced to $1.",2024-06-27T16:22:00,699
+2024/h324,amendment,H.Amdt. 1073 (Greene) to H.R. 8774: To prohibit funding for Ukraine.,2024-06-27T16:25:00,700
+2024/h325,amendment,H.Amdt. 1075 (Jayapal) to H.R. 8774: To prohibit funds from being used to carry out the unfunded priorities list.,2024-06-27T16:28:00,701
+2024/h326,amendment,"H.Amdt. 1076 (Moore) to H.R. 8774: To reduce funding for Defense-Wide RDTE by $4,910,000 to defund DOD climate-change research and increase funding by $4,910,000 for Army RDTE to fund enhancements for Unmanned Ground Vehicles.",2024-06-27T16:31:00,702
+2024/h327,amendment,"H.Amdt. 1079 (Tenney) to H.R. 8774: To prohibit funding for Executive Order 14019, relating to Promoting Access to Voting.",2024-06-28T10:13:00,703
+2024/h328,amendment,"H.Amdt. 1080 (Tenney) to H.R. 8774: To prohibit funding to finalize, implement, or enforce the FAR Council's proposed ""Federal Acquisition Regulation: Disclosure of Greenhouse Gas Emissions and Climate-Related Financial Risk"" rule.",2024-06-28T10:18:00,704
+2024/h329,amendment,"H.Amdt. 1081 (Titus) to H.R. 8774: To prohibit funds in the bill from being used to acquire, use, transfer, or sell cluster munitions.",2024-06-28T10:23:00,705
+2024/h331,passage,"H.R. 8774 (118th): Department of Defense Appropriations Act, 2025",2024-06-28T10:38:00,706
+2024/h333,passage,"H.R. 8752 (118th): Department of Homeland Security Appropriations Act, 2025",2024-06-28T10:51:00,707
+2024/h335,passage,"H.R. 8771 (118th): Department of State, Foreign Operations, and Related Programs Appropriations Act, 2025",2024-06-28T11:04:00,708
+2024/h339,passage,"H.Res. 1341 (118th): Providing for consideration of the bill (H.R. 8281) to amend the National Voter Registration Act of 1993 to require proof of United States citizenship to register an individual to vote in elections for Federal office, and for other p",2024-07-09T13:58:00,709
+2024/h341,passage,H.R. 7637 (118th): Refrigerator Freedom Act,2024-07-09T16:51:00,710
+2024/h343,passage,H.R. 7700 (118th): Stop Unaffordable Dishwasher Standards Act,2024-07-09T17:03:00,711
+2024/h345,passage,H.R. 8281 (118th): SAVE Act,2024-07-10T17:22:00,712
+2024/h348,amendment,H.Amdt. 1083 (Huizenga) to H.R. 8772: To prohibit funds being made available by this Act to the Congressional Office of International Leadership.,2024-07-11T10:43:00,713
+2024/h349,amendment,H.Amdt. 1085 (Self) to H.R. 8772: To prohibit funds for the charging of electric vehicles on Capitol property.,2024-07-11T10:47:00,714
+2024/h350,amendment,H.Amdt. 1086 (Jackson) to H.R. 8772: To reduce funding for the Office of the Attending Physician to the Congress to FY20 levels.,2024-07-11T10:54:00,715
+2024/h352,passage,"H.R. 8772 (118th): Legislative Branch Appropriations Act, 2025",2024-07-11T11:14:00,716
+2024/h353,passage,"H.Res. 1344 (118th): Finding that Merrick Garland, Attorney General of the United States, is in contempt of the House of Representatives for disobeying a certain subpoena.",2024-07-11T11:20:00,717
+2024/h354,passage,"H.J.Res. 165 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to “Nondiscrimination on the Basis of Sex in Education Programs or Activities Rece",2024-07-11T11:26:00,718
+2024/h360,passage,"H.Res. 1370 (118th): Providing for consideration of the bill (H.R. 8997) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2025, and for other purposes, and providing for consideration of",2024-07-23T10:50:00,719
+2024/h363,amendment,H.Amdt. 1099 (Ogles) to H.R. 8997: To prohibit funding for the American Climate Corps.,2024-07-23T16:54:00,720
+2024/h364,amendment,H.Amdt. 1104 (Perry) to H.R. 8997: To prohibit the use of funds for the Delaware River Basin Commission to implement or enforce its ban on hydraulic fracturing.,2024-07-23T16:57:00,721
+2024/h365,amendment,H.Amdt. 1105 (Perry) to H.R. 8997: To eliminate funding for the Advanced Technology Vehicles Manufacturing Loan Program and moves this funding to the spending reduction account.,2024-07-23T17:00:00,722
+2024/h366,amendment,H.Amdt. 1106 (Perry) to H.R. 8997: To eliminate funding for the Title 17 Loan Program and moves that funding to the spending reduction account.,2024-07-23T17:03:00,723
+2024/h367,amendment,H.Amdt. 1107 (Perry) to H.R. 8997: To reduce funding for the Appalachian Regional Commission to FY19 levels and transfer the difference to the spending reduction account.,2024-07-23T17:06:00,724
+2024/h368,amendment,H.Amdt. 1108 (Perry) to H.R. 8997: To reduce funding for the Delta Regional Commission to FY19 levels and transfer the difference to the spending reduction account.,2024-07-23T17:09:00,725
+2024/h369,amendment,H.Amdt. 1109 (Perry) to H.R. 8997: To reduce funding for the Denali Regional Commission to FY19 levels and transfer the difference to the spending reduction account.,2024-07-23T17:12:00,726
+2024/h370,amendment,H.Amdt. 1110 (Perry) to H.R. 8997: To reduce funding for the Southeast Crescent Regional Commission to FY19 levels and transfer the difference to the spending reduction account.,2024-07-23T17:15:00,727
+2024/h371,amendment,H.Amdt. 1111 (Perry) to H.R. 8997: To reduce funding for the Northern Border Regional Commission to FY19 levels and transfer the difference to the spending reduction account.,2024-07-23T17:18:00,728
+2024/h372,amendment,H.Amdt. 1112 (Perry) to H.R. 8997: To cut funding for the Great Lakes Authority in half and transfer the difference to the spending reduction account.,2024-07-23T17:21:00,729
+2024/h373,amendment,H.Amdt. 1113 (Perry) to H.R. 8997: To cut funding for the Southwest Border Regional Commission in half and transfer the difference to the spending reduction account.,2024-07-23T17:24:00,730
+2024/h374,amendment,H.Amdt. 1114 (Rosendale) to H.R. 8997: To prevent funds from being used to transfer or delegate control or maintenance responsibility of the Lower Yellowstone Fish Bypass Channel to any non-Federal entity.,2024-07-23T17:28:00,731
+2024/h375,amendment,H.Amdt. 1115 (Roy) to H.R. 8997: To prohibit funds for Federal Energy Regulatory Commission Order No. 1920.,2024-07-23T17:32:00,732
+2024/h376,amendment,H.Amdt. 1117 (Roy) to H.R. 8997: To eliminate funding for DOE's Office of Energy Efficiency and Renewable Energy.,2024-07-23T17:35:00,733
+2024/h377,amendment,H.Amdt. 1120 (Van Drew) to H.R. 8997: To prohibit funds from being used for the Office of Clean Energy Demonstrations of the Department of Energy.,2024-07-23T17:38:00,734
+2024/h378,amendment,"H.Amdt. 1121 (Van Drew) to H.R. 8997: To reduce the salary of Jigar Shah, Director of the Loan Programs Office, to $1.",2024-07-23T17:42:00,735
+2024/h379,amendment,"H.Amdt. 1122 (Van Drew) to H.R. 8997: To move $10,000,000 from renewable energy programs to enhance the security of existing electrical transformers from cyber threats and from physical attacks from individuals.",2024-07-23T17:45:00,736
+2024/h381,amendment,"H.Amdt. 1128 (Boebert) to H.R. 8998: To reduce the salary of Michael S. Regan, Administrator of the EPA, to $1.",2024-07-23T21:26:00,737
+2024/h382,amendment,"H.Amdt. 1129 (Boebert) to H.R. 8998: To reduce the salary of Melissa Schwartz, Director of Communications of the Department of the Interior, to $1.",2024-07-23T21:30:00,738
+2024/h383,amendment,"H.Amdt. 1130 (Boebert) to H.R. 8998: To reduce the salary of Elizabeth Klien, Director of the Bureau of Ocean Energy Management, to $1.",2024-07-23T21:33:00,739
+2024/h384,amendment,H.Amdt. 1138 (Boebert) to H.R. 8998: To prohibit funds for the Greenhouse Gas Reduction Fund.,2024-07-23T21:38:00,740
+2024/h385,amendment,"H.Amdt. 1140 (Boebert) to H.R. 8998: To reduce the salary of Tracy Stone-Manning, Director of the Bureau of Land Management, to $1.",2024-07-23T21:42:00,741
+2024/h386,amendment,H.Amdt. 1143 (Brecheen) to H.R. 8998: To reduce funding for the National Endowment for the Humanities to FY2019 levels.,2024-07-23T21:46:00,742
+2024/h387,amendment,H.Amdt. 1144 (Brecheen) to H.R. 8998: To defund the Woodrow Wilson International Center for Scholars and moves its $12 million in appropriations to the spending reduction account.,2024-07-24T10:58:00,743
+2024/h388,amendment,"H.Amdt. 1145 (Brecheen) to H.R. 8998: To prohibit funding for any diversity, equity, and inclusion program or office.",2024-07-24T11:03:00,744
+2024/h389,amendment,H.Amdt. 1152 (Harshbarger) to H.R. 8998: To prohibit funding for the U.S. Board on Geographic Names.,2024-07-24T11:08:00,745
+2024/h390,amendment,"H.Amdt. 1157 (Miller) to H.R. 8998: To reduce the salary of Ya-Wei (Jake) Li, Deputy Assistant Administrator for Pesticide Programs, to $1.",2024-07-24T11:11:00,746
+2024/h392,passage,"H.Res. 1376 (118th): Providing for consideration of the resolution (H. Res. 1371) strongly condemning the Biden Administration and its Border Czar, Kamala Harris’s, failure to secure the United States border.",2024-07-24T21:13:00,747
+2024/h394,amendment,"H.Amdt. 1166 (Perry) to H.R. 8998: To prohibit the use of funds to give formal notification under, or prepare, propose, implement, administer, or enforce any rule or recommendation pursuant to, section 115 of the Clean Air Act.",2024-07-24T21:25:00,748
+2024/h395,amendment,"H.Amdt. 1167 (Perry) to H.R. 8998: To prohibit the use of funds for the EPA to take any ""backstop"" actions related to the Chesapeake Bay TMDL.",2024-07-24T21:29:00,749
+2024/h396,amendment,H.Amdt. 1168 (Perry) to H.R. 8998: To eliminate funding for the Council on Environmental Quality and moves the funding to the spending reduction account.,2024-07-24T21:32:00,750
+2024/h397,amendment,H.Amdt. 1170 (Perry) to H.R. 8998: To prohibit funds made available by this Act to be used for environmental justice activities.,2024-07-24T21:35:00,751
+2024/h398,amendment,H.Amdt. 1174 (Tenney) to H.R. 8998: To reduce the salary of the Chair of the Council on Environmental Quality Brenda Mallory to $1.,2024-07-24T21:40:00,752
+2024/h399,passage,"H.R. 8998 (118th): Department of the Interior, Environment, and Related Agencies Appropriations Act, 2025",2024-07-24T21:49:00,753
+2024/h400,passage,"H.Res. 1371 (118th): Strongly condemning the Biden Administration and its Border Czar, Kamala Harris’s, failure to secure the United States border.",2024-07-25T10:59:00,754
+2024/h404,passage,"H.Res. 1430 (118th): Providing for consideration of the bill (H.R. 1398) to establish the CCP Initiative program, and for other purposes; providing for consideration of the bill (H.R. 1425) to require any convention, agreement, or other international ins",2024-09-10T13:59:00,755
+2024/h406,amendment,H.Amdt. 1181 (Cline) to H.R. 1516: To require the Secretary of Homeland Security to report to Congress any institution of higher education that has a relationship with a Confucius Institute or Chinese entity of concern and receives funds from the Departm,2024-09-10T16:26:00,756
+2024/h408,passage,H.R. 1516 (118th): DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act,2024-09-10T16:44:00,757
+2024/h409,amendment,H.Amdt. 1190 (Ogles) to H.R. 1425: To offer a statement of policy in support of Taiwan's full participation at the World Health Organization.,2024-09-11T16:47:00,758
+2024/h411,passage,H.R. 1425 (118th): No WHO Pandemic Preparedness Treaty Without Senate Approval Act,2024-09-11T17:06:00,759
+2024/h413,passage,H.R. 1398 (118th): Protect America’s Innovation and Economic Security from CCP Act of 2024,2024-09-11T17:19:00,760
+2024/h415,passage,H.R. 9456 (118th): Protecting American Agriculture from Foreign Adversaries Act of 2024,2024-09-11T17:32:00,761
+2024/h417,passage,H.R. 7980 (118th): End Chinese Dominance of Electric Vehicles in America Act of 2024,2024-09-12T10:40:00,762
+2024/h421,passage,"H.Res. 1455 (118th): Providing for consideration of the bill (H.R. 3724) to amend the Higher Education Act of 1965 to prohibit recognized accrediting agencies and associations from requiring, encouraging, or coercing institutions of higher education to m",2024-09-18T14:03:00,763
+2024/h427,passage,H.R. 5339 (118th): Protecting Americans’ Investments from Woke Policies Act,2024-09-18T18:18:00,764
+2024/h428,passage,H.R. 5179 (118th): Anti-BDS Labeling Act,2024-09-18T18:24:00,765
+2024/h429,passage,H.R. 7909 (118th): Violence Against Women by Illegal Aliens Act,2024-09-18T18:30:00,766
+2024/h431,passage,"H.R. 9494 (118th): Continuing Appropriations and Other Matters Act, 2025",2024-09-18T18:44:00,767
+2024/h433,passage,H.R. 3724 (118th): End Woke Higher Education Act,2024-09-19T16:13:00,768
+2024/h435,passage,H.R. 4790 (118th): Prioritizing Economic Growth Over Woke Policies Act,2024-09-19T16:28:00,769
+2024/h437,passage,H.R. 5717 (118th): No Bailout for Sanctuary Cities Act,2024-09-20T11:00:00,770
+2024/h438,passage,"H.J.Res. 136 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to “Multi-Pollutant Emissions Standards for Model Years 2027 and Later Lig",2024-09-20T11:06:00,771
+2024/h444,passage,"H.Res. 1486 (118th): Providing for consideration of the bill (H.R. 3334) to provide for the imposition of sanctions on members of the National Communist Party Congress of the People’s Republic of China, and for other purposes; providing for consideration",2024-09-24T14:02:00,772
+2024/h448,passage,H.R. 8790 (118th): Fix Our Forests Act,2024-09-24T17:37:00,773
+2024/h451,amendment,H.Amdt. 1220 (Nunn) to H.R. 3334: To add to the sanction list under section 4 any Chinese State-Owned Enterprise that knowingly manufactures or distributes any chemicals used in the production of illicit fentanyl.,2024-09-25T16:37:00,774
+2024/h452,passage,H.R. 3334 (118th): STOP CCP Act,2024-09-25T16:45:00,775
+2024/h454,passage,H.R. 8205 (118th): Keeping Violent Offenders Off Our Streets Act,2024-09-25T16:58:00,776
+2024/h455,passage,H.Res. 1469 (118th): Ensuring accountability for key officials in the Biden-Harris administration responsible for decisionmaking and execution failures throughout the withdrawal from Afghanistan.,2024-09-25T17:10:00,777
+2024/h460,passage,H.Res. 1568 (118th): Providing for consideration of the bill (H.R. 8932) to establish an earlier application processing cycle for the FAFSA; providing for consideration of the bill (H.R. 7409) to amend the Geothermal Steam Act of 1970 to waive the requir,2024-11-13T14:05:00,778
+2024/h462,passage,H.R. 8446 (118th): Critical Mineral Consistency Act of 2024,2024-11-14T14:27:00,779
+2024/h464,passage,H.R. 7409 (118th): HEATS Act,2024-11-14T14:41:00,780
+2024/h465,passage,H.R. 8932 (118th): FAFSA Deadline Act,2024-11-15T10:19:00,781
+2024/h469,passage,"H.Res. 1576 (118th): Providing for consideration of the bill (H.R. 1449) to amend the Geothermal Steam Act of 1970 to increase the frequency of lease sales, to require replacement sales, and for other purposes, and providing for consideration of the bill",2024-11-19T14:03:00,782
+2024/h470,amendment,"H.Amdt. 1228 (Grijalva) to H.R. 1449: To extend the timeline for determining permit completeness to 90 days, as requested by the Department of the Interior, and provides flexibility in the timeline to issue final determinations on a permit.",2024-11-19T16:29:00,783
+2024/h471,amendment,H.Amdt. 1229 (Grijalva) to H.R. 1449: To condition the effective date on a certification that the Bureau of Land Management and other Federal permitting agencies have sufficient staff and funding to comply with the deadlines established by this Act.,2024-11-19T16:33:00,784
+2024/h473,passage,H.R. 1449 (118th): CLEAN Act,2024-11-19T16:49:00,785
+2024/h477,passage,H.R. 9495 (118th): Stop Terror-Financing and Tax Penalties on American Hostages Act,2024-11-21T10:47:00,786
+2024/h483,passage,"H.Res. 1602 (118th): Providing for consideration of the bill (H.R. 5349) to develop and disseminate a civic education curriculum and oral history resources regarding certain political ideologies, and for other purposes, and providing for consideration of",2024-12-04T17:18:00,787
+2024/h487,amendment,H.Amdt. 1232 (Velázquez) to H.R. 7198: To require the Office of Advocacy to train rule-writing staff at agencies on the requirements of the Regulatory Flexibility Act at least once every four years.,2024-12-05T17:27:00,788
+2024/h489,passage,H.R. 7198 (118th): Prove It Act of 2024,2024-12-05T17:47:00,789
+2024/h492,passage,H.R. 5349 (118th): Crucial Communism Teaching Act,2024-12-06T10:18:00,790
+2024/h495,passage,"H.Res. 1612 (118th): Providing for consideration of the bill (H.R. 7673) to prohibit the Secretary of Energy from prescribing or enforcing energy conservation standards for clothes washers that are not cost-effective or technologically feasible, and for ",2024-12-10T14:14:00,791
+2024/h497,passage,H.R. 7673 (118th): Liberty in Laundry Act,2024-12-10T17:00:00,792
+2024/h500,passage,"H.R. 5009 (118th): To authorize appropriations for fiscal year 2025 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for suc",2024-12-11T16:36:00,793
+2024/h501,passage,S. 4199 (118th): JUDGES Act of 2024,2024-12-12T10:29:00,794
+2024/h507,passage,"H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Code, to provide for en bloc consideration in resolutions of disapproval for “midnight rules”, and for other purposes.",2024-12-17T14:01:00,795
+2024/h509,passage,H.R. 115 (118th): Midnight Rules Relief Act,2024-12-17T17:05:00,796

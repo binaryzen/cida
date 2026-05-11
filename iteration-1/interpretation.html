@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interpretation — CIDA Iteration 1</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <nav>
+    <a class="nav-brand" href="index.html">CIDA</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Overview</a></li>
+      <li><a href="structure.html">Structure</a></li>
+      <li><a href="overlays.html">Overlays</a></li>
+      <li><a href="interpretation.html" class="active">Interpretation</a></li>
+      <li><a href="methodology.html">Methodology</a></li>
+      <li><a href="data.html">Data</a></li>
+    </ul>
+    <span class="nav-tag">118th Congress · Iteration 1</span>
+  </nav>
+
+  <main>
+    <div class="page-header">
+      <span class="layer-badge l3">Layer 3 — Analyst Interpretation</span>
+      <h1>Analyst Interpretation</h1>
+      <p>Editorial labels and policy annotations assigned by the analyst after inspecting principal components. These are interpretive hypotheses, not independent findings. Where they conflict with Layer 2 (external CRS data), Layer 2 takes precedence.</p>
+    </div>
+
+    <div class="caveat">
+      <h3>⚠ Interpretation Disclaimer</h3>
+      <p>
+        Layer 3 content is human-assigned interpretation scaffolding. Component labels are assigned after examining top-loading votes within each principal component, and policy facet annotations are scored by LLM applied to the vote corpus. Neither layer represents external validation or independent evidence of the underlying dimensions. Both are analytical tools and editorial choices.
+      </p>
+      <p>
+        Where Layer 3 labels conflict with Layer 2 (CRS categories), the external data in Layer 2 takes precedence. See <a href="overlays.html">Overlays</a> for empirical correlations between PCA components and external data sources.
+      </p>
+    </div>
+
+    <section class="component-labels">
+      <h2>Component Labels</h2>
+      <p>
+        After reducing the vote matrix to principal components, an analyst examined the top-loading votes for each non-trivial component and assigned an interpretive label describing the apparent distinction between the positive and negative poles. These labels are editorial; the PCA dimensions themselves are data-driven.
+      </p>
+
+      <h3>House (435 members, 1,127 filtered votes)</h3>
+
+      <div class="component-card">
+        <div class="component-header">
+          <span class="component-id">PC0</span>
+          <span class="variance">70.5% variance</span>
+        </div>
+        <div class="component-label">
+          <span class="label-chip">"Party Alignment"</span>
+        </div>
+        <p>
+          The dominant component separates members largely along party lines. Top-loading votes include major partisan legislation such as the Inflation Reduction Act and the American Rescue Plan. The positive pole clusters with Democratic voting; the negative pole with Republican voting. This component captures the traditional party dimension and does not represent a policy-independent interest dimension.
+        </p>
+      </div>
+
+      <div class="component-card">
+        <div class="component-header">
+          <span class="component-id">PC1</span>
+          <span class="variance">6.2% variance</span>
+        </div>
+        <div class="component-label">
+          <span class="label-chip">"Internationalism vs. America First"</span>
+        </div>
+        <p>
+          The analyst labeled this component to reflect votes on foreign aid and international cooperation (positive pole) versus votes prioritizing domestic emergency management and spending (negative pole). However, the CRS data from Layer 2 shows that the dominant category correlating with House PC1 is <strong>Emergency Management</strong> (r = −0.501), not International Affairs (r = −0.140).
+        </p>
+        <div class="finding l3">
+          The label captures part of the structure but overstates the foreign policy dimension. The negative pole is empirically dominated by domestic emergency-response votes, not "America First" ideology. See <a href="overlays.html">Overlays</a> for full CRS correlations.
+        </div>
+      </div>
+
+      <div class="component-card">
+        <div class="component-header">
+          <span class="component-id">PC2</span>
+          <span class="variance">1.9% variance</span>
+        </div>
+        <div class="component-label">
+          <span class="label-chip">"Security Hawks vs. Civil Libertarians"</span>
+        </div>
+        <p>
+          The analyst interpreted this component as separating votes on defense and surveillance (positive pole) from civil liberties and oversight votes (negative pole). This is a secondary but interpretable axis distinct from party alignment.
+        </p>
+      </div>
+
+      <div class="component-card">
+        <div class="component-header">
+          <span class="component-id">PC3</span>
+          <span class="variance">1.4% variance</span>
+        </div>
+        <div class="component-label">
+          <span class="label-chip">"Executive Power Skeptics vs. Bipartisan Hawks"</span>
+        </div>
+        <p>
+          The analyst labeled this component to represent disagreement on executive power and institutional deference. The positive pole clusters with bipartisan deference to executive authority; the negative pole groups cross-party skeptics of executive power expansion. This is a minor component and should be interpreted with caution.
+        </p>
+      </div>
+
+      <h3>Senate (100 members, 842 filtered votes)</h3>
+
+      <div class="component-card">
+        <div class="component-header">
+          <span class="component-id">PC0</span>
+          <span class="variance">67.4% variance</span>
+        </div>
+        <div class="component-label">
+          <span class="label-chip">"Party Alignment"</span>
+        </div>
+        <p>
+          Like the House, the Senate's dominant component is party-driven, with major partisan legislation loading strongly. This does not represent a policy-independent interest dimension.
+        </p>
+      </div>
+
+      <div class="component-card">
+        <div class="component-header">
+          <span class="component-id">PC1</span>
+          <span class="variance">5.4% variance</span>
+        </div>
+        <div class="component-label">
+          <span class="label-chip">"Internationalism vs. Civil Libertarian Skeptics"</span>
+        </div>
+        <p>
+          The analyst labeled this component to reflect international engagement and foreign aid (positive pole) versus domestic fiscal priorities and civil liberties concerns (negative pole). However, the CRS data shows that the dominant categories correlating with Senate PC1 are <strong>Economics and Public Finance</strong> (r = 0.527) and <strong>Transportation</strong> (r = 0.496), both domestic categories.
+        </p>
+        <div class="finding l3">
+          The label may be accurate for the negative pole (domestic-first skeptics and civil libertarians), but it overstates the foreign policy dimension. The positive pole's empirical drivers appear to be domestic economics and infrastructure votes. See <a href="overlays.html">Overlays</a> for full CRS correlations.
+        </div>
+      </div>
+
+      <div class="component-card">
+        <div class="component-header">
+          <span class="component-id">PC2</span>
+          <span class="variance">2.2% variance</span>
+        </div>
+        <div class="component-label">
+          <span class="label-chip">"Security Consensus vs. Institutional Skeptics"</span>
+        </div>
+        <p>
+          The analyst interpreted this secondary component as representing disagreement between those supporting security-oriented votes (positive pole) and those skeptical of institutional security frameworks (negative pole). Like all PC2+ components, this should be interpreted cautiously given its low variance.
+        </p>
+      </div>
+    </section>
+
+    <section class="policy-facets">
+      <h2>Policy Facet Annotations</h2>
+
+      <h3>Overview</h3>
+      <p>
+        To supplement the PCA structure with richer semantic information, the analyst applied a policy facet annotation scheme to the 1,395 votes in the filtered corpus. Sixteen policy facets were scored for each vote using Claude Haiku (model <code>claude-haiku-4-5-20251001</code>) in 28 parallel batches. Each vote received a binary or scored facet assignment based on LLM interpretation of the bill description and legislative context.
+      </p>
+
+      <div class="caveat">
+        <h4>Circularity Warning</h4>
+        <p>
+          The policy facets were designed <strong>after</strong> inspecting the PCA structure. They were not pre-registered, and high correlations between facets and PCA components indicate <strong>internal consistency of the annotation scheme, not independent validation</strong> of the PCA dimensions. Do not treat facet-PCA correlations as evidence that the components are "correct" or capture "real" policy dimensions.
+        </p>
+      </div>
+
+      <h3>Facet List</h3>
+      <p>The following 16 policy facets were scored for each vote:</p>
+      <ul class="facet-list">
+        <li><strong>National Security Hawk</strong> — votes supporting military spending, intelligence operations, or defense initiatives</li>
+        <li><strong>Civil Liberties Defender</strong> — votes supporting privacy, constitutional protections, or limiting surveillance</li>
+        <li><strong>Fiscal Conservative</strong> — votes opposing spending increases or supporting budget cuts</li>
+        <li><strong>Social Safety Net Advocate</strong> — votes supporting social programs, benefits, or welfare expansion</li>
+        <li><strong>Environmental Protection</strong> — votes supporting environmental regulation or climate action</li>
+        <li><strong>Immigration Restrictionist</strong> — votes supporting border security or immigration limits</li>
+        <li><strong>Foreign Aid Supporter</strong> — votes supporting international aid, development, or humanitarian spending</li>
+        <li><strong>Executive Power Advocate</strong> — votes supporting executive authority or deference to presidential action</li>
+        <li><strong>Labor Rights Supporter</strong> — votes supporting labor unions or worker protections</li>
+        <li><strong>Corporate Regulation Supporter</strong> — votes supporting business regulation or antitrust action</li>
+        <li><strong>Healthcare Access Advocate</strong> — votes supporting healthcare expansion or access</li>
+        <li><strong>Gun Rights Defender</strong> — votes opposing gun regulation or supporting Second Amendment protections</li>
+        <li><strong>Government Oversight Champion</strong> — votes supporting transparency, audits, or legislative oversight</li>
+        <li><strong>Trade Protectionist</strong> — votes opposing trade agreements or supporting domestic industries</li>
+        <li><strong>Infrastructure Investment Supporter</strong> — votes supporting infrastructure spending or development</li>
+        <li><strong>Law Enforcement Support</strong> — votes supporting law enforcement, policing, or criminal justice spending</li>
+      </ul>
+
+      <h3>Facet-PCA Correlations</h3>
+      <p>
+        Analysis of facet assignments against PCA component scores identified 77 correlations with |r| > 0.10. Representative examples include:
+      </p>
+      <ul>
+        <li><strong>National Security Hawk × House PC1:</strong> r ≈ 0.55–0.65 (strong positive correlation with the "Internationalism" positive pole)</li>
+        <li><strong>Civil Liberties Defender × House PC2:</strong> r ≈ 0.40–0.50 (moderate positive correlation with the civil libertarian pole)</li>
+      </ul>
+      <p>
+        For complete facet-PCA correlations, see <code>facet_pca_correlations.csv</code> in the <a href="data.html">Data</a> section.
+      </p>
+
+    </section>
+
+    <section class="alignment-table">
+      <h2>Alignment with External Data (Layer 2)</h2>
+      <p>
+        The table below compares analyst-assigned component labels (Layer 3) with the empirically strongest CRS category correlations from Layer 2. Where there is a conflict, the external data in Layer 2 takes precedence.
+      </p>
+
+      <table class="alignment-comparison">
+        <thead>
+          <tr>
+            <th>Component</th>
+            <th>Analyst Label (Layer 3)</th>
+            <th>Top CRS Category (Layer 2)</th>
+            <th>Alignment</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>House PC0</strong></td>
+            <td><span class="label-chip">"Party Alignment"</span></td>
+            <td>Party (by construction)</td>
+            <td><span class="alignment-badge supported">Supported</span></td>
+            <td>Dominant component explicitly captures party dimension.</td>
+          </tr>
+          <tr>
+            <td><strong>House PC1</strong></td>
+            <td><span class="label-chip">"Internationalism vs. America First"</span></td>
+            <td>Emergency Management (r = −0.501)</td>
+            <td><span class="alignment-badge inconsistent">Inconsistent</span></td>
+            <td>Label emphasizes foreign policy; data shows domestic emergency response dominates. Partial alignment: negative pole does include domestic priorities, but emergency management, not general "America First" ideology.</td>
+          </tr>
+          <tr>
+            <td><strong>House PC2</strong></td>
+            <td><span class="label-chip">"Security Hawks vs. Civil Libertarians"</span></td>
+            <td>Defense / Civil Rights (mixed signals)</td>
+            <td><span class="alignment-badge partial">Partial</span></td>
+            <td>Label is interpretable and broadly consistent with secondary CRS signals, though low variance limits confidence.</td>
+          </tr>
+          <tr>
+            <td><strong>House PC3</strong></td>
+            <td><span class="label-chip">"Executive Power Skeptics vs. Bipartisan Hawks"</span></td>
+            <td>Government Operations (secondary)</td>
+            <td><span class="alignment-badge partial">Partial</span></td>
+            <td>Very low variance (1.4%); label is speculative. Treat with caution.</td>
+          </tr>
+          <tr>
+            <td><strong>Senate PC0</strong></td>
+            <td><span class="label-chip">"Party Alignment"</span></td>
+            <td>Party (by construction)</td>
+            <td><span class="alignment-badge supported">Supported</span></td>
+            <td>Dominant component explicitly captures party dimension.</td>
+          </tr>
+          <tr>
+            <td><strong>Senate PC1</strong></td>
+            <td><span class="label-chip">"Internationalism vs. Civil Libertarian Skeptics"</span></td>
+            <td>Economics and Public Finance (r = 0.527); Transportation (r = 0.496)</td>
+            <td><span class="alignment-badge inconsistent">Inconsistent</span></td>
+            <td>Label emphasizes international dimension; data shows domestic economics and infrastructure dominate. Negative pole ("Civil Libertarian Skeptics") may be accurate, but positive pole is empirically driven by domestic policy categories.</td>
+          </tr>
+          <tr>
+            <td><strong>Senate PC2</strong></td>
+            <td><span class="label-chip">"Security Consensus vs. Institutional Skeptics"</span></td>
+            <td>Government Operations (secondary)</td>
+            <td><span class="alignment-badge partial">Partial</span></td>
+            <td>Low variance (2.2%); label is interpretable but not strongly validated by external data. Use cautiously.</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <p>
+        <strong>Summary:</strong> Layer 3 labels for the two non-party House and Senate components show significant conflict with Layer 2 external data. Both PC1 labels overstate foreign policy and understate domestic economic/emergency response dimensions. This suggests that the analyst's interpretation, while internally consistent with the PCA structure, may not fully capture the empirical drivers of these components. See <a href="overlays.html">Overlays</a> for interactive exploration of CRS-PCA correlations.
+      </p>
+    </section>
+
+    <section class="editorial-notes">
+      <h2>Editorial Notes</h2>
+      <p>
+        Layer 3 is scaffolding, not evidence. It serves two purposes:
+      </p>
+      <ol>
+        <li><strong>Interpretive hypothesis:</strong> The labels offer a human-readable account of what each component might represent, based on inspection of top-loading votes.</li>
+        <li><strong>Semantic enrichment:</strong> The policy facet annotations provide finer-grained semantic signals that can be cross-referenced against PCA scores for exploratory analysis.</li>
+      </ol>
+      <p>
+        Neither should be treated as validation of the PCA structure. Both are subject to analyst bias, post-hoc reasoning, and the circularity inherent in designing annotations after seeing the data. The empirical ground truth resides in Layer 2 (external CRS categories) and Layer 1 (DW-NOMINATE scores). Layer 3 is a starting point for hypothesis formation, not a conclusion.
+      </p>
+    </section>
+
+  </main>
+
+  <footer>
+    CIDA Iteration 1 · 118th Congress (2023–2024) · Generated 2026-05-11 &nbsp;·&nbsp; <a href="https://github.com">Source</a>
+  </footer>
+
+</body>
+</html>

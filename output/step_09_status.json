@@ -1,0 +1,17 @@
+{
+  "step": 9,
+  "status": "ok",
+  "chambers": {
+    "house": {
+      "method": "HDBSCAN(min_cluster_size=17)",
+      "silhouette": 0.765,
+      "n_clusters": 2
+    },
+    "senate": {
+      "method": "HDBSCAN(min_cluster_size=5)",
+      "silhouette": 0.737,
+      "n_clusters": 4
+    }
+  },
+  "timestamp": "2026-05-11T03:02:31.140757"
+}

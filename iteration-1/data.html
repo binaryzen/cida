@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data — CIDA Iteration 1</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <nav>
+        <a class="nav-brand" href="index.html">CIDA</a>
+        <ul class="nav-links">
+            <li><a href="index.html">Overview</a></li>
+            <li><a href="structure.html">Structure</a></li>
+            <li><a href="overlays.html">Overlays</a></li>
+            <li><a href="interpretation.html">Interpretation</a></li>
+            <li><a href="methodology.html">Methodology</a></li>
+            <li><a href="data.html" class="active">Data</a></li>
+        </ul>
+        <span class="nav-tag">118th Congress · Iteration 1</span>
+    </nav>
+
+    <main>
+        <h1>Output Data</h1>
+        <p class="intro">All analysis outputs are stored in the output/ directory. This page catalogs every file, its description, and which analytical layer it belongs to.</p>
+
+        <!-- PCA Outputs Section -->
+        <section id="pca-outputs">
+            <h2>PCA Outputs</h2>
+            <p>Principal component scores, loadings, and legislator metadata from the dimensionality reduction step.</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Filename</th>
+                            <th>Description</th>
+                            <th>Layer</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><a href="../output/scores_house.csv">scores_house.csv</a></td>
+                            <td>PCA component scores for each House legislator (bioguide_id, display_name, party, state, pc0–pc3)</td>
+                            <td><span class="layer-badge">1</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/scores_senate.csv">scores_senate.csv</a></td>
+                            <td>PCA component scores for each Senate legislator (bioguide_id, display_name, party, state, pc0–pc2)</td>
+                            <td><span class="layer-badge">1</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/loadings_house.csv">loadings_house.csv</a></td>
+                            <td>Vote loadings on each House component (vote_id, pc0–pc3, vote_description)</td>
+                            <td><span class="layer-badge">1</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/loadings_senate.csv">loadings_senate.csv</a></td>
+                            <td>Vote loadings on each Senate component (vote_id, pc0–pc2, vote_description)</td>
+                            <td><span class="layer-badge">1</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/legislators_house.csv">legislators_house.csv</a></td>
+                            <td>House legislator roster with metadata (bioguide_id, display_name, party, state, chamber)</td>
+                            <td><span class="layer-badge">Methods</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/legislators_senate.csv">legislators_senate.csv</a></td>
+                            <td>Senate legislator roster with metadata (bioguide_id, display_name, party, state, chamber)</td>
+                            <td><span class="layer-badge">Methods</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- External Validation Section -->
+        <section id="external-validation">
+            <h2>External Validation</h2>
+            <p>Correlations between PCA components and independent measures of voting behavior.</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Filename</th>
+                            <th>Description</th>
+                            <th>Layer</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><a href="../output/nominate_comparison.csv">nominate_comparison.csv</a></td>
+                            <td>Pearson r between each PCA component and DW-NOMINATE dim1/dim2 (voteview.com HS118_members.csv)</td>
+                            <td><span class="layer-badge">Methods</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/crs_validation.csv">crs_validation.csv</a></td>
+                            <td>Pearson r between each PCA component and CRS policy area mean positions per legislator</td>
+                            <td><span class="layer-badge">Methods</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/facet_pca_correlations.csv">facet_pca_correlations.csv</a></td>
+                            <td>Pearson r between Haiku policy facet scores and PCA components</td>
+                            <td><span class="layer-badge">Methods</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- FEC Overlay Section -->
+        <section id="fec-overlay">
+            <h2>FEC Interest Overlay</h2>
+            <p>Correlations between PCA components and FEC industry receipt totals (log-transformed).</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Filename</th>
+                            <th>Description</th>
+                            <th>Layer</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><a href="../output/interest_correlation_table.csv">interest_correlation_table.csv</a></td>
+                            <td>Pearson r between each PCA component and FEC industry receipt totals (all legislators combined)</td>
+                            <td><span class="layer-badge">2</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/interest_correlation_heatmap_house.html">interest_correlation_heatmap_house.html</a></td>
+                            <td>Interactive heatmap of PC×industry correlations, House (hover for values)</td>
+                            <td><span class="layer-badge">2</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/interest_correlation_heatmap_senate.html">interest_correlation_heatmap_senate.html</a></td>
+                            <td>Interactive heatmap of PC×industry correlations, Senate</td>
+                            <td><span class="layer-badge">2</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Cluster Outputs Section -->
+        <section id="cluster-outputs">
+            <h2>Cluster Outputs</h2>
+            <p>Clustering results and cluster composition summaries.</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Filename</th>
+                            <th>Description</th>
+                            <th>Layer</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><a href="../output/cluster_summary_table.csv">cluster_summary_table.csv</a></td>
+                            <td>Cluster composition by party and representative legislators (House and Senate combined)</td>
+                            <td><span class="layer-badge">1</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/clusters_final.html">clusters_final.html</a></td>
+                            <td>Interactive combined House+Senate cluster visualization (hover: name, party, state)</td>
+                            <td><span class="layer-badge">1</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Interactive Plots Section -->
+        <section id="interactive-plots">
+            <h2>Interactive Plots</h2>
+            <p>HTML-based visualizations for exploring PCA space, geometry, and eigenvalue spectra.</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Filename</th>
+                            <th>Description</th>
+                            <th>Layer</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><a href="../output/eigenvalue_spectrum_house.html">eigenvalue_spectrum_house.html</a></td>
+                            <td>Scree plot with parallel analysis threshold line, House (4 components retained)</td>
+                            <td><span class="layer-badge">1</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/eigenvalue_spectrum_senate.html">eigenvalue_spectrum_senate.html</a></td>
+                            <td>Scree plot with parallel analysis threshold line, Senate (3 components retained)</td>
+                            <td><span class="layer-badge">1</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/pca_space_house.html">pca_space_house.html</a></td>
+                            <td>Legislator scores in PC0×PC1 space, colored by cluster, House</td>
+                            <td><span class="layer-badge">1</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/pca_space_senate.html">pca_space_senate.html</a></td>
+                            <td>Legislator scores in PC0×PC1 space, colored by cluster, Senate</td>
+                            <td><span class="layer-badge">1</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/ssa_geometry_house.html">ssa_geometry_house.html</a></td>
+                            <td>Non-metric MDS geometry (PC1+ only), House</td>
+                            <td><span class="layer-badge">1</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/ssa_geometry_senate.html">ssa_geometry_senate.html</a></td>
+                            <td>Non-metric MDS geometry (PC1+ only), Senate</td>
+                            <td><span class="layer-badge">1</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Configuration and Labels Section -->
+        <section id="configuration">
+            <h2>Configuration and Labels</h2>
+            <p>JSON files that store analyst-assigned labels and audit documentation.</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Filename</th>
+                            <th>Description</th>
+                            <th>Layer</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><a href="../output/component_labels.json">component_labels.json</a></td>
+                            <td>Analyst-assigned interpretive labels for each principal component (Layer 3)</td>
+                            <td><span class="layer-badge">3</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/threshold_audit.json">threshold_audit.json</a></td>
+                            <td>Senate participation threshold documentation (excluded legislators and rationale)</td>
+                            <td><span class="layer-badge">Methods</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="../output/step_09_status.json">step_09_status.json</a></td>
+                            <td>Clustering method used (HDBSCAN or K-Means), silhouette scores, timestamp</td>
+                            <td><span class="layer-badge">Methods</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Logs Section -->
+        <section id="logs">
+            <h2>Logs and Documentation</h2>
+            <p>Full methodology documentation and pipeline execution logs.</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Filename</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><a href="../output/methodology_log.md">methodology_log.md</a></td>
+                            <td>Complete methodology log documenting all exclusion counts, threshold choices, and interpretation decisions across all pipeline steps</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Database Note -->
+        <section id="database-note">
+            <div class="note">
+                <strong>SQLite Database (data/votes.db):</strong> Not included in this output directory due to size. The database contains tables for votes, vote_positions, and legislators. See <a href="methodology.html">methodology.html</a> for the schema and data acquisition details.
+            </div>
+        </section>
+
+        <!-- Layer Legend -->
+        <section id="layer-legend">
+            <h2>Layer Legend</h2>
+            <p>Output files are categorized by analytical layer:</p>
+            <ul>
+                <li><span class="layer-badge">1</span> = <strong>Dimensionality Reduction</strong> — PCA, clustering, geometry</li>
+                <li><span class="layer-badge">2</span> — <strong>Interest Overlay</strong> — FEC correlations</li>
+                <li><span class="layer-badge">3</span> — <strong>Interpretation</strong> — Analyst-assigned labels</li>
+                <li><span class="layer-badge">Methods</span> — <strong>Methodology</strong> — Validation data and audit logs</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        CIDA Iteration 1 · 118th Congress (2023–2024) · Generated 2026-05-11 &nbsp;·&nbsp; <a href="https://github.com">Source</a>
+    </footer>
+</body>
+</html>
