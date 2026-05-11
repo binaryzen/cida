@@ -25,6 +25,10 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
+# Editor / tool state
+.claude/
+.obsidian/
+
 # OS
 .DS_Store
 Thumbs.db
