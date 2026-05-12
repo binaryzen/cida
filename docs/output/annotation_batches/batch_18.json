@@ -1,0 +1,352 @@
+[
+  {
+    "vote_id": "2024/h201",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 7530 (118th): DC CRIMES Act of 2024",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2024/h202",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1210 (118th): Condemning the Biden border crisis and the tremendous burdens law enforcement officers face as a result.",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2024/h203",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 7581 (118th): Improving Law Enforcement Officer Safety and Wellness Through Data Act",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2024/h204",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 7343 (118th): Detain and Deport Illegal Aliens Who Assault Cops Act",
+    "policy_area": "Immigration"
+  },
+  {
+    "vote_id": "2024/h213",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 354 (118th): LEOSA Reform Act of 2024",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2024/h214",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 916 (Houlahan) to H.R. 8146: To strike Section (2) lines 17-19 and strike the word \"Biden\" throughout the text.",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2024/h215",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8146 (118th): Police Our Border Act",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2024/h217",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8369 (118th): Israel Security Assistance Support Act",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2024/h218",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1213 (118th): A resolution regarding violence against law enforcement officers.",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2024/h222",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1243 (118th): Providing for consideration of the bill (H.R. 4763) to provide for a system of regulation of digital assets by the Commodity Futures Trading Commission and the Securities and Exchange Commission, and for other purposes; providing for",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2024/h223",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 919 (Casar) to H.R. 4763: To change the new crowdfunding exemption from $75 million to $5 million.",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2024/h224",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 921 (Norman) to H.R. 4763: To require a study on the impact of digital asset registrants owned by foreign adversaries.",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2024/h225",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 922 (Perry) to H.R. 4763: To add a sense of Congress to the end of title V that nothing in this Act or any amendment made by this Act should be interpreted to authorize any entity to regulate any commodity, other than a digital commodity, on any ",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2024/h226",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 4763 (118th): Financial Innovation and Technology for the 21st Century Act",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2024/h227",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 924 (Ogles) to H.R. 5403: To add a sense of Congress that the Board of Governors of the Federal Reserve System and the Federal Open Market Committee should not be permitted to develop, create, or implement a central bank digital currency, or use ",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2024/h228",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 925 (Mooney) to H.R. 5403: To prohibit the Federal Reserve's Central Bank Digital Currency (CBDC) pilot programs.",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2024/h229",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 926 (Davidson) to H.R. 5403: To ensure the Federal Reserve Bank cannot design, build, develop, establish, or issue a CBDC. Ensures the Treasury Department cannot direct the Federal Reserve Bank to do any of the above actions.",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2024/h23",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 980 (118th): Providing for consideration of the bill (H.R. 5585) to impose criminal and immigration penalties for intentionally fleeing a pursuing Federal officer while operating a motor vehicle; providing for consideration of the bill (H.R. 6678)",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2024/h230",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 5403 (118th): CBDC Anti-Surveillance State Act",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2024/h232",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 192 (118th): To prohibit individuals who are not citizens of the United States from voting in elections in the District of Columbia and to repeal the Local Resident Voting Rights Amendment Act of 2022",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2024/h236",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1269 (118th): Providing for consideration of the bill (H.R. 8580) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2025, and for other purposes, and ",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h237",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 931 (Bost) to H.R. 8580: To require the Department of Veterans Affairs to apply the same access standards for Mental Health Residential Rehabilitation Treatment Program (MHRRTP) as for primary care, specialty care, and non-institutional extended ",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h238",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 933 (Crane) to H.R. 8580: To prohibit the VA from using funds to submit a beneficiary's name to the NICS list based on VA's appointment of a fiduciary.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h239",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 934 (Greene) to H.R. 8580: To strike funding for the North Atlantic Treaty Organization Security Investment Program.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h24",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 842 (Crockett) to H.R. 5585: To strike \"actively assisting, or\" from the offense provision.",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2024/h240",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 941 (Mast) to H.R. 8580: To ensure veterans can participate in state-approved medical marijuana programs. The amendment removes the current directive that prevents VA Medical Facility staff from recommending, making referrals, or completing forms",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h241",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "On Agreeing to the Amendment: Amendment 27 to H R 8580",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/h242",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8282 (118th): Illegitimate Court Counteraction Act",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2024/h243",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 955 (Schweikert) to H.R. 8580: To increase and decrease funding by $1 million for the Veterans Benefits Administration to provide support for utilizing AI to expedite claims.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h244",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 956 (Schweikert) to H.R. 8580: To increase and decrease funding by $10 million to conduct a study on the benefits of utilizing artificial intelligence (AI) to streamline oversight, mitigate and reduce fraud, and improve data accuracy and financia",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h245",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 957 (Steube) to H.R. 8580: To prohibit the Department of Veterans Affairs from using its funds to pay bonuses to senior executives in the VA Central Office.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h247",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8580 (118th): Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2025",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h25",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 5585 (118th): Agent Raul Gonzalez Officer Safety Act",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2024/h251",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1287 (118th): Providing for consideration of the bill (H.R. 8070) to authorize appropriations for fiscal year 2025 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Ene",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h253",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 963 (Mast) to H.R. 8070: To prohibit Department of Defense funds from being used for the operation of aircraft to transport Palestinian refugees to the U.S.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h254",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 966 (Greene) to H.R. 8070: To state that none of the funds made available by this Act may be used for electric vehicles or an electric vehicle charging infrastructure.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h255",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 967 (Biggs) to H.R. 8070: To exempt defense related activities from the Endangered Species Act.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h256",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 968 (Roy) to H.R. 8070: To prohibit funds authorized by this Act to be used to implement the Administration's Climate Change Executive Orders (EO 13990, EO 14008, Section 6 of EO 14013, EO 14030, EO 14057, EO 14082, EO 14096).",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h257",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 969 (Mace) to H.R. 8070: To prohibit funds authorized or otherwise made available to the Department of Defense for any fiscal year to be made available for closure or realignment of Marine Corps Recruit Depot, Parris Island.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h258",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 971 (Waltz) to H.R. 8070: To prohibit enforcement of any regulation, rule, guidance, policy, or recommendation issued pursuant to Executive Orders 13688 and 14074 that limits the sale, donation, or transfer of excess property under the 1033 Progr",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h259",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 972 (Biggs) to H.R. 8070: To prohibit the use of funds for any project or activity related to NATO until the SECDEF certifies to the congressional defense committees that each member country of NATO has spent 2 percent of the respective GDP on de",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h26",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 845 (D'Esposito) to H.R. 6678: To expand the bill to require that any alien who has been convicted of or admits to having committed a crime involving financial misconduct in regards to certain COVID-19 loans be inadmissible and deportable.",
+    "policy_area": "Immigration"
+  },
+  {
+    "vote_id": "2024/h260",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1292 (118th): Recommending that the House of Representatives find United States Attorney General Merrick B. Garland in contempt of Congress for refusal to comply with a subpoena duly issued by the Committee on the Judiciary.",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2024/h261",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 973 (Greene) to H.R. 8070: To provide that none of the funds made available by this Act may be used for assistance to Ukraine.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h262",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 986 (Rosendale) to H.R. 8070: To prohibit TRICARE from covering and the Department of Defense from furnishing gender transition surgeries and gender hormone treatments for individuals that identify as transgender.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h263",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 989 (Van Duyne) to H.R. 8070: To prohibit the Secretary of Defense from paying for or reimbursing expenses relating to abortion services.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h264",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 974 (Gaetz) to H.R. 8070: To prohibit the transfer of cluster munitions.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h265",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 975 (Grothman) to H.R. 8070: To establish a permanent hiring freeze for diversity, equity, and inclusion jobs in the Department of Defense.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h266",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 976 (Norman) to H.R. 8070: To eliminate any offices of Diversity, Equity, and Inclusion within the Armed Forces and Department of Defense along with the personnel in said offices.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h267",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 976 (Norman) to H.R. 8070: To eliminate any offices of Diversity, Equity, and Inclusion within the Armed Forces and Department of Defense along with the personnel in said offices.",
+    "policy_area": "Armed Forces and National Security"
+  }
+]

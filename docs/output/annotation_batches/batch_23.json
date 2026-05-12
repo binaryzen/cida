@@ -1,0 +1,352 @@
+[
+  {
+    "vote_id": "2024/s127",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1252: Ramona Villagomez Manglona, of the Northern Mariana Islands, to be Judge for the District Court for the Northern Mariana Islands for a term of ten years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s13",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Christopher Koos to be a Director of the Amtrak Board of Directors: Christopher Koos, of Illinois, to be a Director of the Amtrak Board of Directors for a term of five years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s14",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN15: Christopher Koos, of Illinois, to be a Director of the Amtrak Board of Directors for a term of five years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s141",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Motion to Proceed to H.R. 7888",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/s142",
+    "chamber": "s",
+    "category": "passage",
+    "question": "S. 4072 (118th): A bill to prohibit the use of funds to implement, administer, or enforce certain rules of the Environmental Protection Agency.",
+    "policy_area": "Environmental Protection"
+  },
+  {
+    "vote_id": "2024/s144",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1829 (Paul) to H.R. 7888: To append the Fourth Amendment Is Not For Sale Act.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/s145",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1834 (Marshall) to H.R. 7888: To strike the prohibition on political appointees being involved in the approval of queries by the Federal Bureau of Investigation.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/s146",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1820 (Wyden) to H.R. 7888: To strike section 25, relating to definition of electronic communication service provider.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/s147",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1828 (Paul) to H.R. 7888: To prohibit the use of authorities under the Foreign Intelligence Surveillance Act of 1978 to surveil United States persons, to prohibit queries under such Act using search terms associated with United States persons, an",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/s148",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1841 (Durbin) to H.R. 7888: To prohibit warrantless access to the communications and other information of United States persons.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/s149",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1840 (Lee) to H.R. 7888: To appropriately address the use of amici curiae in Foreign Intelligence Surveillance Court proceedings and to require adequate disclosure of relevant information in Foreign Intelligence Surveillance Act of 1978 applicati",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/s15",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Anthony Rosario Coscia to be a Director of the Amtrak Board of Directors: Anthony Rosario Coscia, of New Jersey, to be a Director of the Amtrak Board of Directors for a term of five years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s150",
+    "chamber": "s",
+    "category": "passage",
+    "question": "H.R. 7888 (118th): Reforming Intelligence and Securing America Act",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/s152",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Motion to Concur in the House Amdt to the Senate Amdt to H.R. 815",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/s154",
+    "chamber": "s",
+    "category": "passage",
+    "question": "H.R. 815 (118th): Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/s155",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Georgia N. Alexakis to be U.S. District Judge for the Northern District of Illinois: Georgia N. Alexakis, of Illinois, to be United States District Judge for the Northern District of Illinois",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s156",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1458: Georgia N. Alexakis, of Illinois, to be United States District Judge for the Northern District of Illinois",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s157",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Motion to Proceed to H.R. 3935",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2024/s159",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN35: Donna Ann Welton, of New York, to be Ambassador to the Democratic Republic of Timor-Leste",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s16",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN14: Anthony Rosario Coscia, of New Jersey, to be a Director of the Amtrak Board of Directors for a term of five years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s161",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Cantwell Amdt No. 1911 as Modified to H.R. 3935",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2024/s162",
+    "chamber": "s",
+    "category": "passage",
+    "question": "H.R. 3935 (118th): FAA Reauthorization Act of 2024",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2024/s163",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Courtney Diesel O'Donnell to be U.S. Permanent Representative to the United Nations Educational, Scientific, and Cultural Organization: Courtney Diesel O'Donnell, of California, to be United States Permanent Representative to the United Nations Educational, Scientific, and Cultural Organization, with the rank of Ambassador",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s164",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN927: Courtney Diesel O'Donnell, of California, to be United States Permanent Representative to the United Nations Educational, Scientific, and Cultural Organization, with the rank of Ambassador",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s165",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Sanket Jayshukh Bulsara to be U.S. District Judge for the Eastern District of New York: Sanket Jayshukh Bulsara, of New York, to be United States District Judge for the Eastern District of New York",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s166",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1433: Sanket Jayshukh Bulsara, of New York, to be United States District Judge for the Eastern District of New York",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s167",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1436: Eric C. Schulte, of South Dakota, to be United States District Judge for the District of South Dakota",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s168",
+    "chamber": "s",
+    "category": "passage",
+    "question": "S.J.Res. 57 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of the Treasury relating to \u201cCoronavirus State and Local Fiscal Recovery Funds\u201d.",
+    "policy_area": "Health"
+  },
+  {
+    "vote_id": "2024/s169",
+    "chamber": "s",
+    "category": "passage",
+    "question": "H.J.Res. 109 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Securities and Exchange Commission relating to \u201cStaff Accounting Bulletin No. 121\u201d.",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2024/s17",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN13: Joel Matthew Szabat, of Maryland, to be a Director of the Amtrak Board of Directors for a term of five years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s170",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1437: Camela C. Theeler, of South Dakota, to be United States District Judge for the District of South Dakota",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s171",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Seth Robert Aframe to be U.S. Circuit Judge for the First Circuit: Seth Robert Aframe, of New Hampshire, to be United States Circuit Judge for the First Circuit",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s172",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1238: Seth Robert Aframe, of New Hampshire, to be United States Circuit Judge for the First Circuit",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s173",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Krissa M. Lanham to be United States District Judge for the District of Arizona.: Krissa M. Lanham, of Arizona, to be United States District Judge for the District of Arizona",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s174",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1460: Krissa M. Lanham, of Arizona, to be United States District Judge for the District of Arizona",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s175",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Angela M. Martinez to be U.S. District Judge for the District of Arizona: Angela M. Martinez, of Arizona, to be United States District Judge for the District of Arizona",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s176",
+    "chamber": "s",
+    "category": "passage",
+    "question": "S.J.Res. 58 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \u201cEnergy Conservation Program: Energy Conservation Standards for ",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2024/s177",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1462: Angela M. Martinez, of Arizona, to be United States District Judge for the District of Arizona",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s178",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Dena M. Coggins to be U.S. District Judge for the Eastern District of California: Dena M. Coggins, of California, to be United States District Judge for the Eastern District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s179",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1434: Dena M. Coggins, of California, to be United States District Judge for the Eastern District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s18",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Jacquelyn D. Austin to be U.S. District Judge for the District of South Carolina: Jacquelyn D. Austin, of South Carolina, to be United States District Judge for the District of South Carolina",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s180",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Melissa Griffin Dalton to be Under Secretary of the Air Force: Melissa Griffin Dalton, of Virginia, to be Under Secretary of the Air Force",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s181",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1212: Melissa Griffin Dalton, of Virginia, to be Under Secretary of the Air Force",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s182",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Motion to Proceed to S. 4361",
+    "policy_area": "Immigration"
+  },
+  {
+    "vote_id": "2024/s183",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Christopher T. Hanson to be a Member of the Nuclear Regulatory Commission: Christopher T. Hanson, of Michigan, to be a Member of the Nuclear Regulatory Commission for the term of five years expiring June 30, 2029",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s184",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1569: Christopher T. Hanson, of Michigan, to be a Member of the Nuclear Regulatory Commission for the term of five years expiring June 30, 2029",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s185",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Tanya Monique Jones Bosier to be an Associate Judge of the Superior Court of the District of Columbia: Tanya Monique Jones Bosier, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia for the term of fifteen years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s186",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1350: Tanya Monique Jones Bosier, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia for the term of fifteen years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s187",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Judith E. Pipe to be an Associate Judge of the Superior Court of the District of Columbia: Judith E. Pipe, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia for the term of fifteen years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s188",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1354: Judith E. Pipe, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia for the term of fifteen years",
+    "policy_area": ""
+  }
+]

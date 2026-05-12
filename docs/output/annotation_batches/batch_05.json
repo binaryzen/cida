@@ -1,0 +1,352 @@
+[
+  {
+    "vote_id": "2023/h443",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 394 (Wasserman Schultz) to H.R. 4367: To strike sections 213, 214, 220, 221, 224, 404, 405, 544, 549, and 550.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h444",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 396 (Escobar) to H.R. 4367: To strike section 224, which requires the DHS secretary to prioritize detention of aliens over alternative options.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h445",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 398 (Clyde) to H.R. 4367: To reduce funding for CISA by 25%.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h446",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 400 (Biggs) to H.R. 4367: To prohibit the use of funds to pay the salary and expenses of CISA Director Jen Easterly.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h447",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 401 (Biggs) to H.R. 4367: To prohibit the use of funds to pay the salary and expenses of CISA Director of Election Security Initiative Geoffrey Hale.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h448",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 402 (Biggs) to H.R. 4367: To prohibit the use of funds to pay the salary and expenses of DHS Under Secretary for the Office of Strategy, Policy, and Plans Robert Silvers.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h449",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 403 (Biggs) to H.R. 4367: To prohibit the use of funds to pay the salary and expenses of DHS Assistant Secretary for Counter Terrorism and Threat Prevention Samantha Vinograd.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h45",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 15 (Spanberger) to H.R. 21: To add a new paragraph entitled Offshore Exclusion which shall not include oil and gas leasing in any tract located off the coast of Virginia.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h450",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 404 (Biggs) to H.R. 4367: To prohibit the use of funds to pay the salary and expenses of DHS Director of Departmental GAO-OIG Liaison Office Jim Crumpacker.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h451",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 409 (Boebert) to H.R. 4367: To decrease the salary of Kenneth L Wainstein, Secretary of Homeland Security for Intelligence and Analysis to $1.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h452",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 410 (Boebert) to H.R. 4367: To reduce the salary of Claire Trickler-McNulty, Assistant Director, ICE Office of Program Evaluation, to $1.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h453",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 411 (Boebert) to H.R. 4367: To decrease the salary of head of the CRCL office, Shoba Sivaprasad Wadhia, to $1.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h454",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 412 (Castro) to H.R. 4367: To prohibit the use of federal funds to support Operation Lone Star.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h455",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 420 (Nehls) to H.R. 4367: To prohibit funds from this bill to be used for the Office for Civil Rights and Civil Liberties of the Department of Homeland Security.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h457",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 730 (118th): Providing for consideration of the bill (H.R. 5692) making supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes; providing for further consideration of the bill (H.R. 4365) making appropria",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h458",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 422 (Norman) to H.R. 4367: To reduce the salary of Kristie Canegallo, Deputy Secretary of Homeland Security, to $1.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h459",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 423 (Norman) to H.R. 4367: To reduce the salary of Kimberly O'Connor, Executive Secretary of the Department of Homeland Security, to $1.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h46",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 20 (Huffman) to H.R. 21: To add a new paragraph, Offshore Exclusions which shall not include oil and gas leasing in any tract located in the Northern California planning area.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h460",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 424 (Norman) to H.R. 4367: To reduce the salary of Blas Nu\u00f1ez-Neto, Assistant Secretary for Border and Immigration Policy, to $1.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h461",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 429 (Rosendale) to H.R. 4367: To reduce total amount appropriated by $8,722,000,000.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h462",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 437 (Crane) to H.R. 4665: To eliminate funding to the United States Institute of Peace.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h463",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 438 (Crane) to H.R. 4665: To eliminate funding to the Commission on Security and Cooperation in Europe, Salaries and Expenses.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h464",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 439 (Crane) to H.R. 4665: To reduce funding by 50% for USAID.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h465",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 440 (Perry) to H.R. 4665: To eliminate funding to the U.S. Agency for International Development, Funds Appropriated to the President Capital Investment Fund.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h466",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 442 (Gaetz) to H.R. 4665: To reduce funds apportioned to USAID by $4.5 billion and transfers to the Spending Reduction Account.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h467",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 443 (Perry) to H.R. 4665: To eliminate funding for International Disaster Assistance.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h468",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 444 (Perry) to H.R. 4665: To reduce Economic Support Fund funding to the FY18 enacted level.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h469",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 445 (Perry) to H.R. 4665: To eliminate funding for Migration and Refugee Assistance.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h47",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 21 (Huffman) to H.R. 21: To exclude any tract of Federal land where oil and gas leasing would decrease land and water available for outdoor recreation from the total increase in the percentage of Federal lands described in paragraph (1) leased fo",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h470",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 446 (Ogles) to H.R. 4665: To transfer $14.3 million from the Peace Corps budget to the Spending Reduction Account.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h471",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 447 (Kelly) to H.R. 4665: To reduce funding by $10,000,000 for the Global Environment Facility Fund.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h472",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 448 (Plaskett) to H.R. 4665: To strike section 7070(d) which prohibits the classification of any communications by a U.S. person as misinformation, disinformation, or malinformation.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h473",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 453 (Greene) to H.R. 4665: To prohibit assistance to Ukraine.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h474",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 454 (Greene) to H.R. 4665: To prohibit funds from being used by the Secretary of State to initiate a drawdown and delivery of defense articles and services from Department of Defense stocks to Ukraine.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h475",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 455 (Steube) to H.R. 4665: To prohibit funds from being used for the Lebanese Armed Forces.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h476",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 456 (Steube) to H.R. 4665: To prohibit funds from being used to provide assistance to Iraq.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h477",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 457 (Gaetz) to H.R. 4665: To prohibit funds from being used to implement the Paris Agreement.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h478",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 458 (Boebert) to H.R. 4665: To decrease the salary of UN Ambassador Linda Thomas Greenfield to $1.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h479",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 459 (Boebert) to H.R. 4665: To decrease the salary of the Director of Policy Planning Staff Salman Ahmed to $1.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h48",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 22 (Panetta) to H.R. 21: To add a new paragraph, Offshore Exclusions, which shall not include oil and gas leasing in any tract located in the Central California planning area.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h480",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 460 (Boebert) to H.R. 4665: To decrease the salary of Department's Acting Chief Diversity and Inclusion Officer Constance Mayor to $1.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h481",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 461 (Boebert) to H.R. 4665: To decrease the salary of Palestinian affairs officer George Noll to $1.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h482",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 462 (Ogles) to H.R. 4665: To prohibit funds in this Act from being made available to Pakistan.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h483",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 464 (Gooden) to H.R. 4665: To prohibit taxpayer dollars from funding the International Organization for Migration's \"Refugee Travel Loan Program.\".",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h484",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 467 (Spartz) to H.R. 4665: To prohibit funding for United Nations entities unless specifically appropriated in the underlying bill.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h485",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 468 (Hageman) to H.R. 4665: To prohibit funds from being made available for the State Department's Office of Global Change.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h486",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 470 (Foxx) to H.R. 4665: To prohibit the State Department from using taxpayer funds to send employees to any event or conference hosted by the Clinton Global Initiative.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h487",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 472 (Burchett) to H.R. 4665: To reduce the salary of the Special Assistant to the Director of Programming at Voice of America to $1.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h488",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 473 (Burchett) to H.R. 4665: To reduce the salary of the Chief Management Officer at the US Agency for Global Media to $1.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h489",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 474 (Burchett) to H.R. 4665: To reduce the salary of the Deputy Chief Executive Officer at the US Agency for Global Media to $1.",
+    "policy_area": "International Affairs"
+  }
+]

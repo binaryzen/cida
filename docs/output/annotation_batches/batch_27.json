@@ -1,0 +1,317 @@
+[
+  {
+    "vote_id": "2024/s46",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1388 (Murray) to H.R. 815: In the nature of a substitute.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/s47",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture Re: H.R. 815",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/s48",
+    "chamber": "s",
+    "category": "passage",
+    "question": "H.R. 815 (118th): Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/s49",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Jacqueline Becerra to be U.S. District Judge for the Southern District of Florida: Jacqueline Becerra, of Florida, to be United States District Judge for the Southern District of Florida",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s50",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1240: Jacqueline Becerra, of Florida, to be United States District Judge for the Southern District of Florida",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s51",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: David Seymour Leibowitz to be U.S. District Judge for the Southern District of Florida: David Seymour Leibowitz, of Florida, to be United States District Judge for the Southern District of Florida",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s52",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1249: David Seymour Leibowitz, of Florida, to be United States District Judge for the Southern District of Florida",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s53",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Hampton Y. Dellinger to be Special Counsel, Office of Special Counsel: Hampton Y. Dellinger, of North Carolina, to be Special Counsel, Office of Special Counsel, for the term of five years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s54",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1233: Hampton Y. Dellinger, of North Carolina, to be Special Counsel, Office of Special Counsel, for the term of five years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s55",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Julie Simone Sneed to be U.S. District Judge for the Middle District of Florida: Julie Simone Sneed, of Florida, to be United States District Judge for the Middle District of Florida",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s56",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1256: Julie Simone Sneed, of Florida, to be United States District Judge for the Middle District of Florida",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s57",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Melissa Damian to be U.S. District Judge for the Southern District of Florida: Melissa Damian, of Florida, to be United States District Judge for the Southern District of Florida",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s58",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1243: Melissa Damian, of Florida, to be United States District Judge for the Southern District of Florida",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s59",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Marjorie A. Rollinson to be Chief Counsel for the Internal Revenue Service and an Assistant General Counsel in the Department of the Treasury: Marjorie A. Rollinson, of Virginia, to be Chief Counsel for the Internal Revenue Service and an Assistant General Counsel in the Department of the Treasury",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s6",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Erika L. McEntarfer to be Commissioner of Labor Statistics: Erika L. McEntarfer, of the District of Columbia, to be Commissioner of Labor Statistics, Department of Labor, for a term of four years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s60",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1217: Marjorie A. Rollinson, of Virginia, to be Chief Counsel for the Internal Revenue Service and an Assistant General Counsel in the Department of the Treasury",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s63",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1614 (Paul) to H.R. 7463: To establish prohibitions relating to the purchase or sale of State or municipal securities.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/s67",
+    "chamber": "s",
+    "category": "passage",
+    "question": "H.R. 7463 (118th): Extension of Continuing Appropriations and Other Matters Act, 2024",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/s68",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Ronald T. Keohane to be an Assistant Secretary of Defense: Ronald T. Keohane, of New York, to be an Assistant Secretary of Defense",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s69",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1213: Ronald T. Keohane, of New York, to be an Assistant Secretary of Defense",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s7",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN837: Erika L. McEntarfer, of the District of Columbia, to be Commissioner of Labor Statistics, Department of Labor, for a term of four years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s70",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Moshe Z. Marvit to be a Member of the Federal Mine Safety and Health Review Commission: Moshe Z. Marvit, of Pennsylvania, to be a Member of the Federal Mine Safety and Health Review Commission for a term of six years expiring August 30, 2028",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s71",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1348: Moshe Z. Marvit, of Pennsylvania, to be a Member of the Federal Mine Safety and Health Review Commission for a term of six years expiring August 30, 2028",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s72",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Cathy Ann Harris to be Chairman of the Merit Systems Protection Board: Cathy Ann Harris, of Maryland, to be Chairman of the Merit Systems Protection Board",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s73",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1234: Cathy Ann Harris, of Maryland, to be Chairman of the Merit Systems Protection Board",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s74",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Adrienne Jennings Noti to be an Associate Judge of the Superior Court of the District of Columbia: Adrienne Jennings Noti, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia for the term of fifteen years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s75",
+    "chamber": "s",
+    "category": "passage",
+    "question": "S. 3853 (118th): Radiation Exposure Compensation Reauthorization Act",
+    "policy_area": "Labor and Employment"
+  },
+  {
+    "vote_id": "2024/s76",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1349: Adrienne Jennings Noti, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia for the term of fifteen years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s79",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 4366",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/s85",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Jasmine Hyejung Yoon to be U.S. District Judge for the Western District of Virginia: Jasmine Hyejung Yoon, of Virginia, to be United States District Judge for the Western District of Virginia",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s86",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1406: Jasmine Hyejung Yoon, of Virginia, to be United States District Judge for the Western District of Virginia",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s87",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Sunil R. Harjani to be U.S. District Judge for the Northern District of Illinois: Sunil R. Harjani, of Illinois, to be United States District Judge for the Northern District of Illinois",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s88",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1404: Sunil R. Harjani, of Illinois, to be United States District Judge for the Northern District of Illinois",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s89",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Melissa R. DuBose to be U.S. District Judge for the District of Rhode Island: Melissa R. DuBose, of Rhode Island, to be United States District Judge for the District of Rhode Island",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s9",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Motion to Proceed to H.R. 2872",
+    "policy_area": "Public Lands and Natural Resources"
+  },
+  {
+    "vote_id": "2024/s90",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1403: Melissa R. DuBose, of Rhode Island, to be United States District Judge for the District of Rhode Island",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s91",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN738: Sean Patrick Maloney, of New York, to be Representative of the United States of America to the Organization for Economic Cooperation and Development, with the rank of Ambassador",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s92",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN675: Dennis B. Hankins, of Minnesota, to be Ambassador to the Republic of Haiti",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s93",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Nicole G. Berner to be U.S. Circuit Judge for the Fourth Circuit: Nicole G. Berner, of Maryland, to be United States Circuit Judge for the Fourth Circuit",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s94",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1241: Nicole G. Berner, of Maryland, to be United States Circuit Judge for the Fourth Circuit",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s95",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Edward Sunyol Kiel, of N.J., to be U.S. District Judge for the District of New Jersey: Edward Sunyol Kiel, of New Jersey, to be United States District Judge for the District of New Jersey",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s96",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1245: Edward Sunyol Kiel, of New Jersey, to be United States District Judge for the District of New Jersey",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s97",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Eumi K. Lee to be U.S. District Judge for the Northern District of California: Eumi K. Lee, of California, to be United States District Judge for the Northern District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s98",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1248: Eumi K. Lee, of California, to be United States District Judge for the Northern District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/s99",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Upon Reconsideration, Motion to Invoke Cloture: Jose Javier Rodriguez to be an Assistant Secretary of Labor: Jose Javier Rodriguez, of Florida, to be an Assistant Secretary of Labor",
+    "policy_area": ""
+  }
+]

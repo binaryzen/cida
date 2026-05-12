@@ -1,0 +1,352 @@
+[
+  {
+    "vote_id": "2023/s128",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN450: Jeremy C. Daniel, of Illinois, to be United States District Judge for the Northern District of Illinois",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s129",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Darrel James Papillion to be U.S. District Judge for the Eastern District of Louisiana: Darrel James Papillion, of Louisiana, to be United States District Judge for the Eastern District of Louisiana",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s13",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN74: Lindsay C. Jenkins, of Illinois, to be United States District Judge for the Northern District of Illinois",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s130",
+    "chamber": "s",
+    "category": "passage",
+    "question": "S.J.Res. 18 (118th): A joint resolution disapproving of the rule submitted by the Department of Homeland Security relating to \u201cPublic Charge Ground of Inadmissibility\u201d.",
+    "policy_area": "Immigration"
+  },
+  {
+    "vote_id": "2023/s131",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Nancy G. Abudu to be U.S. Circuit Judge for the Eleventh Circuit: Nancy G. Abudu, of Georgia, to be United States Circuit Judge for the Eleventh Circuit",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s132",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN95: Nancy G. Abudu, of Georgia, to be United States Circuit Judge for the Eleventh Circuit",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s133",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN455: Darrel James Papillion, of Louisiana, to be United States District Judge for the Eastern District of Louisiana",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s135",
+    "chamber": "s",
+    "category": "passage",
+    "question": "H.J.Res. 45 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to \u201cWaivers and Modifications of Federal Student Loans\u201d.",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/s136",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 107 (Paul) to H.R. 3746: In the nature of a substitute.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s137",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 91 (Braun) to H.R. 3746: To rescind discretionary appropriations in the event of a debt ceiling crisis period and to honor the full faith and credit of the debts of the United States in the event of a debt ceiling crisis.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s138",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 110 (Marshall) to H.R. 3746: To secure the borders of the United States, and for other purposes.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s139",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 125 (Sullivan) to H.R. 3746: To provide adequate funding for defense and increase the rescission of funding for the Internal Revenue Service.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s14",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Matthew L. Garcia to be U.S. District Judge for the District of New Mexico: Matthew L. Garcia, of New Mexico, to be United States District Judge for the District of New Mexico",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s140",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 93 (Hawley) to H.R. 3746: To require the imposition of additional duties with respect to articles imported from the People's Republic of China until trade between the United States and the People's Republic of China comes into balance.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s141",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 104 (Kennedy) to H.R. 3746: To remove the sunset on modification of work requirement exemptions.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s142",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 106 (Cotton) to H.R. 3746: To provide appropriate adjustments to the discretionary spending limits, in the event of funding under a continuing resolution.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s143",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 134 (Budd) to H.R. 3746: To rescind unnecessary coronavirus funds.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s144",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 98 (Lee) to H.R. 3746: To strike the waiver authority for Administrative PAYGO.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s145",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 101 (Kaine) to H.R. 3746: To strike a provision relating to expediting completion of the Mountain Valley Pipeline.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s146",
+    "chamber": "s",
+    "category": "passage",
+    "question": "H.R. 3746 (118th): Fiscal Responsibility Act of 2023",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s147",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: David Crane to be Under Secretary of Energy: David Crane, of New Jersey, to be Under Secretary of Energy",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s148",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN18: David Crane, of New Jersey, to be Under Secretary of Energy",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s149",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Dilawar Syed to be Deputy Administrator of the Small Business Administration: Dilawar Syed, of California, to be Deputy Administrator of the Small Business Administration",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s15",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN72: Matthew L. Garcia, of New Mexico, to be United States District Judge for the District of New Mexico",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s150",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN99: Dilawar Syed, of California, to be Deputy Administrator of the Small Business Administration",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s151",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Molly R. Silfen to be a Judge of the United States Court of Federal Claims: Molly R. Silfen, of the District of Columbia, to be a Judge of the United States Court of Federal Claims for a term of fifteen years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s152",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN377: Molly R. Silfen, of the District of Columbia, to be a Judge of the United States Court of Federal Claims for a term of fifteen years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s153",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Elizabeth Allen to be Under Secretary of State for Public Diplomacy: Elizabeth Allen, of New York, to be Under Secretary of State for Public Diplomacy",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s154",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN138: Elizabeth Allen, of New York, to be Under Secretary of State for Public Diplomacy",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s155",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Hernan D. Vera to be U.S. District Judge for the Central District of California: Hernan D. Vera, of California, to be United States District Judge for the Central District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s156",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Jared Bernstein to be Chairman of the Council of Economic Advisers: Jared Bernstein, of Virginia, to be Chairman of the Council of Economic Advisers",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s157",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN87: Hernan D. Vera, of California, to be United States District Judge for the Central District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s158",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN383: Jared Bernstein, of Virginia, to be Chairman of the Council of Economic Advisers",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s159",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: P. Casey Pitts to be U.S. District Judge for the Northern District of California: P. Casey Pitts, of California, to be United States District Judge for the Northern District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s16",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Adrienne C. Nelson to be U.S. District Judge for the District of Oregon: Adrienne C. Nelson, of Oregon, to be United States District Judge for the District of Oregon",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s160",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Dale E. Ho to be U.S. District Judge for the Southern District of New York: Dale E. Ho, of New York, to be United States District Judge for the Southern District of New York",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s161",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN177: P. Casey Pitts, of California, to be United States District Judge for the Northern District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s162",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN86: Dale E. Ho, of New York, to be United States District Judge for the Southern District of New York",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s163",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Nusrat Jahan Choudhury to be U.S. District Judge for the Eastern District of New York: Nusrat Jahan Choudhury, of New York, to be United States District Judge for the Eastern District of New York",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s164",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN83: Nusrat Jahan Choudhury, of New York, to be United States District Judge for the Eastern District of New York",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s165",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Julie Rikelman to be U.S. Circuit Judge for the First Circuit: Julie Rikelman, of Massachusetts, to be United States Circuit Judge for the First Circuit",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s166",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN90: Julie Rikelman, of Massachusetts, to be United States Circuit Judge for the First Circuit",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s168",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Natasha C. Merle to be U.S. District Judge for the Eastern District of New York: Natasha C. Merle, of New York, to be United States District Judge for the Eastern District of New York",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s169",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN82: Natasha C. Merle, of New York, to be United States District Judge for the Eastern District of New York",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s17",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN71: Adrienne C. Nelson, of Oregon, to be United States District Judge for the District of Oregon",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s170",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Treaty Doc. 112-8, Tax Convention with Chile",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s171",
+    "chamber": "s",
+    "category": "passage",
+    "question": "H.J.Res. 44 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Alcohol, Tobacco, Firearms, and Explosives relating to \u201cFactoring Criteria for Firearms with Attached \u2018Sta",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2023/s173",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Xochitl Torres Small to be Deputy Secretary of Agriculture: Xochitl Torres Small, of New Mexico, to be Deputy Secretary of Agriculture",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s174",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN382: Xochitl Torres Small, of New Mexico, to be Deputy Secretary of Agriculture",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s175",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Rosemarie Hidalgo to be Director of the Violence Against Women Office, Department of Justice: Rosemarie Hidalgo, of the District of Columbia, to be Director of the Violence Against Women Office, Department of Justice",
+    "policy_area": ""
+  }
+]

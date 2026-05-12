@@ -1,0 +1,352 @@
+[
+  {
+    "vote_id": "2023/h321",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 247 (Gaetz) to H.R. 2670: To prohibit federal funds for training on diversity, equity, and inclusion.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h322",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 248 (Biggs) to H.R. 2670: To exempt defense related activities from the Endangered Species Act.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h323",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 249 (Perry) to H.R. 2670: To prohibit any funding authorized by the Act or otherwise made available for DOD for FY24 to provide any kind of support to the Taliban and prohibits any form of sanctions relief or mitigation unless explicitly authoriz",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h324",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 253 (Burlison) to H.R. 2670: To prohibit DoD from establishing new DEI administrator positions and/or taking actions to fill vacancies in currently existing DEI billets.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h325",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 254 (Banks) to H.R. 2670: To prohibit any funds authorized in the bill from being used by the military service academies to discriminate on the basis of race or ethnicity in academy admissions or to establish quotas for admission on the basis of ",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h326",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 255 (Roy) to H.R. 2670: To prohibit the DOD from carrying out the President's Administration climate change executive orders.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h328",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 2670 (118th): National Defense Authorization Act for Fiscal Year 2024",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h332",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 597 (118th): Providing for consideration of the bill (H.R. 3935) to amend title 49, United States Code, to reauthorize and improve the Federal Aviation Administration and other civil aviation programs, and for other purposes, and providing for con",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h333",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 68 (118th): Relating to a national emergency declared by the President on October 27, 2006.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h334",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 70 (118th): Relating to a national emergency declared by the President on February 25, 2011.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h335",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 74 (118th): Relating to a national emergency declared by the President on May 16, 2012.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h336",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 71 (118th): Relating to a national emergency declared by the President on May 22, 2003.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h337",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 79 (118th): Relating to a national emergency declared by the President on May 11, 2004.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h340",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 3941 (118th): Schools Not Shelters Act",
+    "policy_area": "Immigration"
+  },
+  {
+    "vote_id": "2023/h341",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 264 (Langworthy) to H.R. 3935: An amendment numbered 10 printed in Part A House Report 118-147 to strike Sec. 546 to maintain current training requirements for a person who is applying for an airline transport certificate with an airplane categor",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h342",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 266 (Feenstra) to H.R. 3935: To exempt nonhub airports from the requirement to have at least one individual who maintains certification as an emergency medical technician during air carrier operations.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h343",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 267 (Fitzpatrick) to H.R. 3935: To require the FAA to implement as a rule the recommendations issued by the aviation rulemaking committee for commercial passenger aircraft established by Sec. 522.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h344",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 268 (Gosar) to H.R. 3935: To prohibit changes to existing National Park air tour management plans.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h345",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 269 (Miller) to H.R. 3935: To require the Inspector General to investigate the FAA's decision to broaden the acceptable EKG range for pilots to fly.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h346",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 270 (Miller) to H.R. 3935: To require airlines to reinstate pilots who were fired or forced to resign because of vaccine mandates.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h347",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 271 (Huizenga) to H.R. 3935: To require the Secretary of Transportation, in the process for prioritizing awarding grants under the Advanced Air Mobility Infrastructure Pilot Program established and described in P.L 119-328, also prioritize eligib",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h348",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 272 (Issa) to H.R. 3935: To require the FAA Administrator to make an objective, independent assessment of a NOTAM request when the request comes from outside the FAA.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h349",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 273 (Jackson) to H.R. 3935: To revise Section 608 to add concentrated animal feeding operations and eligible meat and food processing facilities to the list of Applications for Designation.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h350",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 274 (Kean) to H.R. 3935: To require the Secretary of Transportation to refine the reporting directives to provide more detailed information about the cause of a commercial passenger flight cancellation or delay, allowing greater transparency to t",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h351",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 276 (McClintock) to H.R. 3935: To strike authorization for the Essential Air Service.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h352",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 277 (Miller) to H.R. 3935: To require a report on the Secretary of Transportation flight records.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h353",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 278 (Miller) to H.R. 3935: To restrict funding for diversity, equity, and inclusion officials or training.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h354",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 280 (Obernolte) to H.R. 3935: To allow FAA approved high-octane unleaded aviation gasoline to be sold at airports in lieu of 100 octane low-lead aviation gasoline.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h355",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 281 (Ogles) to H.R. 3935: To strike \"social\" from the scope of factors examined under the FAA Beyond Program.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h356",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 282 (Ogles) to H.R. 3935: To clarify that a study of turbulence should include a focus on weather conditions rather than climate change since weather is the proximate cause.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h357",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 283 (Owens) to H.R. 3935: To protect all existing flights at Ronald Reagan National Airport (DCA). This amendment adds 7 new roundtrip in-and-beyond perimeter slots to DCA split between the 7 airlines servicing the airport.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h358",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 284 (Perry) to H.R. 3935: To strike sec. 1132 (CLEEN).",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h359",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 285 (Perry) to H.R. 3935: To reduce the authorization levels in sections 101, 103, and 1111.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h360",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 286 (Perry) to H.R. 3935: To strike vertiport from the AIP definitions section.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h361",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 287 (Graves) to H.R. 3935: An amendment comprised of the following amendments printed in Part A of House Report 118-147 as en bloc No. 4: Nos. 60, 61, 85, 87, 88, 89, 90, 91, 92, 93, 94, 99, 100, 101, 102, 103, and 104.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h362",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 288 (Perry) to H.R. 3935: To strike sections 206 and 207 relating to N number restrictions.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h363",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 289 (Perry) to H.R. 3935: To strike the telework provisions in the underlying bill and apply the SHOW UP Act telework restrictions to the FAA.",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h364",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 3935 (118th): FAA Reauthorization Act of 2024",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/h368",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 614 (118th): Providing for consideration of the bill (H.R. 4366) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2024, and for other purposes; provi",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h369",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 291 (Ryan) to H.R. 4366: To increase and decrease funding $103 million to Army Military Construction in an effort to address flooding damage at the United States Military Academy at West Point.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h37",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 19 (Tlaib) to H.R. 21: To add the Administrator of the Environmental Protection Agency and the Council on Environmental Quality to the list of officials to be consulted in the Compensatory Production Increase Plan.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h370",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 292 (Ogles) to H.R. 4366: To transfer $3 million from NATO's Security Investment Program to the Spending Reduction Account at the end of the bill.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h371",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 293 (Greene) to H.R. 4366: To cut the $73 million increase in funding for the NATO Security Investment Program.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h372",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 296 (Greene) to H.R. 4366: To strike funding for the Office of Resolution Management, Diversity and Inclusion.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h373",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 297 (Bost) to H.R. 4366: To prohibit the VA from using funds to submit a beneficiary's name to the NICS list based on VA's appointment of a fiduciary.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h374",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 299 (Rosendale) to H.R. 4366: To prohibit the use of funds made available by this Act from enforcing any COVID-19 mask mandates.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h375",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 300 (Roy) to H.R. 4366: To prohibit funds made available by H. R. 4366 from being used to carry out VHA Directive 1193.01, \"Coronavirus Disease 2019 Vaccination Program for Veterans Health Administration Health Care Personnel\".",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h376",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 301 (Roy) to H.R. 4366: To ensure none of the funds appropriated by H. R. 4366 may be used to modify or remove any VA display of the mission statement, \"To fulfill President Lincoln's promise 'to care for him who shall have borne the battle, and ",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h377",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 302 (Roy) to H.R. 4366: To prohibit funds in H. R. 4366 from being used to carry out the Administration's climate change executive orders.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h378",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 303 (Zinke) to H.R. 4366: To prohibit funding for administering, implementing, or enforcing Executive Order 14057 (Catalyzing Clean Energy Industries and Jobs Through Federal Sustainability).",
+    "policy_area": "Economics and Public Finance"
+  }
+]

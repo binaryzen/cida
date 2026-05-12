@@ -1,0 +1,352 @@
+[
+  {
+    "vote_id": "2023/h100",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 382 (118th): Pandemic is Over Act",
+    "policy_area": "Health"
+  },
+  {
+    "vote_id": "2023/h102",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 83 (118th): Providing for consideration of the concurrent resolution (H. Con. Res. 9) denouncing the horrors of socialism, and providing for consideration of the resolution (H. Res. 76) removing a certain Member from a certain standing committee o",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2023/h103",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 139 (118th): SHOW UP Act of 2023",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h104",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 7 (118th): Relating to a national emergency declared by the President on March 13, 2020.",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h105",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 76 (118th): Removing a certain Member from a certain standing committee of the House.",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2023/h106",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Con.Res. 9 (118th): Denouncing the horrors of socialism.",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h109",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 97 (118th): Providing for consideration of the bill (H.R. 185) to terminate the requirement imposed by the Director of the Centers for Disease Control and Prevention for proof of COVID-19 vaccination for foreign travelers, and for other purposes; ",
+    "policy_area": "Health"
+  },
+  {
+    "vote_id": "2023/h110",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 80 (McGovern) to H.R. 185: To clarify that this legislation will not affect the authority of the Centers for Disease Control and Prevention to mandate vaccination requirements against any other disease in the future for noncitizens who are nonimm",
+    "policy_area": "Health"
+  },
+  {
+    "vote_id": "2023/h111",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 81 (Boebert) to H.R. 185: To require the CDC to produce a report to Congress on the number of visitors denied entry under this policy.",
+    "policy_area": "Health"
+  },
+  {
+    "vote_id": "2023/h112",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 82 (Golden) to H.R. 185: To eliminate the prohibition on future rulemaking.",
+    "policy_area": "Health"
+  },
+  {
+    "vote_id": "2023/h113",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 83 (Rose) to H.R. 185: To clarify that nothing in the underlying bill impacts the CDC order requiring a pre-departure COVID-19 test for people traveling from the People's Republic of China.",
+    "policy_area": "Health"
+  },
+  {
+    "vote_id": "2023/h114",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 84 (Torres) to H.R. 185: To require the Secretary of the Department of Health and Human Services to certify that such provision will not result in an increase in hospitalizations due to COVID-19 prior to the provisions of section 1 taking effect.",
+    "policy_area": "Health"
+  },
+  {
+    "vote_id": "2023/h116",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 185 (118th): To terminate the requirement imposed by the Director of the Centers for Disease Control and Prevention for proof of COVID-19 vaccination for foreign travelers, and for other purposes.",
+    "policy_area": "Health"
+  },
+  {
+    "vote_id": "2023/h118",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 24 (118th): Disapproving the action of the District of Columbia Council in approving the Local Resident Voting Rights Amendment Act of 2022.",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h119",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 26 (118th): Disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act of 2022.",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h123",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 166 (118th): Providing for consideration of the bill (H.R. 347) to require the Executive Office of the President to provide an inflation estimate with respect to Executive orders with a significant effect on the annual gross budget, and for other ",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h124",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 30 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Labor relating to \u201cPrudence and Loyalty in Selecting Plan Investments and Exercising Shareholder Right",
+    "policy_area": "Labor and Employment"
+  },
+  {
+    "vote_id": "2023/h125",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 85 (Bost) to H.R. 347: To require that the inflationary report take into account the spending patterns of military personnel, rural areas, and farm households.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h126",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 87 (Boebert) to H.R. 347: To require the inflation estimate to be made publicly available by publishing on the OMB website.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h127",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 89 (Jackson Lee) to H.R. 347: To insert into Sec. 2 (a) line 10 \"or\" after \"inflations and Strikes Sec.(a) lines 11-14. To clarify and make consistent with economic policy on inflationary impacts and effects.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h128",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 90 (Jackson Lee) to H.R. 347: To add at the end of section 2(d) the definition to \"significant impact\" in Sec.2 (a). The term significant impact on inflation means an Executive order was estimated to increase or decrease Consumer Price Index infl",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h129",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 92 (Lee) to H.R. 347: To state that nothing in this bill should be construed to suggest that the task of combating inflation and bringing down the cost of living is the sole responibility of the Executive Office of the President.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h130",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 97 (Roy) to H.R. 347: To strike exceptions to the mandatory inflation forecasting requirement.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h131",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 347 (118th): Reduce Exacerbated Inflation Negatively Impacting the Nation Act",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h135",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 199 (118th): Providing for consideration of the bill (H.R. 140) to amend title 5, United States Code, to prohibit Federal employees from advocating for censorship of viewpoints in their official capacity, and for other purposes; providing for cons",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h136",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Con.Res. 21 (118th): Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Syria.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h138",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 103 (Perry) to H.R. 140: To ensure that federal employees entering into collective bargaining agreements using taxpayer funded time (Section 7131) are prohibited from engaging in censorship of private entities.",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h139",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 105 (Jackson Lee) to H.R. 140: To strike section 2(e).",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h141",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 140 (118th): Protecting Speech from Government Interference Act",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h142",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 27 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of the Army, Corps of Engineers, Department of Defense and the Environmental Protection Agency relating t",
+    "policy_area": "Environmental Protection"
+  },
+  {
+    "vote_id": "2023/h143",
+    "chamber": "h",
+    "category": "passage",
+    "question": "S. 619 (118th): COVID-19 Origin Act of 2023",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h147",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 241 (118th): Providing for consideration of the bill (H.R. 5) to ensure the rights of parents are honored and protected in the Nation\u2019s public schools.",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/h150",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 115 (Bonamici) to H.R. 5: To include a findings section and sense of Congress regarding public education and rights that parents have access to in public schools. To include titles creating a parent coordinator position in public schools, increas",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/h151",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 116 (Crane) to H.R. 5: To add a private right of action for parents to hold schools accountable for not honoring the rights set forth in Title I and Title II of this bill.",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/h152",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 117 (Davidson) to H.R. 5: To prohibit federal funds unter Title I and Title II from going to a local educational agency unless they hold an open enrollment period.",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/h153",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 118 (Fitzpatrick) to H.R. 5: To amend the bill to require the Comptroller General of the United States (GAO) to submit a report to Congress on the cost of the requirements of H.R. 5 to SEAs, LEAs, and elementary and secondary schools and requires",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/h154",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 120 (Green) to H.R. 5: To revise the bill to include the right to timely notice of any major cyberattack against their child's school that may have compromised student or parent information.",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/h155",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 122 (Jacobs) to H.R. 5: To strike the provisions relating to reviewing the professional development materials in sections 104 and 202.",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/h156",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 124 (Massie) to H.R. 5: To add a sense of Congress that the authority of the Department of Education and the Secretary of Education to operate or administer any office or program related to elementary or secondary education should be terminated o",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/h157",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 126 (McCormick) to H.R. 5: To establish parents' right to be informed of non-curriculum-based initiatives and events, and allows parents to opt-in their children to such initiatives and events.",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/h158",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 128 (Roy) to H.R. 5: To allow Title I funds to follow the students to the school they attend (i.e., public, private, or home school). These funds may be used for educational and instructional materials, tutoring, tuition for private school, and e",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/h159",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 129 (Roy) to H.R. 5: To ensure all funds made available under the Elementary and Secondary Education Act 1965 after the date of the enactment shall be consolidated and awarded to each State.",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/h161",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 5 (118th): Parents Bill of Rights Act",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/h166",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 260 (118th): Providing for consideration of the bill (H.R. 1) to lower energy costs by increasing American energy production, exports, infrastructure, and critical minerals processing, by promoting transparency, accountability, permitting, and pro",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h167",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 134 (Boebert) to H.R. 1: To add a Sense of Congress expressing disapproval of the denial of Jordan Cove Project permits.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h168",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 137 (Hern) to H.R. 1: To express the sense of Congress disapproving of the proposed tax hikes on the oil and natural gas industry in the President's fiscal year 2024 budget request.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h169",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 139 (Jackson) to H.R. 1: To require the EPA, in consultation with the DOE, to submit a report to Congress identifying and assessing existing regulations that have negatively affected domestic energy independence and increased energy cost for Amer",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h170",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 141 (Molinaro) to H.R. 1: To require a GAO study on how banning natural gas appliances will affect the rates and charges for electricity.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h171",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 142 (Palmer) to H.R. 1: To prohibit the Secretary of Energy from implementing its proposed rule regarding gas stoves, or any other rule that would limit consumer access to gas stoves.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h172",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 143 (Perry) to H.R. 1: To prohibit the Delaware River Basin Commission, Susquehanna River Basin Commission, and the Interstate Commission on the Potomac River Basin from finalizing, implementing, or enforcing any regulations relating to hydraulic",
+    "policy_area": "Energy"
+  }
+]

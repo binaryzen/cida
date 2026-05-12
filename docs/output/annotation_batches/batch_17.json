@@ -1,0 +1,352 @@
+[
+  {
+    "vote_id": "2023/s98",
+    "chamber": "s",
+    "category": "passage",
+    "question": "S.J.Res. 11 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \u201cControl of Air Pollution From New Motor Vehicles: He",
+    "policy_area": "Environmental Protection"
+  },
+  {
+    "vote_id": "2023/s99",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Motion to Proceed to S. J. Res. 4",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/h10",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 98 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to \u201cStandard for Determining Joint Employer Status\u201d.",
+    "policy_area": "Labor and Employment"
+  },
+  {
+    "vote_id": "2024/h101",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 7023 (118th): Creating Confidence in Clean Water Permitting Act",
+    "policy_area": "Environmental Protection"
+  },
+  {
+    "vote_id": "2024/h104",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 1023 (118th): Cutting Green Corruption and Taxes Act",
+    "policy_area": "Environmental Protection"
+  },
+  {
+    "vote_id": "2024/h108",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1125 (118th): Providing for consideration of the bill (H.R. 7888) to reform the Foreign Intelligence Surveillance Act of 1978; providing for consideration of the bill (H.R. 529) to extend the customs waters of the United States from 12 nautical mi",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h11",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 969 (118th): Providing for consideration of the bill (H.R. 6914) to require institutions of higher education to disseminate information on the rights of, and accommodations and resources for, pregnant students, and for other purposes; providing fo",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2024/h113",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1137 (118th): Providing for consideration of the bill (H.R. 7888) to reform the Foreign Intelligence Surveillance Act of 1978; providing for consideration of the bill (H.R. 529) to extend the customs waters of the United States from 12 nautical mi",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h114",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 876 (Biggs) to H.R. 7888: To prohibit warrantless searches of U.S. person communications in the FISA 702 database, with exceptions for imminent threats to life or bodily harm, consent searches, or known cybersecurity threat signatures.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h115",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 877 (Roy) to H.R. 7888: To require the FBI to report to Congress on a quarterly basis the number of U.S. person queries conducted and permits Congressional leadership to attend Foreign Intelligence Surveillance Court proceedings.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h116",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 879 (Crenshaw) to H.R. 7888: To modify the definition of foreign intelligence under section 702.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h117",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 880 (Waltz) to H.R. 7888: To enable the use of section 702 information to vet foreigners traveling to the United States.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h118",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 881 (Turner) to H.R. 7888: To modify the definition of electronic communication service provider under section 702.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h119",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 7888 (118th): Reforming Intelligence and Securing America Act",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h125",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1149 (118th): Providing for consideration of the bill (H.R. 6323) to modify the availability of certain waiver authorities with respect to sanctions imposed with respect to the financial sector of Iran, and for other purposes; providing for consid",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2024/h13",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 957 (118th): Denouncing the Biden administration\u2019s open-borders policies, condemning the national security and public safety crisis along the southwest border, and urging President Biden to end his administration\u2019s open-borders policies.",
+    "policy_area": "Immigration"
+  },
+  {
+    "vote_id": "2024/h135",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 885 (LaLota) to H.R. 4639: To clarify that Section 2 shall not limit a governmental entity's ability to obtain information that would be obtainable without a warrant.",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2024/h136",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 4639 (118th): Fourth Amendment Is Not For Sale Act",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2024/h137",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 6046 (118th): Standing Against Houthi Aggression Act",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2024/h138",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 4691 (118th): Iran Sanctions Relief Review Act of 2023",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2024/h139",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 5947 (118th): To provide for the rescission of certain waivers and licenses relating to Iran, and for other purposes.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2024/h140",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 6323 (118th): Iran Counterterrorism Act of 2023",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2024/h141",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1143 (118th): Condemning Iran\u2019s unprecedented drone and missile attack on Israel.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2024/h142",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1160 (118th): Providing for consideration of the bill (H.R. 8034) making emergency supplemental appropriations to respond to the situation in Israel and for related expenses for the fiscal year ending September 30, 2024, and for other purposes; pr",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h144",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 889 (Nunn) to H.R. 8038: To require the Treasury Department to report and brief Congress identifying all assets of the Iranian Government or covered persons valued at more than $5 million and requires a list of all licenses, statements of licensi",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2024/h145",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8038 (118th): 21st Century Peace through Strength Act",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2024/h146",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8036 (118th): Indo-Pacific Security Supplemental Appropriations Act, 2024",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h147",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 891 (Spartz) to H.R. 8035: To strike sections 401, 402, 403, and 407.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h148",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 892 (Greene) to H.R. 8035: To reduce every dollar amount in the bill to zero.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h149",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 893 (Cammack) to H.R. 8035: To eliminate all non-military funding related to Ukraine.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h151",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8035 (118th): Ukraine Security Supplemental Appropriations Act, 2024",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h152",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8034 (118th): Israel Security Supplemental Appropriations Act, 2024",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h155",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 529 (118th): Extending Limits of U.S. Customs Waters Act",
+    "policy_area": "Foreign Trade and International Finance"
+  },
+  {
+    "vote_id": "2024/h163",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1173 (118th): Providing for consideration of the bill (H.R. 615) to prohibit the Secretary of the Interior and the Secretary of Agriculture from prohibiting the use of lead ammunition or tackle on certain Federal land or water under the jurisdicti",
+    "policy_area": "Public Lands and Natural Resources"
+  },
+  {
+    "vote_id": "2024/h165",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 3397 (118th): WEST Act of 2024",
+    "policy_area": "Public Lands and Natural Resources"
+  },
+  {
+    "vote_id": "2024/h167",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 615 (118th): Protecting Access for Hunters and Anglers Act of 2023",
+    "policy_area": "Public Lands and Natural Resources"
+  },
+  {
+    "vote_id": "2024/h169",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 764 (118th): Trust the Science Act",
+    "policy_area": "Animals"
+  },
+  {
+    "vote_id": "2024/h17",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 6918 (118th): Supporting Pregnant and Parenting Women and Families Act",
+    "policy_area": "Health"
+  },
+  {
+    "vote_id": "2024/h171",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 3195 (118th): Superior National Forest Restoration Act",
+    "policy_area": "Public Lands and Natural Resources"
+  },
+  {
+    "vote_id": "2024/h172",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 6090 (118th): Antisemitism Awareness Act of 2023",
+    "policy_area": "Civil Rights and Liberties, Minority Issues"
+  },
+  {
+    "vote_id": "2024/h174",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 6285 (118th): Alaska\u2019s Right to Produce Act of 2023",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2024/h176",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1112 (118th): Denouncing the Biden administration\u2019s immigration policies.",
+    "policy_area": "Immigration"
+  },
+  {
+    "vote_id": "2024/h181",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1194 (118th): Providing for consideration of the bill (H.R. 6192) to amend the Energy Policy and Conservation Act to prohibit the Secretary of Energy from prescribing any new or amended energy conservation standard for a product that is not techno",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2024/h182",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "On Agreeing to the Amendment: Amendment 3 to H R 6192",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2024/h184",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 6192 (118th): Hands Off Our Home Appliances Act",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2024/h189",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 109 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Securities and Exchange Commission relating to \u201cStaff Accounting Bulletin No. 121\u201d.",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2024/h19",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 6914 (118th): Pregnant Students\u2019 Rights Act",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2024/h191",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 2925 (118th): Mining Regulatory Clarity Act of 2024",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2024/h193",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 7109 (118th): Equal Representation Act",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2024/h199",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1227 (118th): Providing for consideration of the bill (H.R. 8369) to provide for the expeditious delivery of defense articles and defense services for Israel and other matters; providing for consideration of the bill (H.R. 7530) to limit youth off",
+    "policy_area": "International Affairs"
+  }
+]

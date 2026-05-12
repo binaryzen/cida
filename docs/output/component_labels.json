@@ -1,0 +1,15 @@
+{
+  "warning": null,
+  "automated": false,
+  "house": {
+    "0": "party-alignment",
+    "1": "internationalism-vs-america-first",
+    "2": "security-hawks-vs-civil-libertarians",
+    "3": "executive-power-skeptics-vs-bipartisan-hawks"
+  },
+  "senate": {
+    "0": "party-alignment",
+    "1": "internationalism-vs-civil-libertarian-skeptics",
+    "2": "security-consensus-vs-institutional-skeptics"
+  }
+}

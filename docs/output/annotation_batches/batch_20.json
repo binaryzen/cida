@@ -1,0 +1,352 @@
+[
+  {
+    "vote_id": "2024/h319",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1062 (Tenney) to H.R. 8771: To prohibit federal funds to pay the salary of, reinstate, or reemploy Robert Malley.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h320",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1064 (Tiffany) to H.R. 8771: To prohibit funds from being used to pay any United States contribution to the United Nations or any affiliated agency of the United Nations.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h321",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1065 (Waltz) to H.R. 8771: To prohibit funds from this Act from being used to support the Gaza pier.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h322",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1066 (Wilson) to H.R. 8771: To clarify the funding prohibition of taxpayer dollars going to the Assad regime in the bill encompasses taxpayer dollars that are provided both directly and indirectly to the regime.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h323",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1072 (Greene) to H.R. 8774: To require the salary of Lloyd Austin, Secretary of Defense, to be reduced to $1.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h324",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1073 (Greene) to H.R. 8774: To prohibit funding for Ukraine.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h325",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1075 (Jayapal) to H.R. 8774: To prohibit funds from being used to carry out the unfunded priorities list.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h326",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1076 (Moore) to H.R. 8774: To reduce funding for Defense-Wide RDTE by $4,910,000 to defund DOD climate-change research and increase funding by $4,910,000 for Army RDTE to fund enhancements for Unmanned Ground Vehicles.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h327",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1079 (Tenney) to H.R. 8774: To prohibit funding for Executive Order 14019, relating to Promoting Access to Voting.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h328",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1080 (Tenney) to H.R. 8774: To prohibit funding to finalize, implement, or enforce the FAR Council's proposed \"Federal Acquisition Regulation: Disclosure of Greenhouse Gas Emissions and Climate-Related Financial Risk\" rule.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h329",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1081 (Titus) to H.R. 8774: To prohibit funds in the bill from being used to acquire, use, transfer, or sell cluster munitions.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h331",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8774 (118th): Department of Defense Appropriations Act, 2025",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2024/h333",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8752 (118th): Department of Homeland Security Appropriations Act, 2025",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h335",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8771 (118th): Department of State, Foreign Operations, and Related Programs Appropriations Act, 2025",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h339",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1341 (118th): Providing for consideration of the bill (H.R. 8281) to amend the National Voter Registration Act of 1993 to require proof of United States citizenship to register an individual to vote in elections for Federal office, and for other p",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2024/h341",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 7637 (118th): Refrigerator Freedom Act",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2024/h343",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 7700 (118th): Stop Unaffordable Dishwasher Standards Act",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2024/h345",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8281 (118th): SAVE Act",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2024/h348",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1083 (Huizenga) to H.R. 8772: To prohibit funds being made available by this Act to the Congressional Office of International Leadership.",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2024/h349",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1085 (Self) to H.R. 8772: To prohibit funds for the charging of electric vehicles on Capitol property.",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2024/h35",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 996 (118th): Providing for consideration of the resolution (H.Res. 863) impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors, and providing for consideration of the bill (H.R. 485) to amend title",
+    "policy_area": "Health"
+  },
+  {
+    "vote_id": "2024/h350",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1086 (Jackson) to H.R. 8772: To reduce funding for the Office of the Attending Physician to the Congress to FY20 levels.",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2024/h352",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 8772 (118th): Legislative Branch Appropriations Act, 2025",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2024/h353",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1344 (118th): Finding that Merrick Garland, Attorney General of the United States, is in contempt of the House of Representatives for disobeying a certain subpoena.",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2024/h354",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.J.Res. 165 (118th): Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to \u201cNondiscrimination on the Basis of Sex in Education Programs or Activities Rece",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2024/h360",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 1370 (118th): Providing for consideration of the bill (H.R. 8997) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2025, and for other purposes, and providing for consideration of",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h363",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1099 (Ogles) to H.R. 8997: To prohibit funding for the American Climate Corps.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h364",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1104 (Perry) to H.R. 8997: To prohibit the use of funds for the Delaware River Basin Commission to implement or enforce its ban on hydraulic fracturing.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h365",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1105 (Perry) to H.R. 8997: To eliminate funding for the Advanced Technology Vehicles Manufacturing Loan Program and moves this funding to the spending reduction account.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h366",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1106 (Perry) to H.R. 8997: To eliminate funding for the Title 17 Loan Program and moves that funding to the spending reduction account.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h367",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1107 (Perry) to H.R. 8997: To reduce funding for the Appalachian Regional Commission to FY19 levels and transfer the difference to the spending reduction account.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h368",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1108 (Perry) to H.R. 8997: To reduce funding for the Delta Regional Commission to FY19 levels and transfer the difference to the spending reduction account.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h369",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1109 (Perry) to H.R. 8997: To reduce funding for the Denali Regional Commission to FY19 levels and transfer the difference to the spending reduction account.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h370",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1110 (Perry) to H.R. 8997: To reduce funding for the Southeast Crescent Regional Commission to FY19 levels and transfer the difference to the spending reduction account.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h371",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1111 (Perry) to H.R. 8997: To reduce funding for the Northern Border Regional Commission to FY19 levels and transfer the difference to the spending reduction account.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h372",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1112 (Perry) to H.R. 8997: To cut funding for the Great Lakes Authority in half and transfer the difference to the spending reduction account.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h373",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1113 (Perry) to H.R. 8997: To cut funding for the Southwest Border Regional Commission in half and transfer the difference to the spending reduction account.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h374",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1114 (Rosendale) to H.R. 8997: To prevent funds from being used to transfer or delegate control or maintenance responsibility of the Lower Yellowstone Fish Bypass Channel to any non-Federal entity.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h375",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1115 (Roy) to H.R. 8997: To prohibit funds for Federal Energy Regulatory Commission Order No. 1920.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h376",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1117 (Roy) to H.R. 8997: To eliminate funding for DOE's Office of Energy Efficiency and Renewable Energy.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h377",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1120 (Van Drew) to H.R. 8997: To prohibit funds from being used for the Office of Clean Energy Demonstrations of the Department of Energy.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h378",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1121 (Van Drew) to H.R. 8997: To reduce the salary of Jigar Shah, Director of the Loan Programs Office, to $1.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h379",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1122 (Van Drew) to H.R. 8997: To move $10,000,000 from renewable energy programs to enhance the security of existing electrical transformers from cyber threats and from physical attacks from individuals.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h381",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1128 (Boebert) to H.R. 8998: To reduce the salary of Michael S. Regan, Administrator of the EPA, to $1.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h382",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1129 (Boebert) to H.R. 8998: To reduce the salary of Melissa Schwartz, Director of Communications of the Department of the Interior, to $1.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h383",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1130 (Boebert) to H.R. 8998: To reduce the salary of Elizabeth Klien, Director of the Bureau of Ocean Energy Management, to $1.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h384",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1138 (Boebert) to H.R. 8998: To prohibit funds for the Greenhouse Gas Reduction Fund.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h385",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1140 (Boebert) to H.R. 8998: To reduce the salary of Tracy Stone-Manning, Director of the Bureau of Land Management, to $1.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h386",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1143 (Brecheen) to H.R. 8998: To reduce funding for the National Endowment for the Humanities to FY2019 levels.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2024/h387",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 1144 (Brecheen) to H.R. 8998: To defund the Woodrow Wilson International Center for Scholars and moves its $12 million in appropriations to the spending reduction account.",
+    "policy_area": "Economics and Public Finance"
+  }
+]

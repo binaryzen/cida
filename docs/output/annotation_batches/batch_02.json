@@ -1,0 +1,352 @@
+[
+  {
+    "vote_id": "2023/h260",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 200 (Green) to H.R. 277: To create a rapid-review requirement which would allow executive branch rules to go into effect if Congress does not pass a joint resolution within 70 legislative days.",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h261",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 201 (Houlahan) to H.R. 277: To require Congress to approve by vote any regulation with an economic impact over $1 billion instead of $100 million.",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h262",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 203 (Roy) to H.R. 277: An amendment numbered 14 printed in Part A of House Report 118-108 expand the definition of \"major rule\" to include any rule that references one of President Biden's major diversity, equity, and inclusion executive orders.",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h263",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 204 (Roy) to H.R. 277: To expand the definition of \"major rule\" to include any rule likely to result in an increase in mandatory vaccinations.",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h265",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 277 (118th): Regulations from the Executive in Need of Scrutiny Act of 2023",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h266",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 188 (McGovern) to H.R. 1640: To prohibit Section 3 of the bill from taking effect unless and until the Secretary of Energy certifies that the provisions of the section would not adversely affect the energy security of the United States.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h267",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 189 (Pallone) to H.R. 1640: To strike provisions in the bill that would significantly limit future DOE rulemaking authority.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h268",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 1640 (118th): Save Our Gas Stoves Act",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h27",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 12 (118th): Establishing a Select Subcommittee on the Weaponization of the Federal Government as a select investigative subcommittee of the Committee on the Judiciary.",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2023/h271",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 288 (118th): Separation of Powers Restoration Act of 2023",
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "vote_id": "2023/h275",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 524 (118th): Providing for consideration of the bill (H.R. 3564) to cancel recent changes made by the Federal Housing Finance Agency to the up-front loan level pricing adjustments charged by Fannie Mae and Freddie Mac for guarantee of single-famil",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2023/h278",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 207 (Hayes) to H.R. 3799: To delay implementation of H. R. 3799 until the Secretary of Labor certifies that legislation would not result in higher premium rates for older workers.",
+    "policy_area": "Taxation"
+  },
+  {
+    "vote_id": "2023/h279",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 208 (Molinaro) to H.R. 3799: To ensure that the Secretary notifies employers of the availability of tax-advantaged flexible health insurance benefits, with an official focus on small businesses, particularly in rural areas.",
+    "policy_area": "Taxation"
+  },
+  {
+    "vote_id": "2023/h280",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 209 (Roy) to H.R. 3799: To express the sense of Congress that healthcare freedom is the future of healthcare.",
+    "policy_area": "Taxation"
+  },
+  {
+    "vote_id": "2023/h282",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 3799 (118th): CHOICE Arrangement Act",
+    "policy_area": "Taxation"
+  },
+  {
+    "vote_id": "2023/h283",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 521 (118th): Censuring Adam Schiff, Representative of the 30th Congressional District of California.",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2023/h285",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 529 (118th): Relating to the resolution (H. Res. 503) impeaching Joseph R. Biden, Jr., President of the United States, for high crimes and misdemeanors.",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2023/h286",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 461 (118th): Condemning the use of elementary and secondary school facilities to provide shelter for aliens who are not admitted to the United States.",
+    "policy_area": "Immigration"
+  },
+  {
+    "vote_id": "2023/h287",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 214 (Pettersen) to H.R. 3564: To prevent the legislation from being enacted if the FHFA Director determines that Sec. 2 would increase fees on middle class borrowers.",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2023/h289",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 3564 (118th): Middle Class Borrower Protection Act of 2023",
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "vote_id": "2023/h29",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 26 (118th): Born-Alive Abortion Survivors Protection Act",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2023/h293",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 215 (Cole) to H.Res. 582: An amendment to add a new section to the end of the resolution , that during consideration of H. R. 2670, it shall not be in order to consider amendment number 60 printed in Part B of House Report 118-141.",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2023/h294",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 582 (118th): Providing for consideration of the bill (H.R. 2670) to authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Department of E",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h296",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 583 (118th): Providing for further consideration of the bill (H.R. 2670) to authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Departm",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h297",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 220 (Rogers) to H.R. 2670: An amendment comprised of the following amendments printed in Part B of House Report 118-141 as en bloc No. 5: Nos. 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h298",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 230 (Blumenauer) to H.R. 2670: To strike section 1639 and to prohibit the use of funds for the sustainment of the B83-1 bomb.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h299",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 231 (Tlaib) to H.R. 2670: To strike the prohibition on the reduction of the total number of nuclear armed Intercontinental Ballistic Missiles (ICBMs) deployed in the United States in Sec. 1638.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h30",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Con.Res. 3 (118th): Expressing the sense of Congress condemning the recent attacks on pro-life facilities, groups, and churches.",
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "vote_id": "2023/h300",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 222 (Jackson) to H.R. 2670: To prohibit the Secretary of Defense from paying for or reimbursing expenses relating to abortion services.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h301",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 223 (Rosendale) to H.R. 2670: To prohibit TRICARE from covering and the Department of Defense from furnishing sex reassignment surgeries and gender hormone treatments for transgender individuals.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h302",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 224 (Norman) to H.R. 2670: To prohibit provision of gender transition procedures, including surgery or medication, through the Exceptional Family Member Program.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h303",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 225 (Greene) to H.R. 2670: To strike $300 million of Ukraine funding.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h304",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 226 (Gaetz) to H.R. 2670: To prohibit security assistance for Ukraine.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h305",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 227 (Greene) to H.R. 2670: To strike the creation of a Center of Excellence in Ukraine.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h306",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 228 (Davidson) to H.R. 2670: To require the President, in coordination with the Secretary of Defense and Secretary of State, to develop and submit a report to Congress that contains a strategy for U.S. involvement in Ukraine.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h307",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 229 (Ogles) to H.R. 2670: To strike section 1224 of the bill, which extends lend-lease authority to Ukraine.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h308",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 232 (Roy) to H.R. 2670: To amend Section 904 to prohibit federal funds from being used to establish a position within the Department of Defense for anything similar to Chief Diversity Officers or Senior Advisors for Diversity and Inclusion.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h309",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 233 (Roy) to H.R. 2670: To prohibit funds authorized for DoDEA from being used to promote that idea that, 1) Any race is inherently superior or inferior to any other race, color, or national origin. 2) The US is a fundamentally racist country. 3)",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h31",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 22 (118th): Protecting America\u2019s Strategic Petroleum Reserve from China Act",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h310",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 234 (Crane) to H.R. 2670: To prohibit the Department of Defense from making participation in training or support for certain race-based concepts a requirement for hiring, promotion, or retention of individuals. Also, the amendment ensures that em",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h311",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 235 (Norman) to H.R. 2670: To eliminate any offices of Diversity, Equity, and Inclusion along with the personnel in said offices within the offices of the Armed Forces and Department of Defense.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h312",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 235 (Norman) to H.R. 2670: To eliminate any offices of Diversity, Equity, and Inclusion along with the personnel in said offices within the offices of the Armed Forces and Department of Defense.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h313",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 236 (Norman) to H.R. 2670: To prohibit the display of unapproved flags.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h314",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 237 (Boebert) to H.R. 2670: To prohibit the Department of Defense Education Activity schools from purchasing and having pornographic and radical gender ideology books in their libraries.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h315",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 239 (Waltz) to H.R. 2670: To allow DoD to transfer excess controlled property to Federal and State agencies under the 1033 program, consistent with the original intent of the program.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h316",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 242 (Good) to H.R. 2670: To prohibit the use of federal funds to carry out the recommendations of the Naming Commission.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h317",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 243 (Greene) to H.R. 2670: To prohibit cluster munitions or cluster munitions technology be sold or transferred to Ukraine.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h318",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 244 (Hageman) to H.R. 2670: To require that all documents and correspondence of the Countering Extremism Working Group are provided to the Select Subcommittee on the Weaponization of the Federal Government and the Committee on Armed Services.",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h319",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 245 (Davidson) to H.R. 2670: To strike Section 217, which authorizes funds to NATO for the joint fund established for the Defence Innovation Accelerator for the North Atlantic initiative (DIANA).",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h320",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 246 (Davidson) to H.R. 2670: To express a sense of Congress that the US should not continue subsidizing NATO member countries who choose not to invest in their own defense by meeting the 2014 Wales Summit Defense Spending Benchmark.",
+    "policy_area": "Armed Forces and National Security"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "step": 2,
+  "name": "Filter Votes",
+  "status": "ok",
+  "message": "Votes filtered successfully",
+  "values": {
+    "house_total": 1241,
+    "house_excluded": 444,
+    "house_included": 797,
+    "house_exclusion_pct": 35.78,
+    "senate_total": 691,
+    "senate_excluded": 93,
+    "senate_included": 598,
+    "senate_exclusion_pct": 13.46
+  }
+}

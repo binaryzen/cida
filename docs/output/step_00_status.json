@@ -1,0 +1,10 @@
+{
+  "step": 0,
+  "name": "Setup",
+  "status": "ok",
+  "message": "Project setup complete",
+  "values": {
+    "db": "C:\\Users\\Admin\\Projects\\cida\\data\\votes.db",
+    "tables": 5
+  }
+}

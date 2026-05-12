@@ -1,0 +1,352 @@
+[
+  {
+    "vote_id": "2023/h49",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 23 (Levin) to H.R. 21: To exclude oil and gas leasing in any tract located in the Southern California planning area.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h490",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 476 (Burchett) to H.R. 4665: To prohibit funds from being used for the Special Presidential Envoy for Climate.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h491",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 478 (Tenney) to H.R. 4665: To prohibit funds to move the U.S. Embassy in Israel out of Jerusalem.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h492",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 479 (Roy) to H.R. 4665: To prevent funds appropriated by this Act from being used to implement the administrations climate change Executive orders.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h493",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 480 (Davidson) to H.R. 4665: To reduce the salary of Victoria Nuland, Acting United States Deputy Secretary of State and Under Secretary for Political Affairs, to $1.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h494",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 481 (Steube) to H.R. 4665: To ensure none of the funds made available by this Act may be used to provide assistance to the United Nations Educational, Scientific and Cultural Organization (UNESCO).",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h495",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 482 (Perry) to H.R. 4665: To prohibit any funds from being made available for the United Nations Relief and Works Agency.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h496",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 483 (Ogles) to H.R. 4665: To prohibit the use of funds to delist the Iran Revolutionary Guard Corps as a Foreign Terrorist Organization.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h497",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 484 (Massie) to H.R. 4665: To prevent funds made available by this Act from being used to transfer cluster munitions to any foreign country.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h498",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 485 (Burgess) to H.R. 4665: To reduce foreign assistance to certain countries based on the number of unaccompanied alien children who entered the US from those countries.",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h50",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 24 (DelBene) to H.R. 21: To add a new paragraph within section 2 excluding oil and gas leasing in any tract located in the Washington/Oregon planning area.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h500",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 4665 (118th): Department of State, Foreign Operations, and Related Programs Appropriations Act, 2024",
+    "policy_area": "International Affairs"
+  },
+  {
+    "vote_id": "2023/h502",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 4365 (118th): Department of Defense Appropriations Act, 2024",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h503",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 5692 (118th): Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024",
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "vote_id": "2023/h505",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 4367 (118th): Department of Homeland Security Appropriations Act, 2024",
+    "policy_area": "Emergency Management"
+  },
+  {
+    "vote_id": "2023/h507",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 4368 (118th): Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h509",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 741 (118th): Providing for consideration of the bill (H.R. 5525) making continuing appropriations for fiscal year 2024, and for other purposes.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h51",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 26 (Levin) to H.R. 21: To limit Federal land from the plan if it would not provide a fair return taxpayers.",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h511",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.R. 5525 (118th): Continuing Appropriations and Border Security Enhancement Act, 2024",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h517",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 756 (118th): Providing for consideration of the bill (H.R. 4394) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2024, and for other purposes, and providing for consideration of ",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h519",
+    "chamber": "h",
+    "category": "passage",
+    "question": "H.Res. 757 (118th): Declaring the office of Speaker of the House of Representatives to be vacant.",
+    "policy_area": "Congress"
+  },
+  {
+    "vote_id": "2023/h52",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 27 (Grijalva) to H.R. 21: To add a new paragraph at the end of the bill requiring a plan to consult with Tribal governments and other government officials to be included in the plan required by paragraph (1).",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h529",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 488 (Perry) to H.R. 4394: To reduce the funding for Army Corps of Engineers - Civil; Investigations by $715,000 for the purpose of eliminating funding for the Delaware River Basin Commission.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h53",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 28 (Grijalva) to H.R. 21: To exclude any oil and gas leasing on any Federal land where oil and gas leasing would result in or exacerbate disproportionate burdens on certain communities from the plan required by paragraph (1).",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h530",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 489 (Neguse) to H.R. 4394: To increase the Water and Related Resources Account by $1 million to be directed to the Colorado River Compliance Activities account, specifically for the Upper Colorado and San Juan River Endangered Fish Recovery progr",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h531",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 491 (Westerman) to H.R. 4394: To reduce funding for the Bureau of Reclamation's Policy and Administration to Fiscal Year 2022.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h532",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 492 (Griffith) to H.R. 4394: To increase funds for the Fossil Energy and Carbon Management program within the Department of Energy by $600 million and reduce funds for the Energy Efficiency and Renewable Energy program by $1.1 billion.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h533",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 493 (Roy) to H.R. 4394: To eliminate funding for Energy Department's Office of Energy Efficiency and Renewable Energy.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h534",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 494 (Perry) to H.R. 4394: To eliminate funding for Clean Energy Demonstrations.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h535",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 495 (Norman) to H.R. 4394: To eliminate funding for Advanced Research Projects Agency-Energy.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h536",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 496 (Perry) to H.R. 4394: To reduce funding level in this bill for the Appalachian Regional Commission to FY19 levels.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h537",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 497 (Perry) to H.R. 4394: To reduce funding level for the Delta Regional Commission to the FY19 level.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h538",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 498 (Perry) to H.R. 4394: To reduce funding level for the Denali Commission to the FY19 level.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h539",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 499 (Perry) to H.R. 4394: To eliminate funding for the Denali Commission.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h54",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 29 (Grijalva) to H.R. 21: To exclude oil and gas leasing on any Federal lands that are viable for renewable energy production from the plan required in paragraph (1).",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h540",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 500 (Perry) to H.R. 4394: To reduce funding for the Northern Border Regional Commission to FY19 levels.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h541",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 501 (Perry) to H.R. 4394: To reduce funding for the Southeast Crescent Regional Commission to FY19 levels.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h542",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 502 (Perry) to H.R. 4394: To cut funding for the Southwest Border Regional Commission in half.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h543",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 503 (Perry) to H.R. 4394: To cut funding for the Great Lakes Authority in half.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h544",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 506 (Garamendi) to H.R. 4394: To prohibit funding for plutonium pit production at the Savannah River Plutonium Processing Facility.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h545",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 507 (Garamendi) to H.R. 4394: To prohibit funds for the W87-1 modification program to enable additional analysis of the underlying program justifications, planning and budget.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h546",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 509 (Hageman) to H.R. 4394: To prohibit any funding from going towards the SuperTruck III program at DOE.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h547",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 513 (Paulina Luna) to H.R. 4394: To reduce the salary of Michael Connor, Assistant Secretary of the Army for Civil Works, to $1.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h548",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 517 (Norman) to H.R. 4394: To prohibit funds for Department of Energy Office of Science's Office of Scientific Workforce Diversity, Equity, and Inclusion (SW-DEI).",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h549",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 520 (Norman) to H.R. 4394: To prohibit funding for the American Climate Corps.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h55",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 31 (DeGette) to H.R. 21: To add a new subparagraph only allowing for a lease or permit if accompanied by a certification to the Secretary that it would not excessively increase the sales price of any petroleum products during a severe energy supp",
+    "policy_area": "Energy"
+  },
+  {
+    "vote_id": "2023/h550",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 520 (Norman) to H.R. 4394: To prohibit funding for the American Climate Corps.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h551",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 521 (Norman) to H.R. 4394: To reduce the salary of Jennifer M. Granholm, Secretary of the Department of Energy, to $1.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h552",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 525 (Pfluger) to H.R. 4394: To reduce the salary of Gene Rodrigues, Assistant Secretary for Electricity for the Office of Electricity, to $1.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/h553",
+    "chamber": "h",
+    "category": "amendment",
+    "question": "H.Amdt. 526 (Pfluger) to H.R. 4394: To reduce the salary of Andrew Light, Assistant Secretary of Energy for International Affairs, to $1.",
+    "policy_area": "Economics and Public Finance"
+  }
+]

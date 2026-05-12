@@ -1,0 +1,83 @@
+{
+  "threshold": 0.5,
+  "n_discretionary_senate_votes": 598,
+  "n_excluded": 15,
+  "excluded": [
+    {
+      "display_name": "Ruben Gallego",
+      "party": "Democrat",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "Lisa Blunt Rochester",
+      "party": "Democrat",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "Jim Banks",
+      "party": "Republican",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "John R. Curtis",
+      "party": "Republican",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "Angela D. Alsobrooks",
+      "party": "Democrat",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "Elissa Slotkin",
+      "party": "Democrat",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "Bernie Moreno",
+      "party": "Republican",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "Tim Sheehy",
+      "party": "Republican",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "Jon Husted",
+      "party": "Republican",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "Ashley Moody",
+      "party": "Republican",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "David McCormick",
+      "party": "Republican",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "James C. Justice",
+      "party": "Republican",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "Alan Armstrong",
+      "party": "Republican",
+      "coverage": 0.0
+    },
+    {
+      "display_name": "Adam B. Schiff",
+      "party": "Democrat",
+      "coverage": 0.01839464882943144
+    },
+    {
+      "display_name": "Andy Kim",
+      "party": "Democrat",
+      "coverage": 0.03511705685618729
+    }
+  ],
+  "note": "13 of 15 excluded senators have 0% coverage \u2014 they are the class of 2024 elected in November 2024 and sworn in January 2025, after the 118th Congress ended. The remaining 2 (Schiff 1.8%, Kim 3.5%) replaced mid-term vacancies weeks before recess. Lowering the threshold adds no analytically useful senators; current 50% threshold is appropriate."
+}

@@ -1,0 +1,124 @@
+chamber,component_idx,component_label,industry_type,pearson_r,p_value
+house,0,party-alignment,Cooperative,0.0493801812841644,0.35494346362718987
+house,0,party-alignment,Corp w/o Capital Stock,0.11128926460277354,0.03661639532144137
+house,0,party-alignment,Corporation,0.1398953846668541,0.008487683540808613
+house,0,party-alignment,House campaign,0.24540936091324012,3.0709671249885375e-06
+house,0,party-alignment,Labor Organization,-0.6380993028739662,9.364149684180974e-42
+house,0,party-alignment,Membership Organization,-0.03965965101739524,0.4576109031235988
+house,0,party-alignment,Multi-candidate PAC,0.15710308452665012,0.003080094786080995
+house,0,party-alignment,Non-connected PAC,0.2650954790907705,4.332691485414685e-07
+house,0,party-alignment,PAC w/ non-contrib acct,0.24326563602939852,3.7644405013162035e-06
+house,0,party-alignment,Party - national (NQ),0.10867899329113812,0.04128078919010451
+house,0,party-alignment,Party - state (NQ),-0.18355937034415937,0.000528203311030871
+house,0,party-alignment,Presidential campaign,-0.04595511667413114,0.3893423122692281
+house,0,party-alignment,Senate campaign,-0.20404854835259303,0.00011300599375735128
+house,0,party-alignment,Single-candidate IE,-0.02908654070032215,0.5859850217680862
+house,0,party-alignment,Super PAC,-0.05646343126992087,0.290085963282903
+house,0,party-alignment,Super PAC (non-contrib),-0.2217257227358034,2.628082578791043e-05
+house,0,party-alignment,Super PAC hybrid,-0.34690350134228387,2.0289690225733703e-11
+house,0,party-alignment,Trade Association,0.20828114431303332,8.057229154163652e-05
+house,1,internationalism-vs-america-first,Cooperative,0.13122447178565458,0.013609146836066245
+house,1,internationalism-vs-america-first,Corp w/o Capital Stock,0.25867512969317685,8.352995647829063e-07
+house,1,internationalism-vs-america-first,Corporation,0.3599053228309835,3.1010731147282574e-12
+house,1,internationalism-vs-america-first,House campaign,0.1971698573180234,0.00019300019980789706
+house,1,internationalism-vs-america-first,Labor Organization,0.28560938108889544,4.727891349879835e-08
+house,1,internationalism-vs-america-first,Membership Organization,0.44537814552732996,1.3293228636801007e-18
+house,1,internationalism-vs-america-first,Multi-candidate PAC,0.30585913073358656,4.427086172079436e-09
+house,1,internationalism-vs-america-first,Non-connected PAC,0.19215010492142387,0.0002820383568161505
+house,1,internationalism-vs-america-first,PAC w/ non-contrib acct,0.10434440519665314,0.05013034411735772
+house,1,internationalism-vs-america-first,Party - national (NQ),0.11909230834966728,0.025248854476359637
+house,1,internationalism-vs-america-first,Party - state (NQ),0.2544268687530563,1.2774944042015736e-06
+house,1,internationalism-vs-america-first,Presidential campaign,0.027959311961558132,0.6005936873450585
+house,1,internationalism-vs-america-first,Senate campaign,0.1484917549375076,0.005181540700364422
+house,1,internationalism-vs-america-first,Single-candidate IE,0.09401283816691937,0.07773456707802019
+house,1,internationalism-vs-america-first,Super PAC,0.15913847071944148,0.0027134217362159005
+house,1,internationalism-vs-america-first,Super PAC (non-contrib),0.19217206505330514,0.0002815764664435625
+house,1,internationalism-vs-america-first,Super PAC hybrid,0.3114167218519884,2.237199029346517e-09
+house,1,internationalism-vs-america-first,Trade Association,0.31932074136881855,8.268395413843495e-10
+house,2,security-hawks-vs-civil-libertarians,Cooperative,0.1747757664379675,0.0009754704179470344
+house,2,security-hawks-vs-civil-libertarians,Corp w/o Capital Stock,0.20462779669405645,0.00010793710892119495
+house,2,security-hawks-vs-civil-libertarians,Corporation,0.24635300697390564,2.80603564658011e-06
+house,2,security-hawks-vs-civil-libertarians,House campaign,0.15095114386000302,0.0044780937125660876
+house,2,security-hawks-vs-civil-libertarians,Labor Organization,0.059935418496279015,0.2613949723633792
+house,2,security-hawks-vs-civil-libertarians,Membership Organization,0.3667449415597386,1.1148960737914326e-12
+house,2,security-hawks-vs-civil-libertarians,Multi-candidate PAC,0.23071998983694364,1.1940216246975744e-05
+house,2,security-hawks-vs-civil-libertarians,Non-connected PAC,0.20192486379267438,0.00013356694106250413
+house,2,security-hawks-vs-civil-libertarians,PAC w/ non-contrib acct,0.039290712530352524,0.46180899271398124
+house,2,security-hawks-vs-civil-libertarians,Party - national (NQ),0.026594602449137552,0.6184959843095608
+house,2,security-hawks-vs-civil-libertarians,Party - state (NQ),0.20051981130622096,0.0001490465105092984
+house,2,security-hawks-vs-civil-libertarians,Presidential campaign,0.11756555670581557,0.02719645342245851
+house,2,security-hawks-vs-civil-libertarians,Senate campaign,0.2794054408884223,9.418115242357735e-08
+house,2,security-hawks-vs-civil-libertarians,Single-candidate IE,0.07150129022460182,0.1801353079607575
+house,2,security-hawks-vs-civil-libertarians,Super PAC,0.05901483961589581,0.26880465953192173
+house,2,security-hawks-vs-civil-libertarians,Super PAC (non-contrib),0.12754570230930296,0.01649986394007255
+house,2,security-hawks-vs-civil-libertarians,Super PAC hybrid,0.09528791970213303,0.07377310237846887
+house,2,security-hawks-vs-civil-libertarians,Trade Association,0.31915127526796533,8.449343129023695e-10
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Cooperative,-0.1587117579807691,0.0027868293695766906
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Corp w/o Capital Stock,-0.14375930291101527,0.006820597352109773
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Corporation,-0.22104298508371958,2.786649088076632e-05
+house,3,executive-power-skeptics-vs-bipartisan-hawks,House campaign,0.228462125919667,1.4599195912769272e-05
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Labor Organization,-0.12803173322151262,0.016089486306120938
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Membership Organization,-0.04734686297238465,0.37512783253328147
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Multi-candidate PAC,0.21560012120135164,4.416646092180848e-05
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Non-connected PAC,0.2568814361078797,1.0003381365403944e-06
+house,3,executive-power-skeptics-vs-bipartisan-hawks,PAC w/ non-contrib acct,0.24895897385490162,2.1830632564662074e-06
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Party - national (NQ),0.13970758512753115,0.008577250931715649
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Party - state (NQ),0.329499746993824,2.1971077533606386e-10
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Presidential campaign,0.06481321865215653,0.22448502543588086
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Senate campaign,0.22460609368774773,2.0484392126023827e-05
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Single-candidate IE,0.11872676591453406,0.025703869834897877
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Super PAC,0.34064311564676275,4.862735194262177e-11
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Super PAC (non-contrib),0.29304066617853125,2.0252312809028807e-08
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Super PAC hybrid,0.10140124046448623,0.05700043433022476
+house,3,executive-power-skeptics-vs-bipartisan-hawks,Trade Association,-0.12912720026001423,0.015197148597298723
+senate,0,party-alignment,Cooperative,-0.16725335725327167,0.13070965030857915
+senate,0,party-alignment,Corp w/o Capital Stock,-0.07039247589642496,0.5271481990158093
+senate,0,party-alignment,Corporation,-0.10272764577145924,0.35540929558803025
+senate,0,party-alignment,House campaign,0.22030020480489154,0.045365278329044634
+senate,0,party-alignment,Labor Organization,0.4282597660267996,5.371040222108572e-05
+senate,0,party-alignment,Membership Organization,-0.03855540660580456,0.7292990149756947
+senate,0,party-alignment,Multi-candidate PAC,-0.1399100058636987,0.20711964129721086
+senate,0,party-alignment,Non-connected PAC,-0.05039299608870593,0.6509613328904515
+senate,0,party-alignment,PAC w/ non-contrib acct,-0.19605589749375169,0.07567546866335784
+senate,0,party-alignment,Party - national (NQ),0.04988144135475135,0.6542768968390895
+senate,0,party-alignment,Party - state (NQ),0.1106309366301086,0.31941010826450356
+senate,0,party-alignment,Presidential campaign,0.15911706951090288,0.15077125423222215
+senate,0,party-alignment,Senate campaign,0.09564627594221961,0.38971280951629167
+senate,0,party-alignment,Super PAC,0.015064764643155336,0.8924752920506978
+senate,0,party-alignment,Super PAC (non-contrib),0.20799603141645048,0.059175326244419096
+senate,0,party-alignment,Super PAC hybrid,0.023391959557290065,0.8337397698701032
+senate,0,party-alignment,Trade Association,-0.15958918868984986,0.14954761592773363
+senate,1,internationalism-vs-civil-libertarian-skeptics,Cooperative,0.12615599418835766,0.2557671372968401
+senate,1,internationalism-vs-civil-libertarian-skeptics,Corp w/o Capital Stock,0.18784939481565394,0.08901619205006985
+senate,1,internationalism-vs-civil-libertarian-skeptics,Corporation,0.035630109670408625,0.749131738318797
+senate,1,internationalism-vs-civil-libertarian-skeptics,House campaign,-0.3132827719304798,0.003928707667100104
+senate,1,internationalism-vs-civil-libertarian-skeptics,Labor Organization,-0.1431486309781645,0.19669390113669502
+senate,1,internationalism-vs-civil-libertarian-skeptics,Membership Organization,-0.08825816104448857,0.4275297250380297
+senate,1,internationalism-vs-civil-libertarian-skeptics,Multi-candidate PAC,-0.11730697505770547,0.2908945467987617
+senate,1,internationalism-vs-civil-libertarian-skeptics,Non-connected PAC,-0.12433935252880873,0.26273139975025733
+senate,1,internationalism-vs-civil-libertarian-skeptics,PAC w/ non-contrib acct,-0.04621336146591784,0.6782440789542694
+senate,1,internationalism-vs-civil-libertarian-skeptics,Party - national (NQ),-0.269377463888161,0.013792132784675257
+senate,1,internationalism-vs-civil-libertarian-skeptics,Party - state (NQ),-0.2251266321416054,0.04073235898609036
+senate,1,internationalism-vs-civil-libertarian-skeptics,Presidential campaign,-0.015122870982797323,0.8920630454979678
+senate,1,internationalism-vs-civil-libertarian-skeptics,Senate campaign,-0.18511895794768105,0.09384564741352912
+senate,1,internationalism-vs-civil-libertarian-skeptics,Super PAC,-0.16359430024061525,0.13946461399206392
+senate,1,internationalism-vs-civil-libertarian-skeptics,Super PAC (non-contrib),-0.06242263321378051,0.5750567729569311
+senate,1,internationalism-vs-civil-libertarian-skeptics,Super PAC hybrid,-0.11409643133907174,0.30439111608163705
+senate,1,internationalism-vs-civil-libertarian-skeptics,Trade Association,-0.0185966306436383,0.867473632442532
+senate,2,security-consensus-vs-institutional-skeptics,Cooperative,0.052797364771310654,0.6354692763889296
+senate,2,security-consensus-vs-institutional-skeptics,Corp w/o Capital Stock,-0.02821137290436074,0.8001365605011167
+senate,2,security-consensus-vs-institutional-skeptics,Corporation,-0.0017564263382055792,0.9874265491004174
+senate,2,security-consensus-vs-institutional-skeptics,House campaign,-0.02385643378037023,0.8304871988139699
+senate,2,security-consensus-vs-institutional-skeptics,Labor Organization,-0.003175245302140783,0.9772719684862337
+senate,2,security-consensus-vs-institutional-skeptics,Membership Organization,-0.09858402585164923,0.37524860619334355
+senate,2,security-consensus-vs-institutional-skeptics,Multi-candidate PAC,-0.042199476956814495,0.7048409749784834
+senate,2,security-consensus-vs-institutional-skeptics,Non-connected PAC,-0.06712728573666024,0.546532175348907
+senate,2,security-consensus-vs-institutional-skeptics,PAC w/ non-contrib acct,-0.1276242221178029,0.2502313390065522
+senate,2,security-consensus-vs-institutional-skeptics,Party - national (NQ),0.09098715296232893,0.4133229910545217
+senate,2,security-consensus-vs-institutional-skeptics,Party - state (NQ),0.01080441872182523,0.9227717016574216
+senate,2,security-consensus-vs-institutional-skeptics,Presidential campaign,0.05101371761207819,0.6469473074909642
+senate,2,security-consensus-vs-institutional-skeptics,Senate campaign,0.06326062550092425,0.569925766701911
+senate,2,security-consensus-vs-institutional-skeptics,Super PAC,-0.07881608652365218,0.47878260778838716
+senate,2,security-consensus-vs-institutional-skeptics,Super PAC (non-contrib),-0.032158483012491565,0.7728804750352603
+senate,2,security-consensus-vs-institutional-skeptics,Super PAC hybrid,-0.0026606754020684926,0.9809544461936782
+senate,2,security-consensus-vs-institutional-skeptics,Trade Association,-0.04187193786503061,0.7070275588401522

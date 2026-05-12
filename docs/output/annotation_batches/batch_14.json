@@ -1,0 +1,352 @@
+[
+  {
+    "vote_id": "2023/s271",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1182 (Braun) to H.R. 4366: To prohibit earmarks.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s272",
+    "chamber": "s",
+    "category": "passage",
+    "question": "S.J.Res. 42 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Food and Nutrition Service relating to \u201cApplication of Bostock v. Clayton County to Program Discr",
+    "policy_area": "Agriculture and Food"
+  },
+  {
+    "vote_id": "2023/s273",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Matthew James Maddox to be U.S. District Judge for the District of Maryland: Matthew James Maddox, of Maryland, to be United States District Judge for the District of Maryland",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s274",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN452: Matthew James Maddox, of Maryland, to be United States District Judge for the District of Maryland",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s275",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Jacob J. Lew to be Ambassador of the United States of America to the State of Israel: Jacob J. Lew, of New York, to be Ambassador to the State of Israel",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s276",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN1062: Jacob J. Lew, of New York, to be Ambassador to the State of Israel",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s277",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1200 (Hawley) to H.R. 4366: To prohibit the use of funds for providing grants, funding, or any financial benefit to Chinese entities.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s278",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1296 (Cruz) to H.R. 4366: To prohibit using funds to pay the salary of an individual who was nominated to the position of Administrator of the National Highway Traffic Safety Administration and whose nomination was subsequently withdrawn.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s279",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1243 (Budd) to H.R. 4366: To prohibit the use of funds to implement or enforce Executive Order 14019.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s28",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN75: Jamal N. Whitehead, of Washington, to be United States District Judge for the Western District of Washington",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s280",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1217 (Paul) to H.R. 4366: To require a full audit of the Board of Governors of the Federal Reserve System and the Federal reserve banks by the Comptroller General of the United States.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s281",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1347 (Paul) to H.R. 4366: To reduce the amounts appropriated in divisions B and C and to rescind amounts appropriated to the Internal Revenue Service.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s282",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1249 (Cruz) to H.R. 4366: To ensure that United States diplomats and officials of the U.S. Section of the International Boundary and Water Commission are able to advance efforts seeking compliance by the United Mexican States with the 1944 Treaty",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s283",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1121 (Lee) to H.R. 4366: To require congressional review of certain agency rulemaking.",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s284",
+    "chamber": "s",
+    "category": "passage",
+    "question": "H.R. 4366 (118th): Consolidated Appropriations Act, 2024",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s285",
+    "chamber": "s",
+    "category": "passage",
+    "question": "H.R. 662 (118th): Block Grant Assistance Act of 2023",
+    "policy_area": "Agriculture and Food"
+  },
+  {
+    "vote_id": "2023/s286",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Adm. Lisa M. Franchetti for Appointment as Chief of Naval Operations and to be Admiral: Adm. Lisa M. Franchetti, in the Navy, to be Admiral",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s287",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN882: Adm. Lisa M. Franchetti, in the Navy, to be Admiral",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s288",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Gen. David W. Allvin for appointment as Chief of Staff, U.S. Air Force, and to be General: Gen. David W. Allvin, in the Air Force, to be General",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s289",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN877: Gen. David W. Allvin, in the Air Force, to be General",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s29",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Araceli Martinez-Olguin to be U.S. District Judge for the Northern District of California.: Araceli Martinez-Olguin, of California, to be United States District Judge for the Northern District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s290",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Lt. Gen. Christopher J. Mahoney for appointment as Asst. Commandant of the Marine Corps, and to be General: Lt. Gen. Christopher J. Mahoney, in the Marine Corps, to be General",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s291",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN881: Lt. Gen. Christopher J. Mahoney, in the Marine Corps, to be General",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s292",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Monica M. Bertagnolli to be Director of the National Institutes of Health: Monica M. Bertagnolli, of Massachusetts, to be Director of the National Institutes of Health",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s293",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN649: Monica M. Bertagnolli, of Massachusetts, to be Director of the National Institutes of Health",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s294",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Kenly Kiya Kato to be U.S. District Judge for the Central District of California: Kenly Kiya Kato, of California, to be United States District Judge for the Central District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s295",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN84: Kenly Kiya Kato, of California, to be United States District Judge for the Central District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s296",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Julia E. Kobick to be U.S. District Judge for the District of Massachusetts: Julia E. Kobick, of Massachusetts, to be United States District Judge for the District of Massachusetts",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s297",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN172: Julia E. Kobick, of Massachusetts, to be United States District Judge for the District of Massachusetts",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s298",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Ramon Ernesto Reyes, Jr. to be U.S. District Judge for the Eastern District of New York: Ramon Ernesto Reyes, Jr., of New York, to be United States District Judge for the Eastern District of New York",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s299",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN174: Ramon Ernesto Reyes, Jr., of New York, to be United States District Judge for the Eastern District of New York",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s3",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN62: Roger Israel Zakheim, of Maryland, to be a Member of the Board of Directors of the United States Institute of Peace for a term of four years",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s30",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN76: Araceli Martinez-Olguin, of California, to be United States District Judge for the Northern District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s300",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Charlotte A. Burrows to be a Member of the Equal Employment Opportunity Commission: Charlotte A. Burrows, of the District of Columbia, to be a Member of the Equal Employment Opportunity Commission for a term expiring July 1, 2028",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s301",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN786: Charlotte A. Burrows, of the District of Columbia, to be a Member of the Equal Employment Opportunity Commission for a term expiring July 1, 2028",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s302",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Brandy R. McMillion to be U.S. District Judge for the Eastern District of Michigan: Brandy R. McMillion, of Michigan, to be United States District Judge for the Eastern District of Michigan",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s303",
+    "chamber": "s",
+    "category": "passage",
+    "question": "S.J.Res. 38 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Highway Administration relating to \u201cWaiver of Buy America Requirements for Electric Vehic",
+    "policy_area": "Transportation and Public Works"
+  },
+  {
+    "vote_id": "2023/s304",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Monica Ramirez Almadani to be U.S. District Judge for the Central District of California: Monica Ramirez Almadani, of California, to be United States District Judge for the Central District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s305",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN165: Monica Ramirez Almadani, of California, to be United States District Judge for the Central District of California",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s306",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN813: Brandy R. McMillion, of Michigan, to be United States District Judge for the Eastern District of Michigan",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s307",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Ana de Alba to be U.S. Circuit Judge for the Ninth Circuit: Ana de Alba, of California, to be United States Circuit Judge for the Ninth Circuit",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s308",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN499: Ana de Alba, of California, to be United States Circuit Judge for the Ninth Circuit",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s31",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Margaret R. Guzman to be U.S. District Judge for the District of Massachusetts: Margaret R. Guzman, of Massachusetts, to be United States District Judge for the District of Massachusetts",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s310",
+    "chamber": "s",
+    "category": "passage",
+    "question": "S.J.Res. 43 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to \u201cImproving Income Driven Repayment for the William D. Ford Fe",
+    "policy_area": "Education"
+  },
+  {
+    "vote_id": "2023/s311",
+    "chamber": "s",
+    "category": "amendment",
+    "question": "S.Amdt. 1366 (Paul) to H.R. 6363: To reduce continuing funding by 15 percent, except for the Department of Defense, military construction, and the Department of Veterans Affairs and to rescind $30,000,000,000 from enforcement funds provided to the Intern",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s312",
+    "chamber": "s",
+    "category": "passage",
+    "question": "H.R. 6363 (118th): Further Continuing Appropriations and Other Extensions Act, 2024",
+    "policy_area": "Economics and Public Finance"
+  },
+  {
+    "vote_id": "2023/s314",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Jeffrey M. Bryan to be U.S. District Judge for the District of Minnesota: Jeffrey M. Bryan, of Minnesota, to be United States District Judge for the District of Minnesota",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s315",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN903: Jeffrey M. Bryan, of Minnesota, to be United States District Judge for the District of Minnesota",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s316",
+    "chamber": "s",
+    "category": "cloture",
+    "question": "Motion to Invoke Cloture: Margaret M. Garnett to be U.S. District Judge for the Southern District of New York: Margaret M. Garnett, of New York, to be United States District Judge for the Southern District of New York",
+    "policy_area": ""
+  },
+  {
+    "vote_id": "2023/s317",
+    "chamber": "s",
+    "category": "nomination",
+    "question": "On the Nomination PN817: Margaret M. Garnett, of New York, to be United States District Judge for the Southern District of New York",
+    "policy_area": ""
+  }
+]
