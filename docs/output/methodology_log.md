@@ -299,7 +299,7 @@ Skipped voters for 2024-04-16T16:47:00: 502 Server Error: Bad Gateway for url: h
 **Step 09 [2026-05-11T03:02:30.549350]**: house: HDBSCAN(min_cluster_size=17), silhouette=0.765
 **Step 09 [2026-05-11T03:02:30.939015]**: senate: HDBSCAN(min_cluster_size=5), silhouette=0.737
 **Step 09 [2026-05-11T03:02:31.140356]**: No cluster has >= 10% minority-party membership
-## 2026-05-11T03:39:26.601091 â€” Step 11: External Validation
+## 2026-05-11T03:39:26.601091 — Step 11: External Validation
 - nominate_pc0_dim1_max_r: 0.982
 - nominate_correlations_total: 14
 - crs_correlations_above_0.10: 102
