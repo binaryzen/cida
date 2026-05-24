@@ -1,0 +1,230 @@
+﻿========================================================================
+N=10  corpus=826  unclassified @0.07=7.9%
+========================================================================
+
+────────────────────────────────────────────────────────────────────────
+T01  UI navigation / dark mode  (n_above_threshold=21  n_total=34)
+Top terms: open, click, menu, button, window, right, context, tab, right click, context menu
+Scores: 0.072 – 0.128  (median 0.102)
+  ··· HIGH ···
+    sc=0.128 2nd=T9(0.73)  Opening a saved repository from context menu opens a different repository
+    sc=0.127 2nd=T2(0.52)  Custom Actions sub-menu missing from context menu in Sourcetree 3.3.4
+    sc=0.123 2nd=T3(0.74)  Context menu text not visible in dark mode
+    sc=0.123 2nd=T3(0.74)  Context menu text not visible in dark mode
+    sc=0.119 2nd=T10(0.00)  Windows context menu colors for dark theme
+  ··· MID ···
+    sc=0.103 2nd=T10(0.15)  UX
+    sc=0.102 2nd=T6(0.98)  "Open in Terminal" button not working anymore
+  ··· LOW ···
+    sc=0.079 2nd=T7(0.87)  Interactive rebase fails
+    sc=0.077 2nd=T6(0.61)  Text unreadable on password edit dialog in dark theme
+    sc=0.076 2nd=T6(0.98)  Sourcetree (Win 3.3.6) Cannot Open Terminal
+    sc=0.074 2nd=T7(0.40)  Window position is restored higher than when it shut down
+    sc=0.072 2nd=T6(0.69)  Terminal Is Not Opened
+
+────────────────────────────────────────────────────────────────────────
+T02  File staging & diff  (n_above_threshold=128  n_total=139)
+Top terms: file, files, diff, view, changes, stage, staged, unstaged, status, file status
+Scores: 0.078 – 0.327  (median 0.176)
+  ··· HIGH ···
+    sc=0.327 2nd=T3(0.01)  Displaying all changes between hash1 and hash2 doesn't work
+    sc=0.327 2nd=T3(0.01)  Displaying all changes between hash1 and hash2 doesn't work
+    sc=0.315 2nd=T8(0.14)  Syntax highlighting is applied to "No newline at end of file" notice
+    sc=0.315 2nd=T4(0.07)  Ability to hide diff pane in File Status view
+    sc=0.308 2nd=T4(0.15)  file status is not refreshing
+  ··· MID ···
+    sc=0.187 2nd=T7(0.27)  Some Bug in v3.3.7
+    sc=0.186 2nd=T3(0.54)  cannot resolve conflicts on changed files with removed files from master branch
+    sc=0.184 2nd=T4(0.46)  Views don't update after an action.
+    sc=0.184 2nd=T3(0.35)  UI is showing out of date state
+    sc=0.182 2nd=T3(0.51)  UI Refresh Broken in 3.3.6
+  ··· LOW ···
+    sc=0.083 2nd=T4(0.82)  Sorcetree not installing 
+    sc=0.083 2nd=T9(0.27)  Horizontal Scroll for MouseWheel Event
+    sc=0.082 2nd=T7(0.51)  Spaces and tabs in diff views are displayed in the wrong position
+    sc=0.080 2nd=T4(0.50)  Sourcetree doesn't automatically refresh screen
+    sc=0.078 2nd=T4(0.85)  Unable to save sourcetree to computer
+
+────────────────────────────────────────────────────────────────────────
+T03  Branch & push  (n_above_threshold=92  n_total=95)
+Top terms: branch, push, branches, origin, local, remote branch, master, local branch, remote, new branch
+Scores: 0.076 – 0.355  (median 0.165)
+  ··· HIGH ···
+    sc=0.355 2nd=T6(0.61)  Can't push branch to Azure Git
+    sc=0.352 2nd=T9(0.06)  SourceTree doesn't list local branches with underscore '_' as Tracked 
+    sc=0.318 2nd=T9(0.17)  Sourcetree does not let me push to remote branch from by local branch
+    sc=0.307 2nd=T9(0.14)  Push ignores local branches that don't match a remote tracking branch
+    sc=0.303 2nd=T5(0.26)  Error pushing new branches
+  ··· MID ···
+    sc=0.173 2nd=T6(0.57)  Not able to check out remote branch with pipe (vertical line) character
+    sc=0.173 2nd=T9(0.21)  Branches arrangement
+    sc=0.173 2nd=T9(0.82)  Logical tree level for local branches
+    sc=0.172 2nd=T2(0.25)  Push Changes immediately to field frequently becomes "-"
+    sc=0.166 2nd=T7(0.88)  Highlighting single branch on graph view 
+  ··· LOW ···
+    sc=0.096 2nd=T9(0.87)  Cannot open multiple repos with same name
+    sc=0.092 2nd=T4(0.67)  Untracked branches cannot be pushed
+    sc=0.087 2nd=T10(0.86)  Can't push to github after access token changed
+    sc=0.078 2nd=T1(0.82)  dark theme=> to be improved
+    sc=0.076 2nd=T9(0.76)  branches checked out in different worktree not shown in the left panel
+
+────────────────────────────────────────────────────────────────────────
+T04  Install & update  (n_above_threshold=105  n_total=119)
+Top terms: version, update, latest, start, install, latest version, app, exe, installation, does
+Scores: 0.073 – 0.289  (median 0.141)
+  ··· HIGH ···
+    sc=0.289 2nd=T8(0.24)  Sourcetree crashes after update
+    sc=0.266 2nd=T6(0.01)  Mercurial HG doesn't work anymore with version 3.3.6
+    sc=0.263 2nd=T10(0.00)  Consume CPU More then 80%
+    sc=0.262 2nd=T10(0.10)  Windows Defender SmartScreen prevented an unrecognized app from starting
+    sc=0.252 2nd=T1(0.04)  Versionstring not update after auto-update
+  ··· MID ···
+    sc=0.150 2nd=T1(0.25)  SourceTree does not appear in Win10 Start Menu
+    sc=0.146 2nd=T8(0.74)  Application slows down and eventually crashes when not shut down for a couple of days
+    sc=0.145 2nd=T7(0.13)  CredentialHelperSelector Prompt Totally Confusing
+    sc=0.144 2nd=T9(0.85)  Bookmarks regularly lost
+    sc=0.143 2nd=T5(0.64)  Update SourceTree for Windows from 3.4.10 to 3.4.11 fails
+  ··· LOW ···
+    sc=0.077 2nd=T9(0.58)  Wrong installation size reported in Control Panel?
+    sc=0.076 2nd=T2(0.52)  UI completely unusable due to delays in rendering code
+    sc=0.074 2nd=T1(0.48)  Version 4.0 breaking Dark Mode switching
+    sc=0.074 2nd=T9(0.24)  Popups flashes periodically with no contents
+    sc=0.073 2nd=T1(0.54)  Finish Feature loosing Feature Name
+
+────────────────────────────────────────────────────────────────────────
+T05  Pull & fetch errors  (n_above_threshold=60  n_total=63)
+Top terms: error, pull, failed, log, unable, message, getting, try, error message, fetch
+Scores: 0.073 – 0.268  (median 0.148)
+  ··· HIGH ···
+    sc=0.268 2nd=T10(0.00)  Can't use SourceTree or fully log in
+    sc=0.264 2nd=T10(0.34)  SourceTree CAPTCHA Error
+    sc=0.263 2nd=T3(0.27)  Identification
+    sc=0.253 2nd=T7(0.12)  CAPTCHA ERROR
+    sc=0.251 2nd=T10(0.13)  Sourcetree error: Too many invalid password attempts. The requested URL returned error: 403
+  ··· MID ···
+    sc=0.150 2nd=T4(0.60)  Failed to start after windows update
+    sc=0.150 2nd=T4(0.73)  Bad line length error since latest Sourcetree update
+    sc=0.149 2nd=T10(0.77)  Bitbucket Oauth and Basic Authentication Not Working After Following Resolution Steps
+    sc=0.147 2nd=T4(0.94)  Link to latest Windows version is broken on Atlassian site
+    sc=0.145 2nd=T10(0.82)  Failed to check login for user
+  ··· LOW ···
+    sc=0.092 2nd=T10(0.84)  Keeps losing credentials
+    sc=0.091 2nd=T4(0.12)  Sourcetree Log keeps complaining
+    sc=0.083 2nd=T6(0.93)  Cannot Remove Keys from SSH Agent
+    sc=0.079 2nd=T8(0.21)  Unable to use System Mercurial on Sourcetree for Windows
+    sc=0.073 2nd=T3(0.89)  German translation of "Pull" / "Fetch" is missleading
+
+────────────────────────────────────────────────────────────────────────
+T06  Git terminal & LFS  (n_above_threshold=67  n_total=69)
+Top terms: git, lfs, terminal, git lfs, embedded, command, add, version, open, config
+Scores: 0.088 – 0.455  (median 0.165)
+  ··· HIGH ···
+    sc=0.455 2nd=T10(0.00)  Buffer overflow with git shell 
+    sc=0.363 2nd=T4(0.43)  Gitflow Not Supported
+    sc=0.295 2nd=T3(0.05)  can not select any brance when git submit
+    sc=0.282 2nd=T1(0.20)  An "Open Termial" button fails for git bash [git-scm 2.31.1]
+    sc=0.275 2nd=T1(0.14)  Git Bash cannot be opened anymore with Git 2.31
+  ··· MID ···
+    sc=0.176 2nd=T5(0.22)  Launching SourceTree getting"Run  'git lfs pull' now" prompt
+    sc=0.172 2nd=T9(0.28)  Git tutorial bug
+    sc=0.165 2nd=T2(0.70)  RepoHandlerGitOld.NeedsLargeFilesPull incorrectly returning true for files reported unchanged b
+    sc=0.165 2nd=T10(0.31)  Exception while tracking LFS extensions
+    sc=0.164 2nd=T2(0.55)  config file sourcetreeconfig.json is reset after each start of sourcetree
+  ··· LOW ···
+    sc=0.091 2nd=T9(0.74)  Allow multiple user profiles with quick selection via toolbar
+    sc=0.090 2nd=T10(0.46)  Support multiple SSH keys
+    sc=0.089 2nd=T4(0.70)  SourceTree constantly displays login pop-up when user attempts to perform an operation
+    sc=0.089 2nd=T1(0.71)  Context Menü on Files very unresponsive when LFS is activated on Repository
+    sc=0.088 2nd=T7(0.76)  Custom actions != command line
+
+────────────────────────────────────────────────────────────────────────
+T07  Commit & history  (n_above_threshold=70  n_total=75)
+Top terms: commit, message, commit message, history, text, commits, rebase, time, allow, current
+Scores: 0.071 – 0.312  (median 0.176)
+  ··· HIGH ···
+    sc=0.312 2nd=T2(0.25)  cannt commit
+    sc=0.291 2nd=T1(0.05)  Misleading popup dialog when amending commit
+    sc=0.275 2nd=T6(0.01)  Jump to commit by commit Id doesn't work with upper-case commit Ids
+    sc=0.273 2nd=T6(0.38)  Typing Commit Messages
+    sc=0.272 2nd=T5(0.03)  Amending a commit should not involve a popup
+  ··· MID ···
+    sc=0.190 2nd=T6(0.62)  Names for patches
+    sc=0.186 2nd=T3(0.56)  In history view, move the current branch so that it is at the top
+    sc=0.181 2nd=T9(0.10)  Navigate back or forward
+    sc=0.179 2nd=T3(0.67)  SourceTree does not offer branches for pushing
+    sc=0.173 2nd=T4(0.28)  Global Author details do not update after closing Options
+  ··· LOW ···
+    sc=0.110 2nd=T6(0.70)  Patch created from SourceTree (Actions/Create Patch) is in wrong order
+    sc=0.100 2nd=T4(0.67)  SourceTree wrong focus after seeing console output
+    sc=0.096 2nd=T5(0.76)  Bad design: Uncommitted changes appear for no reason
+    sc=0.072 2nd=T3(0.86)  Dark theme Contrast at Commit/Pull/Push Bar Notifications
+    sc=0.071 2nd=T2(0.64)  Copy Paste from History takes ages
+
+────────────────────────────────────────────────────────────────────────
+T08  Crash & clone  (n_above_threshold=74  n_total=75)
+Top terms: repository, clone, crashes, cloning, repo, crash, remote repository, application, path, url
+Scores: 0.071 – 0.439  (median 0.167)
+  ··· HIGH ···
+    sc=0.439 2nd=T10(0.00)  SourceTree crashes while trying to clone empty repository
+    sc=0.389 2nd=T10(0.00)  Can't clone repository on Windows
+    sc=0.350 2nd=T3(0.15)  Sourcetree crashes upon cloning a repository
+    sc=0.339 2nd=T10(0.26)  SourceTree crashes when cloning a repository from BitBucket
+    sc=0.337 2nd=T5(0.26)  SourceTree crashes trying to clone any repository
+  ··· MID ···
+    sc=0.177 2nd=T5(0.08)  support clone SVN in Windows
+    sc=0.170 2nd=T3(0.79)  "Check out in Sourctree" always tries to clone new and complains about missing details.
+    sc=0.168 2nd=T10(0.78)  Can't clone Bitbucket private repo on sourcetree
+    sc=0.167 2nd=T6(0.61)  V3.4.6 crashes in Clone dialog
+    sc=0.167 2nd=T10(0.88)  Application Crash When Using "Checkout In SourceTree" from BitBucket Server
+  ··· LOW ···
+    sc=0.091 2nd=T10(0.37)  SourceTree insists handling a specific repo
+    sc=0.091 2nd=T1(0.12)  SourceTree 3.4.5 crash on RepoHandlerGitOld.GetDefaultBranch
+    sc=0.080 2nd=T3(0.93)  Automatic refresh breaks on the first repository tab
+    sc=0.077 2nd=T7(0.41)  Crash when closing Options dialog
+    sc=0.071 2nd=T1(0.22)  Sourcetree for Windows crash after a few seconds.
+
+────────────────────────────────────────────────────────────────────────
+T09  Repository browser  (n_above_threshold=67  n_total=72)
+Top terms: repositories, remote, remote repositories, list, repos, tab, local, showing, repository, user
+Scores: 0.071 – 0.398  (median 0.176)
+  ··· HIGH ···
+    sc=0.398 2nd=T4(0.18)  Sourcetree Repos not showing up in remote tab
+    sc=0.386 2nd=T6(0.13)  Remote repositories search can't find some repos
+    sc=0.358 2nd=T10(0.33)  GitHub repositories are not showing in Remote repositories
+    sc=0.358 2nd=T10(0.33)  GitHub repositories are not showing in Remote repositories
+    sc=0.350 2nd=T10(0.00)  Sort remote repositories
+  ··· MID ···
+    sc=0.199 2nd=T10(0.38)  Remote Repos Filter not working
+    sc=0.187 2nd=T2(0.27)  Drag/drop of local repositories does not work correctly
+    sc=0.182 2nd=T10(0.74)  Dropdown for Organization Repos is blank
+    sc=0.176 2nd=T8(0.34)  Nested/Grouped tabs for submodules
+    sc=0.171 2nd=T6(0.39)  Create local and remote repository from existing project in one step
+  ··· LOW ···
+    sc=0.076 2nd=T1(0.82)  Cannot open local repo when repo is a submodule open in another tab
+    sc=0.076 2nd=T2(0.99)  UI Refresh
+    sc=0.073 2nd=T10(0.36)  Support using of multiple ssh-keys through Sourcetree interface
+    sc=0.072 2nd=T3(0.85)  Filter History by user
+    sc=0.071 2nd=T7(0.47)  Add a "session" paradigm with save/restore
+
+────────────────────────────────────────────────────────────────────────
+T10  Bitbucket auth  (n_above_threshold=77  n_total=85)
+Top terms: bitbucket, account, server, bitbucket server, authentication, remote, settings, login, url, password
+Scores: 0.071 – 0.382  (median 0.184)
+  ··· HIGH ···
+    sc=0.382 2nd=T9(0.00)  Cannot Load TimeZoneConverter when Linking Bitbucket Account
+    sc=0.325 2nd=T8(0.41)  Problems with Bitbucket Server Integration in Sourcetree Enterprise
+    sc=0.305 2nd=T4(0.11)  SourceTree 3.3.6 Does Not Authenticate
+    sc=0.296 2nd=T9(0.18)  Repository settings in optional extended integration with e.g. Bitbucket Server are not persist
+    sc=0.286 2nd=T9(0.74)  SourceTree not showing Bitbucket repositories
+  ··· MID ···
+    sc=0.191 2nd=T8(0.86)  sync the repository URLs and certifications to the atlssian account(or other cloud)
+    sc=0.188 2nd=T5(0.35)  Azure Devops Account don't respect full url
+    sc=0.185 2nd=T9(0.68)  Sourcetree keeps asking for password for bitbucket.org
+    sc=0.184 2nd=T5(0.33)  Authentication not working
+    sc=0.184 2nd=T6(0.02)  Cannot register to SourceTree using my corporate account
+  ··· LOW ···
+    sc=0.081 2nd=T8(0.74)  Add extended integration with Team Foundation Server (TFS) 2015 and Visual Studio Online
+    sc=0.081 2nd=T4(0.97)  Launch SSH Agent should display correct state
+    sc=0.076 2nd=T4(0.60)  ssh-agent.exe taks to much CPU
+    sc=0.073 2nd=T4(0.78)  SourceTree starts then Closes - even after uninstal and remove local appdata - where is the lis
+    sc=0.071 2nd=T8(0.72)  Source Tree not getting started

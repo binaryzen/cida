@@ -1,12 +1,24 @@
-# CIDA — Congressional Interest Dimension Analysis
+# C I D A
+
+Two iterations of the same latent-dimension methodology applied to different domains.
+
+## Iteration 1 — Congressional Interest Dimension Analysis
 
 Principal component analysis on 118th Congress roll-call voting behavior, with external overlays from FEC campaign finance data and CRS policy area classifications.
 
-## Results
-
-Iteration 1 results are in [`iteration-1/`](iteration-1/index.html). Open `iteration-1/index.html` in a browser to navigate the site.
+Results are in [`docs/iteration-1/`](docs/iteration-1/index.html). Open `docs/iteration-1/index.html` in a browser to navigate the multi-page site.
 
 Key finding: House PC3 is orthogonal to both dimensions of DW-NOMINATE (r² < 0.01), suggesting a latent voting dimension not captured by existing two-dimensional models.
+
+## Iteration 2 — Customer Issue Dimension Analysis
+
+NMF topic modelling on a public JIRA ticket corpus for Sourcetree for Windows (2013–2023). Identifies defect families, customer segments, and cross-cutting recommendations from 1,000 unique support tickets.
+
+Data: *JIRA Dataset* by **Cesar Anasco**, published on [Kaggle](https://www.kaggle.com/datasets/cesaranasco/jira-dataset/data) (2023).
+
+Results are in [`docs/iteration-2/`](docs/iteration-2/index.html). Open `docs/iteration-2/index.html` in a browser.
+
+Key findings: 49% of tickets untriaged; a single v3.3.6 UI refresh regression accounts for more community votes than all other defect categories combined; creation-time ticket features have no predictive power for resolution outcome.
 
 ## Pipeline
 

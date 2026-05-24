@@ -1,0 +1,62 @@
+﻿Loaded: 1000 unique tickets
+Spam filter: 1000 -> 826 tickets  (174 removed)
+
+======================================================================
+N=8  recon=26.2  unclassified @0.05=5.0%  @0.07=10.7%
+Sizes: [np.int64(152), np.int64(147), np.int64(103), np.int64(97), np.int64(94), np.int64(84), np.int64(82), np.int64(67)]
+  T01 n= 67: remote, bitbucket, account, repositories, server, bitbucket server, settings, github, remote repositories, list
+  T02 n=147: file, files, diff, view, changes, stage, unstaged, staged, status, file status
+  T03 n=103: branch, push, branches, local, origin, remote branch, master, local branch, new branch, remote
+  T04 n=152: version, update, latest, start, install, latest version, app, exe, installation, does
+  T05 n= 84: error, pull, failed, log, unable, password, try, message, getting, authentication
+  T06 n= 82: git, terminal, lfs, open, git lfs, embedded, add, command, button, version
+  T07 n= 94: commit, text, message, commit message, history, rebase, commits, window, time, allow
+  T08 n= 97: repository, clone, crashes, cloning, repo, crash, application, remote repository, path, opening
+
+======================================================================
+N=10  recon=25.9  unclassified @0.05=4.2%  @0.07=7.9%
+Sizes: [np.int64(139), np.int64(119), np.int64(95), np.int64(85), np.int64(75), np.int64(75), np.int64(72), np.int64(69), np.int64(63), np.int64(34)]
+  T01 n= 34: open, click, menu, button, window, right, context, tab, right click, context menu
+  T02 n=139: file, files, diff, view, changes, stage, staged, unstaged, status, file status
+  T03 n= 95: branch, push, branches, origin, local, remote branch, master, local branch, remote, new branch
+  T04 n=119: version, update, latest, start, install, latest version, app, exe, installation, does
+  T05 n= 63: error, pull, failed, log, unable, message, getting, try, error message, fetch
+  T06 n= 69: git, lfs, terminal, git lfs, embedded, command, add, version, open, config
+  T07 n= 75: commit, message, commit message, history, text, commits, rebase, time, allow, current
+  T08 n= 75: repository, clone, crashes, cloning, repo, crash, remote repository, application, path, url
+  T09 n= 72: repositories, remote, remote repositories, list, repos, tab, local, showing, repository, user
+  T10 n= 85: bitbucket, account, server, bitbucket server, authentication, remote, settings, login, url, password
+
+======================================================================
+N=12  recon=25.6  unclassified @0.05=3.1%  @0.07=7.1%
+Sizes: [np.int64(126), np.int64(94), np.int64(87), np.int64(75), np.int64(74), np.int64(74), np.int64(66), np.int64(60), np.int64(55), np.int64(47), np.int64(47), np.int64(21)]
+  T01 n= 21: menu, click, open, right, button, window, context, right click, context menu, dark
+  T02 n=126: file, files, diff, view, changes, stage, unstaged, staged, status, file status
+  T03 n= 87: branch, push, branches, origin, local, remote branch, master, local branch, remote, changes
+  T04 n= 74: version, update, latest, latest version, refresh, updated, sharpcompress readers, sharpcompress, readers, affects
+  T05 n= 55: error, pull, failed, log, message, unable, error message, fetch, getting, try
+  T06 n= 66: git, lfs, terminal, git lfs, embedded, open, command, add, version, option
+  T07 n= 75: commit, message, commit message, history, text, commits, rebase, time, current, allow
+  T08 n= 47: clone, repository, cloning, repo, remote repository, path, command, url, unable, try
+  T09 n= 74: repositories, remote, remote repositories, list, repos, tab, local, showing, tabs, user
+  T10 n= 60: bitbucket, account, server, bitbucket server, remote, authentication, settings, url, github, password
+  T11 n= 47: crashes, application, crash, opening, app, checkout, launch, closes, seconds, cloning
+  T12 n= 94: install, start, installation, exe, installer, app, atlassian, does, run, version
+
+======================================================================
+N=14  recon=25.3  unclassified @0.05=2.8%  @0.07=5.6%
+Sizes: [np.int64(120), np.int64(102), np.int64(68), np.int64(62), np.int64(61), np.int64(60), np.int64(58), np.int64(56), np.int64(52), np.int64(49), np.int64(42), np.int64(42), np.int64(40), np.int64(14)]
+  T01 n= 14: bitbucket, account, server, bitbucket server, authentication, settings, remote, login, url, password
+  T02 n=120: file, files, diff, view, changes, stage, unstaged, staged, status, file status
+  T03 n= 62: branch, branches, master, local, remote branch, checkout, local branch, origin, new branch, new
+  T04 n= 61: version, update, latest, latest version, refresh, updated, affects, versions, sharpcompress, sharpcompress readers
+  T05 n= 40: error, log, failed, message, try, error message, password, getting, authentication, code
+  T06 n= 56: git, lfs, terminal, git lfs, embedded, command, version, config, option, flow
+  T07 n= 60: commit, message, commit message, history, text, commits, rebase, time, copy, does
+  T08 n= 58: repository, clone, crashes, cloning, remote repository, crash, path, url, repo, application
+  T09 n= 52: repositories, remote, remote repositories, list, repos, showing, github, sort, user, local
+  T10 n= 49: push, changes, force, branches, select, pushing, dialog, origin, remote, checkbox
+  T11 n= 42: menu, click, right, context, context menu, dark, right click, button, text, mode
+  T12 n=102: start, install, exe, installation, app, application, installer, crashes, version, installed
+  T13 n= 68: open, repo, tab, tabs, opened, add, close, local, submodule, time
+  T14 n= 42: pull, request, pull request, create, unable, web, time, fetch, browser, remote

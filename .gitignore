@@ -4,6 +4,10 @@
 # Large data files (not tracked)
 data/votes.db
 data/fec_bulk/
+jira/data/
+
+# JIRA pipeline build outputs (regenerable via jira/step_05_presentation.py)
+jira/output/
 
 # Plotly HTML outputs (~5 MB each; regenerable via pipeline)
 output/*.html

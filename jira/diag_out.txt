@@ -1,0 +1,38 @@
+﻿=== Tickets where TARGET terms appear in SUMMARY ===
+Count: 0
+
+=== Tickets where TARGET terms appear in DESCRIPTION only (not summary) ===
+Count: 40
+
+  [SRCTREEWIN-14170] refusing to allow an OAuth App to create or update workflow `.github/workflows/p
+  Lines with target term: 1
+  Stripped by regex: 0
+  Kept (not stripped): 1
+    KEPT: I had try remove the existing account and re-OAuth, but not work. Sourcetree: `3.3.4`OS: `Win11 22H2`Git: `System Git Ve
+
+  [SRCTREEWIN-14001]  Authentication failed when attempting Fetch command
+  Lines with target term: 1
+  Stripped by regex: 0
+  Kept (not stripped): 1
+    KEPT: Receiving following error when attempting Fetch command.git -c diff.mnemonicprefix=false -c core.quotepath=false --no-op
+
+  [SRCTREEWIN-13998] Add an option to disable `git lfs ls-files` on startup
+  Lines with target term: 1
+  Stripped by regex: 0
+  Kept (not stripped): 1
+    KEPT: Our team is working on a Unity game project with over 130,000 large binary files stored via LFS (3D models, textures, an
+
+  [SRCTREEWIN-13980] Pull & Push now fails after Atlassian Logon window opens on SourceTree push
+  Lines with target term: 1
+  Stripped by regex: 0
+  Kept (not stripped): 1
+    KEPT: Pushing with Sourcetree (v3.4.11) to repo (that last worked 18 Jan 2023) results in:git -c diff.mnemonicprefix=false -c 
+
+  [SRCTREEWIN-13910] Authentication Error in stash (Bitbucket Server)
+  Lines with target term: 1
+  Stripped by regex: 0
+  Kept (not stripped): 1
+    KEPT: I changed my password in my company AD, but since then I have authentication errors when trying to fetching or cloning.I
+
+=== How many description lines does _GITCFG match overall? ===
+Total lines matched by _GITCFG: 0
