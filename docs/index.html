@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CIDA</title>
+<style>
+  :root {
+    --text: #1a1a1a;
+    --text-muted: #5a5a6e;
+    --bg: #ffffff;
+    --bg-subtle: #f7f7fb;
+    --border: #dddde8;
+    --accent: #2563eb;
+    --font: system-ui, -apple-system, "Segoe UI", sans-serif;
+    --font-mono: "JetBrains Mono", "Fira Code", "Cascadia Code", ui-monospace, monospace;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { font-size: 16px; }
+  body { font-family: var(--font); color: var(--text); background: var(--bg); line-height: 1.65; }
+  main { max-width: 760px; margin: 0 auto; padding: 4rem 2rem 5rem; }
+  h1 { font-size: 1.9rem; font-weight: 700; margin-bottom: 0.5rem; }
+  .subtitle { color: var(--text-muted); font-size: 1.02rem; max-width: 620px; }
+  .lede { margin-top: 1.75rem; font-size: 0.97rem; max-width: 640px; }
+  .lede p { margin-bottom: 0.9rem; }
+  .lede a { color: var(--accent); }
+  h2 { font-size: 1.05rem; font-weight: 600; margin: 2.5rem 0 1rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.04em; font-size: 0.8rem; }
+  .card-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; }
+  .card { border: 1px solid var(--border); border-radius: 6px; padding: 1.4rem 1.5rem; text-decoration: none; color: inherit; display: block; transition: border-color 0.15s, box-shadow 0.15s; }
+  .card:hover { border-color: #888; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+  .card-tag { font-family: var(--font-mono); font-size: 0.72rem; color: var(--accent); text-transform: uppercase; letter-spacing: 0.05em; }
+  .card h3 { font-size: 1.05rem; font-weight: 600; margin: 0.4rem 0 0.5rem; }
+  .card p { font-size: 0.88rem; color: var(--text-muted); }
+  footer { border-top: 1px solid var(--border); margin-top: 3.5rem; padding-top: 1.5rem; font-size: 0.8rem; color: var(--text-muted); }
+  footer a { color: var(--text-muted); }
+  @media (max-width: 600px) {
+    .card-grid { grid-template-columns: 1fr; }
+    main { padding: 2.5rem 1.25rem 4rem; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>CIDA</h1>
+  <p class="subtitle">Latent dimension discovery, applied to two different kinds of data.</p>
+
+  <div class="lede">
+    <p>CIDA started as an analysis of how members of Congress vote — looking for patterns in roll-call data that don't line up with party. The same approach (reduce a large set of individual decisions to a small number of underlying axes, then check what those axes correlate with) turned out to work on a second, unrelated dataset: a decade of public bug reports for a Git client. Same acronym, different subject: Congressional Interest Dimension Analysis in iteration 1, Customer Issue Dimension Analysis in iteration 2.</p>
+    <p>Both iterations are self-contained. Neither depends on the other's data or conclusions.</p>
+  </div>
+
+  <h2>Iterations</h2>
+  <div class="card-grid">
+    <a class="card" href="iteration-1/index.html">
+      <span class="card-tag">Iteration 1</span>
+      <h3>Congressional Interest Dimension Analysis</h3>
+      <p>PCA over 118th Congress roll-call votes (354 House, 85 Senate), checked against DW-NOMINATE and FEC contribution data. Finds a House voting dimension independent of party and of both existing NOMINATE axes.</p>
+    </a>
+    <a class="card" href="iteration-2/index.html">
+      <span class="card-tag">Iteration 2</span>
+      <h3>Customer Issue Dimension Analysis</h3>
+      <p>NMF and PCA over 1,000 public Sourcetree for Windows bug tickets (2013–2023). Finds that half the backlog was never triaged and that resolution depends on team decisions, not ticket content.</p>
+    </a>
+  </div>
+
+  <footer>
+    CIDA project &nbsp;·&nbsp; <a href="https://github.com">Source</a>
+  </footer>
+</main>
+</body>
+</html>
