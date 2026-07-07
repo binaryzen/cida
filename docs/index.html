@@ -42,11 +42,12 @@
 <body>
 <main>
   <h1>CIDA</h1>
-  <p class="subtitle">Latent dimension discovery, applied to two different kinds of data.</p>
+  <p class="subtitle">Two independent applications of the same underlying method.</p>
 
   <div class="lede">
-    <p>CIDA started as an analysis of how members of Congress vote — looking for patterns in roll-call data that don't line up with party. The same approach (reduce a large set of individual decisions to a small number of underlying axes, then check what those axes correlate with) turned out to work on a second, unrelated dataset: a decade of public bug reports for a Git client. Same acronym, different subject: Congressional Interest Dimension Analysis in iteration 1, Customer Issue Dimension Analysis in iteration 2.</p>
-    <p>Both iterations are self-contained. Neither depends on the other's data or conclusions.</p>
+    <p>Both projects start from the same shape of problem: a large set of individual decisions with no built-in grouping. 439 members of the 118th Congress casting roll-call votes. 1,000 public bug reports filed against a Git client over nearly a decade. Neither dataset comes labeled with the axes that actually explain the variation, so the first step is unsupervised — reduce the raw votes or the raw ticket text down to a handful of components (PCA for the votes, NMF for the text) that account for most of what differs from one record to the next.</p>
+    <p>What matters more is what happens after that reduction. Each component gets checked against data the decomposition never saw. The congressional components are compared against DW-NOMINATE, an independent ideology score built from a different methodology, and against FEC contribution records. The ticket components are compared against resolution outcome and triage status, fields the topic model was never shown. In both cases, at least one component holds up under that check and turns out to be doing something the obvious explanatory variable — party, product priority — doesn't capture by itself.</p>
+    <p>None of this depends on Congress or bug trackers specifically. The same recipe applies to any domain with a large number of comparable individual decisions or texts, plus a second, independent dataset to test the resulting structure against: judicial opinions and case outcomes, product reviews and return rates, clinical notes and readmission records. Whether it finds anything worth reporting in a given domain depends entirely on whether real structure connects the two datasets — the method doesn't guarantee that, it just gives you a way to check.</p>
   </div>
 
   <h2>Iterations</h2>
