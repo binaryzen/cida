@@ -128,6 +128,10 @@ Legislators present for fewer than 50% of filtered votes are excluded and docume
 
 **Exclude:** `quorum`, `procedural`, `leadership`, `election`
 
+## Writing Style
+
+See `tone_steering_general.md` for prose style rules — applies to any generated docs, READMEs, methodology logs, or site copy (e.g. `docs/`).
+
 ## Ollama Prompt Template (Step 5)
 
 ```
